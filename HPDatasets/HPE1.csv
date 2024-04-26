@@ -1,0 +1,1219 @@
+Start,End,Text,Character,SentenceIndex
+7.968,9.886,"You can get the lights back up today, right?",5.0,0
+11.471,13.223,"Seok-hyeong, I'm holding a cup of coffee.",5.0,1
+13.974,14.975,Sorry.,4.0,2
+24.318,25.819,How long has this place been empty?,5.0,3
+25.902,27.904,"Gosh, look at all this dust.",5.0,4
+30.741,32.784,-About three to four years? -Gosh.,4.0,5
+37.956,39.374,I feel like I'm in a club.,5.0,6
+41.209,42.377,That light will burn out soon.,5.0,7
+43.754,44.588,Goodness.,5.0,8
+51.219,53.138,"Mom, the power went out again.",4.0,9
+53.847,55.265,Can you get a technician quickly?,5.0,10
+55.766,56.683,I see.,5.0,11
+57.351,58.894,"He'll be here shortly, then.",5.0,12
+59.269,60.562,Okay.,4.0,13
+62.064,65.025,Why didn't you also ask her if it's okay for you to drink coffee?,4.0,14
+65.108,66.568,She said one cup a day is okay.,4.0,15
+71.281,72.949,You haven't thrown those out yet.,5.0,16
+73.033,74.326,Why would I throw them out?,4.0,17
+75.118,77.162,"By the way, are you really not going to do it?",4.0,18
+77.245,79.956,"Gosh, no. Of course not.",5.0,19
+80.54,81.625,Then why are you here?,5.0,20
+81.708,83.877,To see you. I was worried about you.,5.0,21
+84.419,85.712,Then just do it.,4.0,22
+86.296,87.756,You just need Ik-jun.,5.0,23
+88.34,89.841,You don't need me.,5.0,24
+90.55,92.052,He said no.,4.0,25
+92.135,93.887,Seriously? He won't?,5.0,26
+96.515,97.682,I won't do it either.,5.0,27
+98.392,101.645,I don't have time anyway. I need to help my guys with their thesis.,5.0,28
+101.728,104.314,-Help me too. -Why should I?,5.0,29
+104.94,107.818,"By the way, did you see Ji-eun today?",5.0,30
+108.61,109.444,Yes.,4.0,31
+110.529,111.905,Did you buy her things that she likes?,5.0,32
+112.531,113.532,I bought her some food,4.0,33
+113.615,117.077,and gave her a Bluetooth speaker so that she can listen to music.,5.0,34
+117.16,120.122,If only you were half as nice as that to your friends.,4.0,35
+121.456,122.749,Did the lights go out again?,,36
+124.0,126.837,Yes. This one was flickering for a bit and burned out.,4.0,37
+128.922,131.425,"Gosh, it looks like you probably should redo all the wiring.",,38
+131.842,133.635,"We'll get this working temporarily,",,39
+133.718,135.679,-but call a bigger company if it reoccurs. -Okay.,,40
+135.762,138.849,You could've worked on my room tomorrow. You didn't have to work so late.,4.0,41
+139.057,140.225,Thank you.,,42
+140.308,141.893,"-All right. -Oh, no.",,43
+143.228,144.354,"Be careful, sir.",4.0,44
+144.438,146.982,"Sir, you should shut off the breaker before you do that.",5.0,45
+147.065,149.734,You're not even wearing gloves. You'll get an electric shock.,5.0,46
+153.864,155.073,Call an ambulance.,5.0,47
+160.912,162.789,Are you all right? Are you in pain?,5.0,48
+163.582,166.543,Hello? The address here is 33-1 Jogang-dong.,4.0,49
+166.626,168.211,A man collapsed due to an electric shock.,4.0,50
+168.295,170.505,"Get here quickly, please. As soon as possible.",4.0,51
+170.589,172.424,Are you having difficulty breathing?,5.0,52
+173.55,177.429,My goodness. What's happening?,,53
+177.846,178.722,Goodness.,,54
+180.849,183.81,"Oh, no. What's happening to him?",,55
+192.11,193.278,Here!,,56
+194.237,195.155,We're here!,,57
+195.906,196.907,Here!,,58
+197.282,198.116,Sir.,5.0,59
+199.409,200.66,Sir?,5.0,60
+202.12,204.873,"Sir, do you know where you are now?",5.0,61
+210.795,213.507,"Just leave him there, please. You did great.",,62
+224.893,226.937,"Hey, I'll be back soon.",,63
+228.855,232.108,He had an electric shock seven minutes ago and got a mild burn on his right hand.,5.0,64
+232.192,233.86,I performed CPR for two minutes.,5.0,65
+233.944,236.488,"His heart is pumping again, but it's not stable yet.",5.0,66
+236.571,238.198,-Are you a doctor? -Yes.,,67
+239.366,241.743,His vitals seem unstable.,5.0,68
+241.826,244.162,-Could you come with us? -I got an emergency call.,5.0,69
+244.246,246.289,Another doctor will accompany you.,5.0,70
+248.959,250.085,That one.,5.0,71
+253.338,254.172,Are you all right?,,72
+257.259,259.469,"You were extremely lucky, man.",,73
+259.803,261.68,Both of them happened to be doctors.,,74
+262.681,264.015,"You can hear me, right?",,75
+271.565,273.024,Both his BP and pulse are okay now.,,76
+273.483,274.401,I see.,,77
+276.736,278.738,Why is he shivering like this though?,,78
+280.115,282.075,"Hey, are you okay?",,79
+290.5,291.96,He's just cold.,,80
+295.505,297.34,Excuse me. Can you please turn up the heater?,4.0,81
+299.759,301.261,Can you message him or something?,4.0,82
+303.43,304.973,Tell him to jack up the heater.,4.0,83
+320.572,323.199,"Seok-hyeong texted you, right? I said I'd do it.",1.0,84
+323.783,325.952,"-My answer is no. -So, you got his text?",2.0,85
+326.036,327.829,"No, that's what I'll say if he does.",1.0,86
+327.996,329.956,"I mean, aren't we too old for that?",2.0,87
+330.04,333.251,I'd much rather go see my girlfriend. Why would I see you guys?,2.0,88
+333.335,335.754,"Hey, are you getting engaged today or something?",1.0,89
+335.837,337.922,Why get all dressed up just to see your girlfriend?,2.0,90
+338.006,341.384,I made a reservation at a romantic place in Busan with an ocean view.,2.0,91
+341.468,345.096,"Good for you. You're going on a date, while I'm just going to work.",1.0,92
+345.347,348.475,"-By the way, how will you get there? -By my girlfriend's car.",1.0,93
+349.267,351.519,There she is. Pull over.,1.0,94
+354.147,356.9,It looks like she's still drunk.,1.0,95
+356.983,359.486,She pulled an all-nighter. And we're leaving right away.,2.0,96
+359.569,361.446,"-Hey, you should drive. -All right.",1.0,97
+361.529,362.947,-Hey. -Yes.,1.0,98
+363.615,365.283,Work hard.,,99
+365.867,367.118,You prick.,1.0,100
+367.202,368.787,"According to my research,",,101
+368.87,370.664,Daeseong Hospital uses,,102
+370.747,375.377,a non-surgical procedure to treat intussusception.,,103
+376.294,378.088,I've explained to you just now.,1.0,104
+378.171,381.549,"As for Bit-na, it's likely that necrosis has already begun.",1.0,105
+381.633,383.343,"So surgery is the only option, ma'am.",1.0,106
+384.01,386.721,"You're sure, right? Can she actually undergo the surgery?",,107
+386.805,389.14,"She definitely needs the surgery, ma'am.",1.0,108
+390.517,394.104,I read on the Internet that it stops kids from growing taller after the surgery.,,109
+395.23,396.564,Don't believe things like that.,1.0,110
+396.648,398.775,Just go to the reception and have them book her surgery.,1.0,111
+399.359,400.485,Okay.,,112
+400.61,403.53,"-Then I'll trust you and-- -According to my research,",,113
+403.613,407.826,Daeseong Hospital uses a non-surgical procedure to treat...,,114
+408.618,411.204,Do we have a room for Bit-na? Call the ward again.,,115
+411.287,412.163,"Yes, sir.",,116
+412.747,414.666,Please take good care of Bit-na.,,117
+414.749,416.418,-Thank you. -No problem.,,118
+420.338,423.758,"Dong-min, can we pull up your top for a moment?",,119
+425.593,427.22,"Just once, please.",,120
+429.764,432.934,"My gosh, Teddy Bear. You're here because of a stomachache?",1.0,121
+433.476,434.644,Let me have a look.,1.0,122
+435.311,439.232,"Yes, doctor. My stomach hurts so much.",,123
+439.315,440.942,Let's see. What?,1.0,124
+441.025,445.321,"Wow, this took all the pain away. You're totally fine now, right?",1.0,125
+445.405,447.907,"Yes, I'm fine now.",,126
+447.991,449.743,"All right, then.",1.0,127
+449.951,453.246,Let's check your mom's stomach now.,1.0,128
+453.913,456.583,"Doctor, I already feel much better.",,129
+456.666,458.168,I'm totally fine now.,,130
+458.835,462.922,All right. Then who's next?,1.0,131
+464.34,466.551,"-Dong-min, you want to try it? -You want to go next?",1.0,132
+466.634,470.388,Let's see. Good boy. You're such a good boy.,1.0,133
+477.479,478.563,Is this Busan?,1.0,134
+478.646,480.899,I bet I got here before you did.,2.0,135
+481.274,482.358,Let's have dinner together.,1.0,136
+482.442,484.152,Okay. I just need to check on a patient first.,2.0,137
+484.235,486.488,-Doors are closing. -Take it easy.,1.0,138
+488.114,489.908,Who's in charge of Room 513?,2.0,139
+491.242,493.495,Then who worked last night? You?,2.0,140
+495.038,497.582,Who prescribed the fever reducer to Kim Suk-hui in Room 513?,2.0,141
+498.124,499.834,"-It must've been you. -No, it wasn't me.",,142
+501.002,501.961,Then was it you?,2.0,143
+502.67,505.381,"No, not a chance. I don't even know what she looks like.",4.0,144
+505.465,506.925,Right? You've never even seen her.,2.0,145
+507.008,509.803,You prescribed it without even seeing her because you wanted to sleep.,2.0,146
+510.887,513.056,How dare you prescribe without seeing her?,2.0,147
+513.348,515.225,Are you that confident as a doctor?,2.0,148
+515.934,518.812,"If you don't want to be a doctor, just tell me. Don't waste my time.",2.0,149
+519.813,520.647,Do you understand?,2.0,150
+521.731,522.982,-I'm sorry. -I'm sorry.,4.0,151
+525.527,526.361,Hey.,2.0,152
+527.779,528.738,Why all of a sudden?,2.0,153
+529.322,530.532,"Okay, I'll be right there.",2.0,154
+533.618,534.786,Come on! Let's go.,2.0,155
+541.918,544.254,"Dr. Kim, the patient was hooked up to the ECMO,",,156
+544.337,547.215,"but she developed pulmonary edema, so we intubated her.",,157
+547.298,549.676,We looked at the echo but her heart was barely beating.,,158
+549.759,551.761,But Eun-a was okay up until yesterday.,2.0,159
+551.845,553.972,We were going to remove ECMO and move her to the ward.,2.0,160
+554.597,556.391,-Does her family know? -Yes.,2.0,161
+567.277,568.653,"Please spare us a moment, ma'am.",2.0,162
+569.821,573.241,Eun-a has developed pulmonary edema as her heart is not functioning well.,2.0,163
+573.324,574.868,ECMO isn't enough anymore.,2.0,164
+575.451,577.537,An artificial heart will be better,2.0,165
+577.62,579.789,in reducing the pressure on her left ventricle.,2.0,166
+579.873,582.041,She needs surgery either today or tomorrow.,2.0,167
+582.25,583.751,"My gosh, what should I do?",,168
+584.252,588.214,"Doctor, we can't afford to pay for the surgery at the moment.",,169
+588.798,590.341,It'll cost a fortune.,,170
+591.217,592.343,Where can I get the money?,,171
+592.427,595.054,"Doctor, please give me a week.",,172
+595.138,597.849,Then I'll figure out a way to get some money no matter what.,,173
+598.433,600.727,Please... My Eun-a...,,174
+601.519,603.313,Please save her.,,175
+603.897,606.524,We can't really wait though. She needs surgery immediately.,2.0,176
+606.608,608.067,"If we wait, she may not make it.",2.0,177
+608.651,609.903,"What do I do, then?",,178
+611.529,614.157,"Don't worry. We have many programs to support our patients,",2.0,179
+614.24,617.535,so I'm sure Eun-a can get the surgery. And we can do it right away.,2.0,180
+617.785,619.078,"Hey, look into it.",2.0,181
+623.041,626.294,"-Hey, call them now. -Yes, sir.",2.0,182
+626.92,628.212,CARDIOTHORACIC SURGERY CHAT ROOM,,183
+628.296,630.048,"5-YEAR-OLD GIRL, DCMP",,184
+630.131,632.008,WHERE SHOULD I CALL?,,185
+634.886,636.888,I have to do the surgery and take care of this?,2.0,186
+636.971,638.181,What do you do?,2.0,187
+640.058,642.852,Hello? This is Kim Jun-wan from Cardiothoracic Surgery.,2.0,188
+643.561,645.813,Can we get some help from the Daddy-Long-Legs Program?,2.0,189
+647.398,648.441,"Just a second, please.",2.0,190
+651.986,653.488,SOCIAL SERVICES OFFICE,,191
+655.531,658.534,"Hello. I'm Lee Seok-hyeon, a cardiothoracic surgery resident.",,192
+658.618,661.037,Could you help one of our patients with her surgery costs?,,193
+661.788,664.457,We can't wait. She needs surgery immediately.,,194
+665.291,668.544,"Yes, can the Daddy-Long-Legs Program help her finance it?",,195
+669.42,670.588,She's five.,,196
+671.005,673.132,It's for implanting a ventricular assist device.,,197
+679.43,681.849,What did you order? Did you order tteokbokki again?,1.0,198
+681.933,683.184,When can we find out?,2.0,199
+683.768,684.686,Go ahead and eat.,2.0,200
+685.979,687.605,"Hey, why didn't you order burgers instead?",1.0,201
+687.689,689.899,"I got level one, so it won't be spicy. Just eat, will you?",2.0,202
+690.149,691.317,You haven't texted them yet?,2.0,203
+691.401,694.696,We had to do some final checks. We'll text them now.,,204
+694.779,698.449,"If everything looks good, you'll get the money in a couple of days.",,205
+698.533,702.453,I see. Please let me know as soon as you hear from them. Thank you.,2.0,206
+703.788,704.789,"It's not spicy, right?",2.0,207
+704.872,707.375,You don't find this spicy? You need to see a doctor.,1.0,208
+707.458,708.71,"No, that will cost me.",2.0,209
+712.171,713.589,I'll probably get a call soon.,2.0,210
+713.715,716.342,"-See? Tteokbokki was a good call. -Just answer that, prick.",1.0,211
+716.426,718.72,"Gosh, today's been a disaster.",2.0,212
+720.972,723.641,"Hey, I'm still at the hospital.",2.0,213
+724.058,725.184,I'm going to leave now.,2.0,214
+725.852,727.02,"Yes, where are you?",2.0,215
+729.856,731.524,Why? I didn't eat anything. Right.,2.0,216
+731.607,732.442,Of course.,2.0,217
+732.525,734.485,-Where are you? -What do you think?,1.0,218
+735.028,736.362,What are you doing this weekend?,1.0,219
+736.446,738.614,I've got a date. Professor Jang is free this weekend.,,220
+739.115,741.075,Everyone's going on a date.,1.0,221
+741.242,743.036,Is Jun-wan still seeing that girl?,,222
+743.536,744.746,This one's lasting for a while.,,223
+744.912,746.873,Why did you call? I bet it's about Seok-hyeong.,,224
+747.248,748.374,I already said no.,,225
+748.458,750.668,"No. As for that fool, we can just ignore him.",1.0,226
+751.252,753.379,I have a favor to ask.,1.0,227
+754.005,756.174,"-Is everything okay? -Yes, everything's fine.",1.0,228
+756.549,758.217,There's something I've been working on.,1.0,229
+759.343,761.804,You know what? Let's talk in person. You should go home.,1.0,230
+761.888,763.681,I'm going home early for a change.,1.0,231
+764.891,767.393,-What's up? -Min-yeong's vitals aren't looking good.,1.0,232
+767.477,768.644,I have to go.,1.0,233
+768.978,770.813,-What's going on? -Her BP keeps dropping.,1.0,234
+770.897,773.357,It's not getting better even after a full 100ml bag of saline.,,235
+773.441,776.903,"-Has she gotten norepinephrine? -Yes, but her vitals are still unstable.",1.0,236
+779.405,781.908,It doesn't sound like you can go home tonight.,5.0,237
+792.001,794.796,YULJE'S CHAIRMAN AHN BYEONG-U UNCONSCIOUS DUE TO BRAIN HEMORRHAGE,,238
+795.171,796.589,CHAIRMAN AHN HAS FALLEN INTO A COMA,,239
+800.259,802.47,WILL HIS THIRD SON TAKE OVER YULJE MEDICAL CENTER?,,240
+804.263,808.351,ALL EYES ARE ON WHO WILL BE THE NEXT LEADER OF YULJE FOUNDATION,,241
+811.729,813.189,"Yes, sir.",5.0,242
+815.024,816.442,I read the article.,5.0,243
+816.651,818.82,I have to stay with the chairman all night.,,244
+818.903,822.156,"So take care of the craniectomy for the subdural hematoma patient,",,245
+822.24,824.033,as well as the VP shunt surgery tomorrow.,,246
+824.117,825.493,"Yes, sir.",5.0,247
+825.91,827.912,But are you all right?,5.0,248
+828.121,831.749,"No, everyone's getting ready for the worst-case scenario. It's hard.",,249
+849.392,852.311,"-Hello, how are you? -Not well, obviously.",,250
+853.646,855.022,"My apologies, ma'am.",,251
+855.106,857.024,No need to apologize. It is what it is.,,252
+857.108,858.276,Don't worry about it.,,253
+859.026,860.736,He's the director of the hospital.,,254
+861.362,863.781,And he is in charge of the Brain Center.,,255
+863.865,865.741,Is that important now?,,256
+866.2,868.786,Right. It's nice to meet you anyway.,,257
+870.496,872.123,Will he not make it?,,258
+872.707,874.625,"Frankly, it won't be easy.",,259
+874.709,876.377,But we'll do our very best.,,260
+877.044,878.045,"Mr. Pyeon, you're here.",,261
+878.838,880.798,What on earth happened?,,262
+882.925,884.844,"Ma'am, please spare me a moment.",,263
+892.476,894.979,"Mr. Ju, why don't we have some coffee in my office?",,264
+896.063,897.398,Don't worry about things here.,,265
+898.191,900.151,DIRECTOR JU JEON,,266
+904.155,907.408,"-Hey, come and have some coffee. -Oh, I was going to do it.",,267
+907.491,909.076,What's the point of saying that now?,,268
+910.203,911.829,"Hey, come join us.",,269
+919.337,920.755,The night view is awesome.,,270
+921.672,923.925,Can you actually enjoy the night view right now?,,271
+924.133,927.72,That punk who's still wet behind the ears is about to inherit the hospital.,,272
+928.471,929.722,He's 40. He's not that young.,,273
+930.306,931.599,Will the hospital,,274
+931.682,934.602,fall into the hands of his youngest son who's a doctor?,,275
+934.685,936.604,I bet he hasn't even written his will yet.,,276
+936.687,937.98,"Even if he has one,",,277
+938.064,940.149,the board will have to vote to make the decision.,,278
+940.233,943.444,But they may vote to appoint Mr. Ju to the position.,,279
+944.403,947.573,"I think you should call the board members, ma'am.",,280
+948.199,950.201,Even better if Andrea can call them himself.,,281
+952.954,956.874,"I'm sure things will go smoothly, but just in case. I mean, you never know.",,282
+957.458,960.795,I suggest you call Chairman Hwang first thing tomorrow.,,283
+960.878,962.88,"It's because of Mr. Ju, isn't it?",,284
+964.215,966.717,All the board members are Chairman Ahn's people.,,285
+966.801,970.388,The other members tend to follow Chairman Hwang's lead.,,286
+970.471,972.014,He's Chairman Ahn's friend for 30 years.,,287
+973.391,975.977,Chairman Ahn's wife just needs to make one phone call to him.,,288
+976.56,977.561,Then it's game over.,,289
+978.729,981.857,Chairman Ahn is such a wonderful person.,,290
+983.15,985.778,"But he, too, is a greedy man after all.",,291
+986.821,988.197,You can't call him greedy for this.,,292
+988.281,990.658,He's donated most of his assets.,,293
+992.159,994.87,Why did you pick the foundation to begin with?,,294
+995.162,998.416,"As for all the other subsidiaries, they hired management specialists.",,295
+999.458,1003.629,"Jeez, I thought I'd ride on my cousin's coattails for the first time ever.",,296
+1006.549,1008.426,We don't know yet.,,297
+1011.929,1014.265,I should do my best.,,298
+1017.435,1019.895,I called them a while ago. Why aren't they here yet?,,299
+1020.479,1022.189,I taught my children wrong.,,300
+1022.94,1024.066,There he is.,,301
+1029.989,1031.449,Where did Mr. Ju go?,,302
+1031.824,1033.492,He probably went to his wife's office.,,303
+1033.576,1038.539,What an eventful year this has been for him.,,304
+1040.75,1042.126,"By the way,",,305
+1042.418,1045.046,why would Chairman Ahn pass the hospital down to his youngest son?,,306
+1045.129,1046.589,I heard he has three sons.,,307
+1047.923,1050.134,Did the elder ones cause trouble or something?,,308
+1050.217,1051.969,Is next week your last week here?,,309
+1052.053,1053.971,-Yes. -Back to your hometown?,,310
+1054.764,1057.892,I suppose you really have no interest in worldly matters.,,311
+1058.142,1060.186,Even little kids would know the answer to that.,,312
+1061.562,1062.563,"As for his eldest son,",,313
+1063.481,1065.524,he's too busy with his current job.,,314
+1069.153,1070.071,Hello.,,315
+1072.99,1073.908,"Hey, you came.",,316
+1075.368,1076.243,Hi.,,317
+1077.578,1079.789,"Mom, are you all right?",,318
+1079.872,1083.834,-What about his second son? -He assists someone who's very high up.,,319
+1105.189,1106.816,Doesn't he also have a daughter?,,320
+1107.9,1109.652,She's the same.,,321
+1116.283,1117.326,It's been a while.,,322
+1119.912,1121.038,Dad...,,323
+1123.082,1124.834,His second daughter too?,,324
+1138.973,1140.641,Is my youngest son coming or what?,,325
+1141.475,1143.894,"At this rate, he'll get here after your dad's funeral.",,326
+1143.978,1147.982,"Mom, Andrea is in the elevator now.",,327
+1148.858,1151.152,Finally. Your brothers and sisters are all here.,,328
+1164.54,1166.792,"My youngest son, please spare me a second.",,329
+1166.876,1168.544,YULJE MEDICAL CENTER,,330
+1168.627,1170.838,"-You told him, right? -Yes.",,331
+1171.755,1173.591,It would be a good idea to call him now.,,332
+1173.674,1176.51,"I know it's late, but he'll answer because he's a businessman.",,333
+1176.594,1178.179,I told him to call him right away.,,334
+1178.888,1181.223,He's the only one that actually listens to my advice.,,335
+1181.557,1183.142,He's the most reasonable of them all.,,336
+1183.684,1186.77,The number you've called is busy. Please leave a message...,,337
+1186.854,1189.315,He's been on the phone for so long already.,,338
+1191.025,1194.111,You probably didn't get any sleep. Go get some sleep.,,339
+1199.909,1201.243,Do you smoke?,,340
+1201.994,1203.078,Since when?,,341
+1204.58,1207.5,"Jeez, you're a doctor. You shouldn't be smoking. My goodness.",,342
+1209.293,1210.503,Good.,,343
+1211.086,1213.839,"Mom, he smokes.",,344
+1214.256,1215.925,I taught him how to smoke 20 years ago.,,345
+1219.094,1220.095,Did you talk to him?,,346
+1257.174,1259.343,"-Have a good day. -Thanks, you too.",5.0,347
+1287.955,1289.582,Ground floor.,,348
+1324.533,1327.244,Such injuries can cause mild bruises and even serious adverse effects.,,349
+1327.369,1329.955,It tends to happen more often at nighttime.,,350
+1330.039,1333.208,"So if you're a guardian, keep an eye on the patient you're looking after.",,351
+1333.626,1336.337,"If you're a patient on high-risk medication,",,352
+1336.42,1339.84,"or if you need to leave your bed at nighttime,",,353
+1340.507,1342.718,please make sure you're accompanied by your guardian,,354
+1343.177,1346.722,or call your nurse for help.,,355
+1346.805,1350.309,Yulje Medical Center will always do its best,,356
+1350.392,1353.604,to ensure all patients' fast recovery. Thank you.,,357
+1353.687,1355.189,PROFESSOR OF NEUROSURGERY CHAE SONG-HWA,,358
+1355.939,1357.9,All right. Open your mouth like this.,5.0,359
+1361.695,1363.781,How does this feel?,5.0,360
+1363.864,1365.074,Both your left and right sides.,5.0,361
+1365.157,1367.451,-Both feel good. -I see.,5.0,362
+1367.618,1370.162,"I was worried you might experience facial palsy, but it looks good.",5.0,363
+1370.245,1371.538,You're doing great.,5.0,364
+1373.165,1375.876,"As for your medication, I'll keep you on the same routine.",5.0,365
+1375.959,1377.795,You can come back in three months.,5.0,366
+1377.878,1379.338,Thank you for coming all the way here.,5.0,367
+1379.922,1380.923,Thank you.,,368
+1381.548,1384.134,"Well, I have something for you.",,369
+1384.718,1386.053,It's just something small.,,370
+1386.428,1388.764,"It's a great book, so I got one for you.",,371
+1390.307,1392.226,Isn't this book amazing? I have one.,5.0,372
+1392.309,1393.727,"You read it too, right?",5.0,373
+1393.811,1396.271,"Yes, I've read it too.",,374
+1397.106,1401.318,-My favorite. -I see. You've already read it.,,375
+1401.944,1403.904,My husband told me to give it to you.,,376
+1404.446,1406.156,"All right, then. I'll see you in three months.",5.0,377
+1406.24,1407.074,Okay.,,378
+1411.62,1414.456,"-Hello, doctor. -Hello, have a seat here.",5.0,379
+1415.499,1417.167,"Mom, sit here.",,380
+1419.211,1420.629,We have the results.,5.0,381
+1423.132,1426.635,"A lump was seen on your CT scan, so you got an MRI done.",5.0,382
+1428.262,1431.265,"Unfortunately, it looks like it might be cancerous,",5.0,383
+1431.348,1432.975,so we'll have to do a biopsy.,5.0,384
+1436.061,1437.855,"You aren't young,",5.0,385
+1437.938,1440.607,"and the location of the tumor isn't ideal,",5.0,386
+1440.691,1443.11,so it'll be quite difficult to remove it surgically.,5.0,387
+1444.528,1448.532,You must've been experiencing severe headaches though.,5.0,388
+1448.866,1450.451,How did you endure the pain?,5.0,389
+1452.494,1454.913,"Can it be treated by surgery, doctor?",,390
+1455.539,1459.501,"No, she needs chemotherapy or radiation therapy.",5.0,391
+1459.585,1462.254,"But before that, we need to do a biopsy to confirm the diagnosis.",5.0,392
+1462.337,1465.841,"I'm suspecting that it's neuroglioma. If I'm right,",5.0,393
+1465.924,1467.718,"and if it's not too bad like grade one or two,",5.0,394
+1467.801,1470.387,the survival rate will be high. Even just with radiation therapy.,5.0,395
+1470.471,1473.015,"If it's grade three or four,",5.0,396
+1474.016,1476.56,we'll have to combine chemotherapy with radiation therapy.,5.0,397
+1477.311,1478.395,But the recurrence rate,5.0,398
+1478.479,1481.315,and the survival rate will be substantially lower.,5.0,399
+1482.357,1483.484,My gosh.,,400
+1484.777,1485.944,What do we do?,,401
+1486.57,1487.738,Mom.,,402
+1488.781,1489.656,Mom.,,403
+1490.073,1492.534,"Gosh, my poor mom.",,404
+1493.368,1494.411,It's okay.,,405
+1495.579,1499.041,"I've lived long enough, so I'm fine.",,406
+1499.124,1500.876,"Gosh, I don't want to hear it.",,407
+1502.669,1506.256,"Oh, Ma'am. It can be treated.",5.0,408
+1506.34,1508.425,"Please don't cry... Oh, my.",5.0,409
+1510.886,1513.43,"First, let's get her admitted so that we can do a biopsy.",5.0,410
+1513.514,1516.642,I'll explain the plan in more detail when we have the results.,5.0,411
+1517.976,1519.561,You need to stay strong for your mother.,5.0,412
+1520.145,1523.065,"I'm sorry, doctor.",,413
+1523.649,1524.858,Thank you.,,414
+1526.193,1527.361,Thank you.,,415
+1534.785,1536.495,I feel bad.,5.0,416
+1539.331,1543.46,"By the way, that patient's daughter. Doesn't she look familiar?",5.0,417
+1544.67,1546.421,I feel like I've seen her somewhere.,5.0,418
+1547.13,1550.175,KANGWOON MEDICAL CENTER PEDIATRIC ICU,,419
+1552.845,1555.013,"Gosh, another skin tear?",,420
+1556.974,1560.435,"Doctor, that last one took a long time to heal.",,421
+1560.686,1561.728,My goodness.,,422
+1562.896,1564.94,"Min-yeong, it must be stinging.",,423
+1565.232,1568.11,"-I'll tell him off. -Her skin is delicate,",,424
+1568.277,1569.903,and she had it on for too long.,,425
+1569.987,1571.572,"My daughter can feel pain too, you know.",,426
+1572.656,1574.283,"Right, I'll be careful from now on.",,427
+1575.367,1576.702,When will the Professor be here?,,428
+1577.327,1581.081,What he prescribed yesterday is so different from what she got last month.,,429
+1581.665,1585.669,She takes Vitamin K and traces elements every Thursday. Why doesn't she anymore?,,430
+1586.503,1588.38,"And as for the blood tests,",,431
+1588.463,1591.55,you used to draw 30ml. Why do you need 70ml now?,,432
+1591.633,1594.845,-She's already exhausted. -I explained everything to you before.,,433
+1596.221,1598.807,-Min-yeong is no longer... -Min-yeong.,1.0,434
+1603.312,1604.521,"Hi, Min-yeong.",1.0,435
+1606.315,1609.276,"Doctor, why did her prescription change?",,436
+1609.776,1612.696,"And last month, she was on the TPN drip for 16 hours last month.",,437
+1612.779,1614.197,Why is it shorter now?,,438
+1615.282,1619.745,And don't you think she looks like she's having trouble breathing?,,439
+1620.412,1623.957,She keeps grimacing too. Something must be bothering her.,,440
+1626.251,1629.588,"Ma'am, Min-yeong doesn't have the strength to hold out for much longer.",1.0,441
+1631.715,1633.425,"I'm sure Dr. Jo already told you,",1.0,442
+1635.844,1637.679,but we should start mentally preparing--,1.0,443
+1637.763,1640.057,What's the problem? I did everything you told me to do.,,444
+1640.682,1642.434,She was doing great yesterday.,,445
+1643.936,1645.145,Were her vitals good yesterday?,1.0,446
+1645.812,1649.149,-They were about the same as today. -You doctors rarely see her.,,447
+1649.232,1650.817,I know much better than you. I'm her mother.,,448
+1650.901,1653.904,Then I'll have Dr. Jo monitor her all day today.,1.0,449
+1654.571,1656.114,Call me right away if anything happens.,1.0,450
+1657.032,1657.95,"Yes, sir.",,451
+1660.452,1661.453,Min-yeong.,,452
+1662.829,1664.039,Min-yeong.,,453
+1664.373,1666.375,I'm so sorry.,,454
+1667.0,1668.418,"I'm sorry, Min-yeong.",,455
+1669.294,1672.422,I'm so sorry that you have to suffer like this.,,456
+1673.715,1675.008,"I'm really sorry, Min-yeong.",,457
+1676.426,1678.095,"My sweet daughter, I'm so sorry.",,458
+1678.178,1679.888,AUTHORIZED PERSONNEL ONLY,,459
+1680.931,1682.933,Is BP low? How much norepinephrine did you use?,,460
+1683.016,1685.268,-We're scaling it up. -I'll do it!,,461
+1724.975,1728.395,My son is waiting for a liver transplant.,,462
+1728.979,1732.774,I see. That's why you looked familiar.,5.0,463
+1734.818,1737.571,He was in and out of the hospital all the time for six months.,,464
+1738.155,1739.823,He practically lived here.,,465
+1740.907,1742.034,"Then three days ago,",,466
+1743.16,1745.62,his condition suddenly worsened.,,467
+1747.873,1748.832,My son...,,468
+1751.877,1753.67,I guess I should give up now.,,469
+1754.171,1755.297,"No, don't say that.",5.0,470
+1755.881,1758.3,"Ma'am, he can get better.",5.0,471
+1760.093,1762.345,I was so preoccupied with my son and his illness,,472
+1762.971,1765.599,that I had no idea that my mother was also ill.,,473
+1765.682,1767.225,It's all my fault.,,474
+1769.061,1771.021,What kind of mother would think of something else,5.0,475
+1771.813,1774.149,when her son is critically ill?,5.0,476
+1775.776,1777.694,"No one can blame you, ma'am.",5.0,477
+1783.867,1786.87,DID YOU MAKE DINNER FOR MY MOM? COME HOME NOW!,,478
+1798.465,1799.299,Doctor.,,479
+1800.133,1804.387,I'm pretty sure I'm the unluckiest woman in the whole wide world.,,480
+1805.013,1807.015,"I put up with my in-laws for 40 years,",,481
+1807.099,1808.141,and my husband,,482
+1808.975,1812.646,spilled every last penny we had into his darned business.,,483
+1813.897,1815.065,And my one and only son...,,484
+1816.483,1820.112,"He has a heart of gold, so he's the one that got me through everything.",,485
+1822.197,1824.157,I must be cursed or something.,,486
+1824.241,1827.119,I guess that's why both my mom and my son ended up like that.,,487
+1827.828,1828.87,I'm telling you.,,488
+1830.539,1832.374,I've been so unlucky in life.,,489
+1834.668,1837.379,"Seriously, I don't even want to live.",,490
+1838.505,1840.382,Not even one bit.,,491
+1841.174,1843.051,I just want to end my life.,,492
+1850.892,1852.018,Doors are opening.,,493
+1854.938,1856.189,Take the next one.,,494
+1856.857,1857.858,Okay.,,495
+1859.359,1861.069,Doors are closing.,,496
+1889.806,1892.184,I performed your mom's brain surgery.,5.0,497
+1892.267,1894.728,"Shouldn't you be buying me coffee, not the other way around?",5.0,498
+1895.312,1898.064,"When your dad came to the ER at night with a broken leg,",,499
+1898.148,1901.735,I ran to the ER even though I was off that night. And what? Just iced Americano?,,500
+1901.818,1903.612,It should be good enough.,5.0,501
+1903.695,1906.281,"If I get you something better, it'll make you uncomfortable.",5.0,502
+1906.364,1908.074,You have such a way with words.,,503
+1908.158,1909.576,I guess the ER isn't busy today.,5.0,504
+1909.659,1911.494,You had time to go to the convenience store.,5.0,505
+1911.578,1913.83,Watch what you say. You should never say that.,,506
+1913.914,1916.082,"Near Bupyeong IC on the Gyeongin Expressway,",,507
+1916.166,1919.669,"four vehicles, including a one-ton truck, have collided.",,508
+1919.961,1922.297,"In total, six people, including the 52-year-old truck driver,",,509
+1922.38,1924.382,got critically injured in the accident.,,510
+1924.466,1927.052,-They're being transferred... -They'll get here soon. I have to go.,,511
+1927.135,1930.263,Two of them are said to be fatally injured.,,512
+1930.347,1932.599,The Gyeongin Expressway is partially restricted...,,513
+1941.816,1943.485,He was found barely conscious.,,514
+1943.568,1946.696,"When we got there, his BP was 60 over 30. And his oxygen saturation was around 70.",,515
+1951.451,1953.078,He's bled a lot due to a scalp laceration.,,516
+1954.871,1957.207,Get him ready for an IV and give him normal saline.,,517
+1957.999,1958.833,What?,,518
+1970.178,1971.471,Doctor.,,519
+1971.972,1973.181,Doctor.,,520
+1974.307,1977.394,My son can finally get the surgery.,,521
+1977.978,1979.771,Is this a dream? I still can't believe it.,,522
+1979.854,1982.44,"I almost gave up, because he was only third in line.",,523
+1982.524,1984.818,"My gosh, is this really happening?",,524
+1985.527,1987.904,I heard the patients before him can't get the surgery anymore.,,525
+1987.988,1988.905,"Thank you, God.",,526
+1988.989,1992.367,"That's such amazing news. I'm so happy for you, ma'am.",5.0,527
+1992.45,1997.289,"But I have to say, I feel so bad for the ones who passed away.",,528
+2000.208,2002.46,I'm not sure if it's okay for me to feel this happy.,,529
+2004.129,2006.84,I guess we're all selfish after all.,,530
+2006.923,2009.426,Who's your son's doctor?,5.0,531
+2010.593,2012.22,He's very famous.,,532
+2012.304,2015.849,What's that show called? Good Doctors. He was on that show.,,533
+2015.932,2018.518,"-Dr. Kwon Sun-jeong? -Yes, that's right.",5.0,534
+2018.601,2021.271,He and I are close. He's a great doctor.,5.0,535
+2021.896,2025.692,Wait. I think he's away today though.,5.0,536
+2025.775,2027.068,He already heard the news.,,537
+2027.152,2029.946,He'll come back as soon as he finishes the surgery in Milyang.,,538
+2030.03,2033.783,He also said he'll operate on my son as soon as he returns.,,539
+2033.867,2037.203,But... Poor him. He'll be exhausted.,,540
+2037.287,2038.246,I see.,5.0,541
+2038.705,2039.748,Is that what's happening?,,542
+2040.54,2042.876,"Doctor, there's another patient over there.",,543
+2042.959,2044.878,"This kid put super glue all over a helmet,",,544
+2044.961,2047.339,and his dad wore the helmet because he had no idea.,,545
+2047.422,2050.091,"Now, the helmet is stuck on his head. He can't take it off.",,546
+2050.175,2053.553,He needs to be looked at immediately. Can you take him in first?,,547
+2053.636,2056.973,But then I'm dealing with an emergency case now. Please wait.,,548
+2057.057,2058.975,This is an emergency case too!,,549
+2059.059,2062.854,He's embarrassed to death right now.,,550
+2062.937,2064.564,Excuse me. Coming through!,,551
+2067.776,2071.529,"Sir, shall we go to a different hospital?",,552
+2071.613,2074.908,"Where are you going, sir? They haven't called your name yet.",,553
+2074.991,2076.618,"U-ju, stop your dad.",,554
+2076.701,2080.08,Daddy is fuming mad. He said he'll knock them all down.,,555
+2089.756,2092.842,"Professor Kwon, what happened?",,556
+2092.926,2095.678,"I didn't dislocate my shoulder, so don't worry too much.",,557
+2097.097,2098.64,"I can't really move my fingers,",,558
+2098.723,2100.475,so it's probably a radius fracture.,,559
+2100.558,2102.727,Get an X-ray done and call Orthopedics.,,560
+2102.811,2104.854,-What about Neurosurgery? -I'm here.,5.0,561
+2106.648,2107.69,"Hey, you.",,562
+2115.657,2116.783,This is bad.,,563
+2117.951,2120.245,"Professor Kwon, what about the surgery?",5.0,564
+2120.328,2121.454,How do you know about it?,,565
+2121.538,2124.624,You should call another professor at once. The patient needs surgery immediately.,5.0,566
+2124.707,2127.71,"Had there been someone else, I wouldn't have come here after an all-nighter.",,567
+2129.212,2130.213,There's no one.,,568
+2131.005,2132.632,Send the patient to another hospital.,,569
+2132.715,2136.177,"If we say we can't do the surgery, they'll just want to take the liver.",5.0,570
+2136.761,2138.096,This is his last chance.,,571
+2138.179,2141.516,"A long midline incision is required, so it won't be an easy operation.",,572
+2142.183,2143.643,"Gosh, this is nuts.",5.0,573
+2193.026,2194.319,Let's do this.,,574
+2195.195,2196.029,How?,,575
+2198.948,2200.033,We have him.,,576
+2201.701,2203.745,Me? Hey.,,577
+2204.746,2205.914,"I am double board-certified,",,578
+2205.997,2208.458,but I haven't dealt with any operations for over five years.,,579
+2209.0,2210.71,Transplant surgery is no joke.,,580
+2210.793,2212.003,I'm not talking about you.,,581
+2214.047,2215.048,Gosh.,,582
+2218.927,2219.761,Crap.,,583
+2223.097,2225.767,"This is... Oh, right. U-ju, say hello.",,584
+2226.226,2227.894,They're Daddy's friends. Good boy.,,585
+2238.488,2239.531,But...,,586
+2239.989,2242.617,What if the director finds out? Are we going to be okay?,,587
+2242.7,2244.369,Dr. Chae said she sorted everything out.,,588
+2244.452,2247.997,But we need to get his mother's consent and explain everything to her.,,589
+2248.081,2251.584,"Dr. Chae knows her well, so she got her to sign it in five minutes.",,590
+2251.668,2255.63,"Still, wouldn't this upset his doctor? I mean, I would be.",,591
+2255.713,2258.466,Dr. Chae already talked to him and got him on board.,,592
+2260.718,2261.97,What the heck?,,593
+2262.679,2264.931,She should get this off my head if she has all that time.,,594
+2268.56,2270.27,Thank you all in advance.,,595
+2272.564,2273.773,Let's save this patient.,,596
+2278.152,2280.53,SURGERY IN PROGRESS,,597
+2280.613,2282.323,YULJE MEDICAL CENTER,,598
+2283.7,2285.535,SURGERY STATUS INFORMATION,,599
+2296.713,2298.423,FAMILY WAITING ROOM,,600
+2334.751,2338.004,SURGERY STATUS INFORMATION SURGERY IN PROGRESS,,601
+2348.556,2350.767,"Yes. Hello, sir.",5.0,602
+2350.85,2353.019,"Dr. Chae, you're still at the hospital, right?",,603
+2353.102,2354.02,Yes.,,604
+2354.479,2355.438,He didn't make it.,,605
+2356.564,2358.274,Kim Dong-hyeok's surgery didn't go well?,5.0,606
+2358.775,2361.444,What are you talking about? The chairman passed away.,,607
+2362.32,2363.196,I see.,5.0,608
+2363.279,2366.366,His funeral will take place in Room 201. You head over there first.,,609
+2366.574,2369.369,I came home to get changed. I'll be there shortly.,,610
+2369.535,2371.788,"Yes, sir. Will do.",5.0,611
+2391.224,2394.31,CHAIRMAN AHN BYEONG-U HAS PASSED AWAY AT THE AGE OF 78.,,612
+2400.692,2401.609,Hello.,5.0,613
+2412.578,2416.666,"I'm so sorry for your loss, ma'am.",,614
+2418.543,2420.712,"You know that you were his favorite, right?",,615
+2420.795,2422.505,"Yes, of course.",,616
+2423.339,2424.59,That's why...,,617
+2425.633,2426.759,I am completely...,,618
+2427.635,2429.47,heartbroken for him.,,619
+2432.348,2434.767,I guess we are not too old for tears.,,620
+2463.546,2466.966,We seem to meet a lot these days.,,621
+2492.2,2494.035,Aren't you Jeong-won's best friend since little?,2.0,622
+2494.118,2495.536,I thought you knew his family well.,5.0,623
+2495.953,2497.288,Yes.,2.0,624
+2499.081,2501.292,"-You knew who he was, right? -Yes.",4.0,625
+2501.584,2504.045,-Why didn't you tell us? -You didn't ask.,2.0,626
+2505.838,2507.34,You knew Jeong-won's family was loaded.,4.0,627
+2507.423,2509.05,I had no idea they were this rich.,2.0,628
+2509.133,2511.844,"Actually, I thought his family went broke these days.",2.0,629
+2511.928,2513.763,He's been mooching off me for years now.,2.0,630
+2514.263,2515.723,Seriously. Rich people are stingier.,2.0,631
+2518.184,2519.936,How could he keep it a secret for 20 years?,2.0,632
+2520.019,2522.271,So what if we knew? Would we ask for jobs or money?,2.0,633
+2522.355,2523.815,-That's possible. -That's possible.,4.0,634
+2526.359,2528.027,That's why that jerk didn't tell us.,2.0,635
+2528.82,2529.821,Why isn't Ik-jun here?,2.0,636
+2529.904,2532.323,He's still in surgery. He's probably finishing up now.,5.0,637
+2532.406,2534.242,It's a difficult one. It'll take him some time.,5.0,638
+2534.325,2536.285,What do you mean? Why would he do surgery here?,2.0,639
+2536.369,2538.913,Things just happened that way. We needed him to do surgery.,5.0,640
+2540.206,2542.542,"-He knew about this. -No, he didn't.",2.0,641
+2543.125,2544.377,Wait. The director is here.,5.0,642
+2548.464,2550.675,"-Hello, sir. -What brings you here?",,643
+2552.635,2554.595,Say hello. He had been a student of mine long ago.,,644
+2554.679,2556.889,"-I see. Hello. -Hello, ma'am.",5.0,645
+2556.973,2559.35,"Do you know the chairman's son, Professor Ahn?",,646
+2560.309,2563.062,Yes. He's my closest friend.,2.0,647
+2574.791,2577.085,-Thanks for coming. -No need to thank us.,1.0,648
+2577.169,2579.254,We ought to come to our friend's father's funeral.,5.0,649
+2579.337,2580.547,Is the chairman your father?,5.0,650
+2580.63,2583.091,Why didn't you tell us? You thought we'd ask for money?,2.0,651
+2584.134,2587.22,I just couldn't find the right time to tell you guys. I'm sorry.,1.0,652
+2587.679,2589.306,I didn't try to hide it from you.,1.0,653
+2591.266,2594.06,"I mean, there's nothing to tell you. I don't have any money. I swear.",1.0,654
+2594.144,2595.687,That's more annoying.,5.0,655
+2595.77,2597.814,What about the hospital? Will you take charge of the hospital?,2.0,656
+2599.649,2601.067,The hospital?,1.0,657
+2603.945,2605.155,I thought I lost my unborn child.,2.0,658
+2605.238,2607.365,-My heart almost exploded. -We all know you're a doctor.,,659
+2607.449,2608.95,-Why that ringtone? -Well...,2.0,660
+2609.034,2611.62,Heart explosion sounds scary. How can you say that so casually?,2.0,661
+2611.703,2614.956,Do you know how sad it is to lose an unborn child? How can you say that?,4.0,662
+2615.04,2616.583,You know what?,4.0,663
+2617.334,2618.335,You don't have any paternal love.,4.0,664
+2618.418,2621.171,"Hey, guys. Stop arguing. My head is about to crack.",1.0,665
+2621.254,2624.049,"Your head is about to crack? Then, you'll die.",5.0,666
+2625.842,2627.052,Jeong-won.,,667
+2627.928,2629.221,Uncle is here.,,668
+2629.804,2630.847,He's here?,,669
+2631.389,2632.974,"Thank you for coming, guys.",,670
+2633.058,2635.936,"Please take care of my brother, Jeong-won.",,671
+2637.395,2639.689,I called you multiple times. Why didn't you answer?,,672
+2639.773,2642.192,Sorry. I set my phone to vibrate.,1.0,673
+2644.694,2646.363,"-Dr. Chae, I have the result. -Okay.",,674
+2651.076,2651.993,Thanks.,5.0,675
+2654.454,2655.622,"Hey, Ik-jun.",5.0,676
+2657.374,2659.376,All right. I'll be there soon.,5.0,677
+2661.211,2663.421,-Did the surgery go well? -Yes.,2.0,678
+2663.672,2665.173,Tell him to come here right away.,2.0,679
+2665.34,2668.176,I need to do something. I'll be back soon.,5.0,680
+2668.26,2669.094,-Okay. -Sure.,2.0,681
+2676.643,2679.354,You were the one who did the surgery.,5.0,682
+2679.437,2680.647,You should tell her.,5.0,683
+2681.731,2683.525,Looking like this? Forget it.,,684
+2684.776,2686.945,"If she sees me, she'd lose all of her confidence in me.",,685
+2687.028,2687.862,Gosh.,,686
+2688.78,2692.075,I thought about asking the resident to inform his mother.,,687
+2692.158,2694.995,But I thought hearing it from you would be better. You should go now.,,688
+2695.495,2696.663,She must've waited for long.,,689
+2697.831,2699.291,Okay.,5.0,690
+2711.011,2711.97,Ma'am.,5.0,691
+2713.346,2714.598,Goodness.,,692
+2716.641,2718.935,His surgery went really well.,5.0,693
+2721.479,2723.231,It was a difficult one.,5.0,694
+2723.356,2725.108,"But there's almost no bleeding now,",5.0,695
+2725.191,2727.319,and the liver he received seems very healthy.,5.0,696
+2727.402,2729.487,"Right now, he's transferred to the ICU.",5.0,697
+2730.53,2731.615,Thank you.,,698
+2732.532,2734.701,"Oh, my. I mean it.",,699
+2734.909,2736.87,Thank you so much.,,700
+2737.037,2738.288,Thank you.,,701
+2739.039,2740.582,Thank you so much.,,702
+2741.291,2743.501,And I have your mother's biopsy result.,5.0,703
+2744.419,2746.004,It's only stage one cancer.,5.0,704
+2746.087,2749.341,"With the radiation treatment, she'll be healthy for another ten years.",5.0,705
+2756.598,2758.642,This is good news. Why are you crying?,5.0,706
+2759.893,2761.227,My goodness.,,707
+2761.895,2763.271,Doctor.,,708
+2763.938,2766.399,Thank you so much.,,709
+2766.483,2769.694,Thank you for everything. Thank you so much.,,710
+2772.364,2773.615,Doctor.,,711
+2774.282,2778.411,I am the luckiest woman in this world.,,712
+2778.495,2780.789,There's no other woman who's as lucky as I am.,,713
+2781.373,2783.667,I am such a lucky person.,,714
+2783.75,2785.752,I am the happiest person in the world.,,715
+2785.835,2788.338,That's why I was able to meet a nice doctor like you,,716
+2788.755,2790.924,and my mother will live now.,,717
+2792.05,2794.26,How can I not call myself lucky?,,718
+2794.344,2796.93,"My goodness. Oh, my.",,719
+2799.974,2801.726,Doctor...,,720
+2806.856,2809.234,OUR CONDOLENCES TO YOU,,721
+2809.734,2811.236,Why on earth would he come here?,,722
+2812.112,2813.571,He must be out of his mind.,,723
+2824.958,2827.585,CHAIRMAN AHN BYEONG-U,,724
+2832.59,2835.009,"Mom, should I put our family photo in the box, too?",1.0,725
+2835.093,2837.053,Put it in my bag over there.,,726
+2850.734,2852.902,This is a lot of money for a medical bill.,1.0,727
+2853.445,2854.529,It's a VIP ward.,,728
+2855.613,2857.115,"Your father is a VIP, you know.",,729
+2858.241,2859.743,Is the funeral service fee included?,1.0,730
+2859.826,2861.286,"No, that's only for the room.",,731
+2862.036,2864.33,They completely overcharged us.,1.0,732
+2864.414,2866.499,The bill is over ten million won for less than a week?,1.0,733
+2866.583,2867.792,You're being absurd.,,734
+2867.876,2871.212,"Compared to other hospitals, our bill is considered not much.",,735
+2872.338,2874.758,The cost isn't important to these VIP patients.,,736
+2876.259,2878.636,"Even if it means they must pay triple or quadruple the price,",,737
+2879.22,2880.847,"as long as they can become healthy,",,738
+2881.222,2882.807,they would even pay tenfold.,,739
+2883.933,2886.394,"Mom, do you have money for this?",1.0,740
+2886.478,2887.52,Are you serious?,,741
+2887.937,2890.815,"You might've forgotten it, but I married for convenience.",,742
+2893.693,2897.614,"It was a loveless marriage, but I was happy in my own way.",,743
+2897.697,2899.741,"Mom, TMI.",1.0,744
+2899.824,2903.077,-What? -Don't worry. It's nothing.,1.0,745
+2903.87,2904.913,Mr. Ju is here.,,746
+2905.205,2906.664,Okay. I'll be there.,1.0,747
+2909.584,2911.336,"Gosh, Mom.",1.0,748
+2911.419,2912.42,Seriously.,,749
+2916.716,2918.092,My brother agreed.,1.0,750
+2918.676,2920.011,"And I persuaded my mother, too.",1.0,751
+2922.889,2925.683,"Ma'am, you're coming to the board meeting tomorrow, right?",,752
+2926.976,2927.977,"No, I'm not.",,753
+2929.771,2931.481,Jeong-won will be disappointed.,,754
+2935.777,2938.196,I know how hard you have been working all these years.,1.0,755
+2938.78,2939.906,I am sorry.,1.0,756
+2941.491,2943.243,I hope I can continue to count on you.,1.0,757
+2947.747,2948.873,Goodness.,,758
+2949.707,2953.169,Your family is definitely not ordinary.,,759
+2954.546,2956.339,So this is already a done deal.,1.0,760
+2956.422,2958.466,Yes. It's over.,,761
+2959.133,2960.134,The end.,,762
+2961.928,2963.555,Did Chairman Hwang agree to that?,,763
+2963.638,2965.598,Jeong-won went to him and personally asked him,,764
+2965.682,2967.851,to choose Mr. Ju over himself.,,765
+2970.353,2973.606,"I told him to call Chairman Hwang to get him on his side. Gosh, I raised him wrong.",,766
+2974.649,2976.693,All of my effort to raise my children went to nothing.,,767
+2978.444,2979.529,I understand.,,768
+2981.03,2982.782,But tomorrow is the board meeting.,,769
+2984.2,2985.743,How can I trust you?,,770
+2988.454,2992.208,I have the agreement letters Chairman Hwang got from the board of directors.,1.0,771
+2992.292,2995.336,And I put in my mother and my resignation letters as well.,1.0,772
+3000.842,3002.135,But...,1.0,773
+3002.844,3004.387,I have one condition.,1.0,774
+3006.639,3010.393,YULJE FOUNDATION,,775
+3010.476,3012.896,THE PROFIT FROM THE VIP WARDS WILL GO TO PARTY A,,776
+3012.979,3015.356,PARTY A HAS THE RIGHTS TO USE AND MANAGE THE FUND,,777
+3015.44,3016.399,"If you don't mind,",,778
+3017.734,3021.946,can I ask you about how you will use the money?,,779
+3022.947,3025.033,I'm still a guy from a rich family.,1.0,780
+3025.617,3027.452,Everyone puts away some money.,1.0,781
+3031.664,3034.667,"The concept of VIP wards is fascinating, isn't it?",,782
+3036.461,3038.129,There are only four wards.,,783
+3038.755,3041.507,But we don't need more than those.,,784
+3042.008,3046.346,"The moment they become accessible, no one will want them.",,785
+3047.764,3049.515,We must set an astronomical price,,786
+3050.141,3052.477,to attract astronomically rich patients.,,787
+3054.062,3058.316,We just need to focus on is staffing talented doctors.,,788
+3060.276,3063.488,"By the way, finding a good professor will be difficult.",,789
+3064.238,3069.41,I heard that our hospital needs more professors.,,790
+3070.745,3072.33,I'll take care of that.,,791
+3072.83,3076.084,Please prepare to pay handsomely for their salaries.,,792
+3086.052,3089.847,EMPLOYMENT CONTRACT AS EXCLUSIVE MEDICAL STAFF FOR VIP WARDS,,793
+3090.807,3091.933,"You'll do it, right?",1.0,794
+3092.016,3093.309,This is a long contract.,2.0,795
+3093.393,3095.061,Can someone explain what it means?,2.0,796
+3095.144,3096.771,"To sum it up,",5.0,797
+3097.146,3098.94,"if Party A asks for surgery,",5.0,798
+3099.023,3101.526,we have to perform emergency surgery even on weekends.,5.0,799
+3101.609,3104.57,And we have to participate in the surgery Party A assigns.,5.0,800
+3104.654,3106.739,-Who's Party A? -Him.,2.0,801
+3106.864,3108.7,It must come with a crazy reward.,2.0,802
+3108.783,3111.619,-You're asking us to be your slaves. -Twice the annual salary you get now.,2.0,803
+3112.412,3113.329,Hey!,3.0,804
+3113.913,3117.667,"Next time, write that on top of the contract.",3.0,805
+3117.75,3119.961,He does come from a rich family. He's very generous.,3.0,806
+3120.044,3121.838,I won't resign from my job anyway. I'm in.,5.0,807
+3121.921,3123.006,-Is there an ink pad? -Here.,2.0,808
+3123.089,3124.132,I should sign it with my thumbprint.,2.0,809
+3125.591,3127.176,"Hey, what about you?",1.0,810
+3127.802,3128.97,I want to have more time off.,4.0,811
+3130.179,3132.306,"My goodness, you sound like you're so well-off.",2.0,812
+3132.39,3134.892,"Hey, you came back to Korea two months ago after your fellowship.",2.0,813
+3135.476,3136.519,Shouldn't you get a job?,2.0,814
+3136.894,3138.354,I want to hang out with my mom more.,4.0,815
+3140.565,3142.859,Twice your annual salary and an assigned parking spot.,1.0,816
+3143.443,3144.944,-What about us? -What about us?,5.0,817
+3145.028,3146.07,"Hey, be quiet.",1.0,818
+3146.154,3147.28,I don't know.,4.0,819
+3149.449,3153.036,"On top of that, I'll throw in an exclusive research lab and your own office.",1.0,820
+3153.119,3156.664,-What about us? Who do you think we are? -What? Do you think we're fools?,2.0,821
+3156.789,3157.79,I don't want those things.,4.0,822
+3158.624,3161.377,I only have one condition.,4.0,823
+3161.461,3163.379,What is it? I'll make it work.,1.0,824
+3164.255,3166.005,-A band. -What?,2.0,825
+3166.091,3167.277,A band.,3.0,826
+3167.36,3169.362,-What? -What on earth is he jabbering about?,2.0,827
+3169.488,3170.947,You can barely manage to text.,2.0,828
+3172.532,3174.576,I won't do it. I said no.,2.0,829
+3175.035,3176.203,I'm in. I like it.,3.0,830
+3176.286,3179.122,I'm busy. I don't have time for that. I can't do it.,5.0,831
+3180.957,3182.375,"Then, will you work here?",1.0,832
+3182.542,3186.171,Sure. How can you run VIP wards without an ob-gyn?,4.0,833
+3186.254,3188.59,I don't think that's possible at all.,2.0,834
+3189.007,3190.717,Goodness. I'm leaving now.,2.0,835
+3190.8,3192.594,-Count me out from this. -Hey.,2.0,836
+3192.677,3194.179,I'd rather work right now.,2.0,837
+3195.764,3198.6,-I don't have my ID. Help me go down. -Okay. Let's go.,2.0,838
+3199.643,3203.897,My answer was clear. I don't have time to be in a band.,5.0,839
+3204.689,3206.733,"Hey, Song-hwa. You...",1.0,840
+3213.949,3215.408,I just need Song-hwa to get on board.,1.0,841
+3215.492,3217.077,It will be harder to persuade Jun-wan.,4.0,842
+3218.203,3219.162,Jun-wan?,1.0,843
+3219.746,3221.206,I can fix that with just a phone call.,4.0,844
+3226.336,3227.754,You really won't do it?,1.0,845
+3228.38,3231.341,I said no. I'm way too mature for that kind of kiddie stuff.,2.0,846
+3232.592,3234.844,I was going through my old Cyworld account.,1.0,847
+3235.011,3237.43,I found a beautiful photo in the album.,1.0,848
+3238.139,3241.935,-It was in Hawaii. -I'll do it.,1.0,849
+3242.602,3243.52,Jun-wan is in.,1.0,850
+3246.273,3247.274,What?,3.0,851
+3248.275,3251.319,What on earth do you have on him?,3.0,852
+3251.403,3253.738,We just need to persuade Song-hwa.,1.0,853
+3253.822,3256.825,"If she says no, she means it. What should I do?",1.0,854
+3256.908,3258.91,"Hey, do you have anything on her?",1.0,855
+3258.994,3260.662,"My gosh, is that your strategy?",3.0,856
+3260.787,3263.999,Why are you taking a negative approach like finding people's weaknesses?,3.0,857
+3264.082,3268.42,Try to think of what Song-hwa would want or want to do.,3.0,858
+3268.503,3270.63,-Take that approach. -I know a way.,4.0,859
+3270.755,3272.34,-What? -What is it?,1.0,860
+3272.424,3274.843,-She'll do it if she's the vocalist. -You lunatic.,4.0,861
+3274.926,3277.178,A vocalist? Is she still hung up on that?,3.0,862
+3277.262,3280.64,I told her first. She said she'd be in it if she's the vocalist.,4.0,863
+3280.724,3284.477,I can't believe this. Song-hwa is tone-deaf and has no sense of rhythm.,3.0,864
+3284.561,3286.896,It took her five years to learn to play the bass guitar.,3.0,865
+3289.649,3292.152,"Seok-hyeong, do you want our band to win a Grammy Award?",1.0,866
+3292.235,3293.153,What?,4.0,867
+3293.236,3295.405,-You don't want to perform at Wembley? -I don't want to.,1.0,868
+3295.488,3296.448,Then...,1.0,869
+3297.991,3299.326,let Song-hwa sing.,1.0,870
+3299.409,3300.452,Hey.,3.0,871
+3300.994,3301.828,I don't care.,4.0,872
+3302.412,3305.332,I just want to do something together with my friends.,4.0,873
+3305.415,3308.084,I thought that Song-hwa had an attractive voice.,1.0,874
+3308.835,3310.295,"My gosh, you're awful.",3.0,875
+3310.378,3311.63,She has a unique voice.,4.0,876
+3311.713,3313.757,My goodness. You're all going nuts!,3.0,877
+3314.132,3316.343,Don't be so mean to her.,3.0,878
+3316.426,3318.094,You ought to bring her to the right path.,3.0,879
+3318.261,3320.472,"If you care about her, you can't do this to her.",3.0,880
+3321.473,3322.557,It's all good now.,1.0,881
+3322.641,3326.019,"Ik-jun, you're truly looking out for her. Which means you should be okay with this.",1.0,882
+3326.102,3327.187,We'll start the band.,1.0,883
+3327.27,3328.563,You're starting work next week.,1.0,884
+3328.647,3330.106,"Nice to meet you, Dr. Yang.",1.0,885
+3332.359,3333.693,"My gosh, it's nice to meet you.",4.0,886
+3333.777,3336.029,"I've heard a lot about you. People call you ""Buddha"".",4.0,887
+3336.112,3337.113,I'm Catholic.,1.0,888
+3337.197,3338.782,I see.,4.0,889
+3347.415,3349.459,"Hurry up, Song-hwa. We might get called in any minute.",3.0,890
+3389.874,3390.875,Gosh.,3.0,891
+3392.669,3394.087,"Gosh, that stinks.",3.0,892
+3395.13,3396.172,You're ridiculous.,3.0,893
+3396.673,3399.676,-Which song should we start with? -Seok-hyeong already picked out a song.,5.0,894
+3399.759,3401.261,You'll know as soon as you hear it.,1.0,895
+3430.206,3433.71,I miss you even more around this time,5.0,896
+3435.17,3438.339,When I am all alone,5.0,897
+3439.674,3443.136,I know that you are gone now,5.0,898
+3445.096,3447.891,But I keep thinking of you,5.0,899
+3450.185,3453.521,Why did you leave me then?,5.0,900
+3455.064,3459.611,You told me that Things were getting tough between us,5.0,901
+3460.195,3463.114,That could have been The reason you left me,5.0,902
+3464.783,3468.411,But I can't know for sure,5.0,903
+3473.833,3477.67,I remember the night when you left me,5.0,904
+3483.635,3487.597,You in my memory,5.0,905
+3497.774,3499.943,You really scared me just now.,5.0,906
+3503.863,3506.157,SEOUL NATIONAL UNIVERSITY PRE-MED FRESHMEN ORIENTATION,,907
+3506.241,3510.37,I remember the night when you left me,,908
+3525.009,3526.01,Give it up for him!,,909
+3528.179,3531.975,His singing gave me the chills and his face gave me even more chills.,,910
+3532.058,3533.852,All right. Who wants to go next?,,911
+3533.935,3536.02,-Me! -Give it up for him!,,912
+3539.607,3542.402,I will impersonate Nam Bo-won on Nam Bo-won's Show.,,913
+3543.194,3546.322,It's a mountain valley in Gangwon Province in 1950.,,914
+3546.406,3547.949,Frogs were croaking.,,915
+3551.452,3554.622,"-The soldiers were having a rest. -Hey, where are you going?",,916
+3554.706,3556.624,I'd rather drop out of college than do that.,,917
+3558.376,3560.253,"-Hey. -Hey, Corporal Kim.",,918
+3567.844,3568.887,Where are you going?,,919
+3569.554,3571.681,We wanted to use the restroom.,,920
+3572.765,3574.559,My friend is very drunk.,,921
+3575.435,3576.603,"Hey, are you okay?",,922
+3581.941,3585.361,Damn it. Why aren't they going back in? They are so annoying.,,923
+3586.112,3588.948,It's cold out here. Should we stay in the restroom?,,924
+3589.032,3590.283,We'll smell like toilets.,,925
+3590.867,3592.368,"Gosh, is there a place to hide?",,926
+3619.437,3620.271,Why are they here?,,927
+3620.855,3621.689,Why do you think?,,928
+3622.273,3626.027,"Like us, when things were getting lame, they lied to people and came to hide here.",,929
+3626.945,3628.071,Are they Japanese?,,930
+3628.696,3629.781,-He's ridiculous. -My gosh.,,931
+3631.115,3632.033,Can we come in?,,932
+3635.578,3637.121,His standard Korean accent is dope.,,933
+3637.33,3639.082,It's like listening to the radio.,,934
+3639.832,3641.876,"-""Can we come in?"" -""Can we come in?""",,935
+3642.877,3644.212,Come on in.,,936
+3645.296,3646.422,Hurry up.,,937
+3646.714,3648.132,I know there's not much space here.,,938
+3648.424,3651.344,Staying in here is a much better deal than putting on a show over there.,,939
+3659.143,3662.063,My name is An Jeong-won. His name is Yang Seok-hyeong.,,940
+3662.647,3664.44,-Nice to meet you. -My name is Lee Ik-jun.,,941
+3664.774,3666.067,You crazy punk.,,942
+3667.235,3669.862,His name is Lee Ik-jun. My name is Kim Jun-wan.,,943
+3669.946,3671.364,We're both from Changwon.,,944
+3671.531,3674.826,We went to the same high school. Did you two go to school together?,,945
+3675.451,3677.662,We went to elementary and middle school together.,,946
+3681.04,3683.376,-You won't die from it. -You're such a crybaby.,,947
+3684.544,3687.171,How long do we need to stay here? It's too cramped here.,,948
+3687.714,3689.382,At least it's just the four of us.,,949
+3703.104,3707.316,I'm An Jeong-won. He's Yang Seok-hyeong. They're Kim Jun-wan and Lee Ik-jun.,,950
+3707.4,3709.152,My name is Chae Song-hwa.,,951
+3709.694,3711.195,Are you guys friends?,,952
+3711.779,3713.197,"-No, we are not. -Are you crazy?",,953
+3713.281,3714.907,-We met five minutes ago. -What?,,954
+3714.991,3716.367,"No, we are not.",,955
+3716.617,3718.703,You can just say no. What's all this fuss?,,956
+3719.579,3722.498,"Hey, it's a fun coincidence that we all met here.",,957
+3722.915,3724.417,Do you want to take a photo together?,,958
+3725.043,3726.586,Are you for real?,,959
+3727.295,3728.379,I'm for real.,,960
+3728.88,3729.714,Sure.,,961
+3731.174,3734.01,We can get the chair and put the camera on top.,,962
+3734.677,3735.803,Okay.,,963
+3735.97,3737.263,Hold on.,,964
+3737.346,3739.348,It will blink before taking the photo.,,965
+3739.432,3741.059,"Hey, it's starting.",,966
+3755.698,3757.533,"We're playing ""Love Over a Thousand Years"" next.",2.0,967
+3758.409,3760.87,-You jerk. -Hey.,5.0,968
+3760.953,3762.371,-Hey! -Yes?,4.0,969
+3762.455,3764.874,"-This is Chae Song-hwa. Go on. -Hey, Jun-wan!",4.0,970
+3765.166,3766.125,-I got it. -Crazy jerk.,5.0,971
+3766.25,3767.877,-Bring it back. Hey. -Okay.,5.0,972
+3768.211,3769.67,Open up. Hey. Damn it.,5.0,973
+3769.754,3771.172,"Hey, Seok-hyeong.",4.0,974
+3772.006,3772.965,"Hey, Jeong-won.",5.0,975
+3774.258,3777.47,"Damn it. Come on, give it back!",5.0,976
+3783.518,3784.936,Let me see.,1.0,977
+3788.773,3789.774,Here it is.,1.0,978
+3792.151,3794.946,"HELLO, MR. DADDY-LONG-LEGS. EUN-A WAS DISCHARGED AS HEALTHY GIRL.",,979
+3802.537,3806.666,THANK YOU FOR THE MESSAGE. I'LL BE ABLE TO HELP MORE PATIENTS.,,980
+3812.38,3813.464,Hey.,,981
+3814.924,3816.425,I don't have any money.,1.0,982
+3816.509,3819.887,I barely got enough money to cover the bills for a kid with heart disease.,1.0,983
+3820.596,3822.056,I'm completely broke.,1.0,984
+3823.683,3826.144,You're a priest. Why do you always ask for wine?,1.0,985
+3826.269,3828.02,"-Have a life of non-possession! -Hey, Jun-wan!",1.0,986
+3828.271,3830.439,-You should be happy if you are -Open up!,1.0,987
+3830.523,3833.025,"-as respected as Bopjong. -Hey, even you?",1.0,988
+3833.109,3834.944,-Seriously? -Whatever. I don't have money.,1.0,989
+3835.027,3836.946,"You're a priest, not a sommelier.",1.0,990
+3849.292,3850.209,How did you...,,991
+3850.877,3854.005,Mr. Ju heard about his wife's condition today.,,992
+3854.422,3857.133,"He would do anything for his wife, you know.",,993
+3857.842,3859.343,I'm very sorry for him.,,994
+3860.553,3861.47,What do you mean?,,995
+3861.554,3864.515,Jong-su is already having a hard time. I made him run the foundation.,,996
+3865.391,3866.809,I don't know if I can face him.,,997
+3869.812,3871.522,Jong-su is Mr. Ju's first name.,,998
+3872.523,3874.358,-I see. -We're old friends.,,999
+3875.902,3880.74,I told him not to come to my husband's funeral since his wife is sick.,,1000
+3880.823,3882.366,No one can stop that stubborn man.,,1001
+3882.45,3884.535,Mr. Ju wouldn't be himself if he didn't.,,1002
+3886.37,3887.538,Goodness.,,1003
+3888.039,3891.125,He was always quiet and didn't express any emotions.,,1004
+3891.375,3895.755,"To be honest, I just thought that I could never read his mind.",,1005
+3895.838,3898.925,So I was always cautious around him.,,1006
+3900.218,3902.553,-But it turns out-- -He just doesn't have any schemes.,,1007
+3902.637,3903.512,Gosh.,,1008
+3904.388,3906.265,He was just like that when he was five years old.,,1009
+3906.349,3908.017,And even on his wedding day.,,1010
+3908.768,3912.188,He looks sulky so people get the wrong idea that he's hiding something.,,1011
+3912.897,3915.399,-He doesn't have any ulterior motives. -Right.,,1012
+3915.775,3918.236,"That reminds me. About two days before your husband passed away,",,1013
+3918.402,3919.737,he came to see me at my house.,,1014
+3920.613,3923.115,He came to my house at a late hour.,,1015
+3923.699,3928.204,I just assumed that he came to ask me to vote for him at the board meeting.,,1016
+3928.621,3931.082,"Well, I was irritated that he came to see me.",,1017
+3931.332,3934.585,"But since your son asked me for a favor,",,1018
+3934.794,3938.214,-I thought I'd give him what he wants. -What did he say?,,1019
+3938.297,3939.465,Goodness.,,1020
+3939.966,3941.217,I think I already know.,,1021
+3941.801,3943.135,Yes.,,1022
+3944.637,3946.264,He didn't say anything to me.,,1023
+3947.098,3950.601,He stared at the flower tree in my garden for a long time.,,1024
+3950.977,3954.772,Then he asked me for the tree because his wife likes flowers.,,1025
+3954.981,3956.732,He can never ask for favors.,,1026
+3957.65,3958.859,He's frustrating.,,1027
+3959.485,3960.945,That fool.,,1028
+3961.445,3962.446,Gosh.,,1029
+3963.864,3966.659,"Goodness, it's already past 8 p.m.",,1030
+3966.742,3968.035,You should go now.,,1031
+3968.119,3971.622,I think he's waiting for you.,,1032
+3971.706,3973.04,He asked me to cook for him.,,1033
+3973.833,3978.129,It's been 30 years since I last packed a dinner.,,1034
+3978.504,3980.047,-Bye. -Bye.,,1035
+4021.005,4023.591,"Code Blue, third floor.",,1036
+4024.508,4026.469,CPR in the ICU.,,1037
+4026.594,4028.763,Third floor of the main building.,,1038
+4042.276,4043.986,"Min-yeong, hang in there.",,1039
+4044.236,4046.322,"Hang in there, Min-yeong.",,1040
+4046.405,4048.824,-How long? -Ten minutes. I can't get her sinus back.,,1041
+4048.908,4050.701,No way. Please do it one more time.,,1042
+4050.785,4052.745,You brought her back last time!,,1043
+4052.828,4055.456,"Ma'am, you should let Min-yeong go now...",,1044
+4055.539,4058.084,"Just try it one more time, please. Please.",,1045
+4058.167,4060.294,I'll do it. I'll keep trying.,,1046
+4065.716,4066.55,Min-yeong.,,1047
+4067.885,4069.595,Min-yeong.,,1048
+4072.431,4074.392,"Min-yeong, hang in there, please.",,1049
+4074.475,4076.727,"Hang in there, Min-yeong.",,1050
+4077.645,4078.771,Min-yeong.,,1051
+4082.691,4086.779,"Min-yeong, please. Hang in there. Min-yeong!",,1052
+4107.383,4108.884,"Ma'am, she must be in a lot of pain.",,1053
+4112.096,4113.806,We should let her rest now.,,1054
+4130.114,4131.282,"My sweet Min-yeong,",,1055
+4132.783,4134.243,do you want to go now?,,1056
+4135.995,4137.163,But I don't want you to.,,1057
+4139.707,4141.25,"If you stay here a little longer,",,1058
+4142.042,4143.627,would that be too painful for you?,,1059
+4145.045,4147.506,I would like to see you a bit more.,,1060
+4150.759,4152.136,"I'm sorry, Min-yeong.",,1061
+4153.429,4158.1,I am so sorry for making you go through this pain.,,1062
+4161.187,4162.521,Min-yeong.,,1063
+4163.898,4166.901,I love you so much.,,1064
+4167.985,4169.195,My daughter.,,1065
+4173.824,4175.034,I love you.,,1066
+4181.832,4185.586,"March 26, 2019. At 2:29 p.m.",,1067
+4187.421,4190.257,I pronounce Kim Min-yeong dead.,,1068
+4197.431,4198.432,Min-yeong.,,1069
+4199.85,4201.685,Min-yeong.,,1070
+4204.438,4205.731,Min-yeong.,,1071
+4212.988,4214.323,Min-yeong.,,1072
+4224.5,4226.377,Did she want to see all of us?,,1073
+4229.088,4230.673,I bet she'll just complain.,,1074
+4230.881,4233.3,You're right. Her face changed completely.,,1075
+4235.344,4236.637,What choice do we have?,,1076
+4237.054,4239.431,"Whatever she says, we should try to understand her.",,1077
+4240.015,4241.141,I can understand her.,,1078
+4241.225,4244.478,"I understand her, but we did our best.",,1079
+4244.979,4248.232,Professor Ahn didn't get a day off for three months because of Min-yeong.,,1080
+4249.275,4250.818,There he comes.,,1081
+4259.034,4261.954,Thank you so much for your hard work.,1.0,1082
+4262.997,4264.123,You should get back to work.,1.0,1083
+4265.874,4267.71,-Pardon? -I can meet with her alone.,1.0,1084
+4267.793,4269.128,You should go.,1.0,1085
+4269.545,4271.046,You have a lot of work.,1.0,1086
+4307.166,4308.417,Doctor.,,1087
+4309.46,4312.004,Thank you so much for everything.,,1088
+4314.465,4315.716,Min-yeong...,,1089
+4319.511,4323.265,was in so much pain because I wanted to see her more.,,1090
+4324.266,4327.77,"But thanks to great doctors and nurses she had,",,1091
+4329.104,4331.774,she had three years of a happy life.,,1092
+4334.526,4336.32,Thank you for your hard work.,,1093
+4339.657,4341.033,Thank you for loving my daughter,,1094
+4341.575,4342.868,and treating her,,1095
+4344.286,4345.537,the best you could.,,1096
+4347.373,4348.54,Thank you so much.,,1097
+4369.978,4373.816,"Father, a girl went to heaven today.",1.0,1098
+4375.526,4377.152,I was at her 100th-day celebration.,1.0,1099
+4377.861,4382.408,"Every year, we celebrated her birthday together. We made so many memories.",1.0,1100
+4387.788,4388.914,Just three years...,1.0,1101
+4390.124,4392.584,"After only three years,",1.0,1102
+4394.253,4395.629,Min-yeong left this world.,1.0,1103
+4400.551,4401.969,"I'm his child,",1.0,1104
+4405.264,4406.807,but I can't stop resenting God.,1.0,1105
+4410.811,4412.813,I hate him.,1.0,1106
+4413.814,4415.065,"And I resent him, too.",1.0,1107
+4416.817,4419.445,"It's so hard to move on with my life, Father.",1.0,1108
+4421.697,4423.407,What should I do?,1.0,1109
+4432.082,4434.376,TO THE FRIED CHICKEN RESTAURANT ON THE POLICE STATION ALLEY,,1110
+4434.46,4437.463,That's why I told you I wasn't going to be a doctor.,1.0,1111
+4437.546,4440.966,"I told you I was going to be a priest, too, didn't I?",1.0,1112
+4441.049,4442.301,Remember what you guys told me?,1.0,1113
+4442.468,4445.012,"That I could be a priest whenever I wanted,",1.0,1114
+4445.095,4447.973,but that's not the case for a doctor.,1.0,1115
+4448.056,4450.517,I worked all these years as a doctor because of you guys.,1.0,1116
+4450.601,4454.271,"Starting now, I'm going to do what I want with my life. Okay?",1.0,1117
+4454.354,4455.773,Did you get that?,1.0,1118
+4456.899,4457.775,I don't...,1.0,1119
+4458.776,4460.402,deserve to be a doctor.,1.0,1120
+4460.736,4461.779,I can't...,1.0,1121
+4462.696,4464.615,I can't control my emotions.,1.0,1122
+4466.116,4467.993,I empathize too easily.,1.0,1123
+4469.411,4470.454,Other doctors tell me,1.0,1124
+4471.246,4474.333,"that once time passes, it becomes like nothing.",1.0,1125
+4476.126,4477.711,You know what?,1.0,1126
+4478.253,4482.216,I care too much about all my patients.,1.0,1127
+4482.299,4486.345,"I completely go nuts for them, you know?",1.0,1128
+4486.887,4490.516,I didn't cry even when our father passed away.,1.0,1129
+4492.768,4495.521,"My father recently passed away, you know.",1.0,1130
+4496.23,4497.231,Is that so?,,1131
+4497.689,4498.899,But...,1.0,1132
+4499.858,4502.861,when Min-yeong's mother,1.0,1133
+4503.821,4506.49,thanked me...,1.0,1134
+4507.241,4509.076,for treating her today.,1.0,1135
+4511.453,4512.454,Damn it.,1.0,1136
+4513.539,4516.792,My patient's mother comforted me. But I'm the doctor!,1.0,1137
+4519.92,4522.089,"But then,",1.0,1138
+4523.507,4524.842,"to tell you the truth,",1.0,1139
+4525.968,4527.553,it was the most wonderful feeling...,1.0,1140
+4528.387,4531.056,It was a kind of feeling,1.0,1141
+4531.139,4533.809,that I couldn't experience in this world.,1.0,1142
+4534.643,4537.938,"I was so grateful, but I was sorry at the same time.",1.0,1143
+4541.108,4542.276,"Anyway,",1.0,1144
+4542.776,4544.528,I don't deserve to be a doctor.,1.0,1145
+4547.656,4549.283,No. It's too hard.,1.0,1146
+4551.618,4555.038,I won't do it. I'll quit being a doctor!,1.0,1147
+4556.206,4558.709,"As a matter of fact, I was going to quit after this year.",1.0,1148
+4559.209,4562.045,I was planning to hand off things I do to my friend anyway.,1.0,1149
+4563.422,4564.464,It's over now.,1.0,1150
+4565.007,4568.302,I'll quit my job tomorrow. Damn it.,1.0,1151
+4570.637,4573.39,"Andrea, if that's how you feel,",,1152
+4573.473,4575.517,I'll tell you to quit later.,,1153
+4575.684,4578.02,So why don't you hang in there one more year?,,1154
+4579.646,4580.856,Seriously.,,1155
+4584.484,4586.486,1 YEAR AGO,,1156
+4593.744,4595.537,"Hey, Min-u...",1.0,1157
+4605.339,4606.423,Min-u...,1.0,1158
+4608.467,4610.886,wrote me a letter.,1.0,1159
+4612.471,4614.973,He couldn't even read Korean.,1.0,1160
+4619.144,4622.814,But he wrote me a letter before he died.,1.0,1161
+4626.401,4627.402,I...,1.0,1162
+4628.111,4630.072,don't deserve to be a doctor.,1.0,1163
+4630.739,4633.075,I'm not good enough and I've got nothing to show for!,1.0,1164
+4634.076,4635.661,I'm going to quit being a doctor.,1.0,1165
+4636.37,4639.081,I'm going to quit tomorrow!,1.0,1166
+4640.29,4641.416,Andrea.,,1167
+4642.167,4643.46,Hang in there for one more year.,,1168
+4646.463,4647.714,Seriously.,,1169
+4647.798,4649.341,2 YEARS AGO,,1170
+4650.133,4651.76,"You know, my patient, Min-ji?",1.0,1171
+4652.427,4655.055,Min-ji woke up today.,1.0,1172
+4656.348,4660.143,She was even able to breathe on her own.,1.0,1173
+4660.519,4664.147,She looked at me and winked at me like this.,1.0,1174
+4665.023,4666.566,Just like this.,1.0,1175
+4666.65,4670.696,She looked at me and winked at me.,1.0,1176
+4671.863,4674.574,Okay. Cheers.,1.0,1177
+4674.908,4678.12,It's the happiest day of my life. Cheers!,1.0,1178
+4678.453,4679.705,Cheers!,1.0,1179
+4679.788,4682.332,3 YEARS AGO,,1180
+4686.628,4687.838,I'm going to quit.,1.0,1181
+4689.506,4690.757,I'm not a doctor.,1.0,1182
+4691.299,4693.343,I'm a fraud!,1.0,1183
+4694.386,4696.638,Die! I should die!,1.0,1184
+4698.557,4699.599,Andrea.,,1185
+4700.726,4702.728,Let's try this for one more year. Okay?,,1186
+4705.814,4707.399,"My gosh, how adorable.",,1187
+4715.407,4717.534,"Yes, come in.",5.0,1188
+4719.411,4721.747,What's a good menu in the cafeteria?,2.0,1189
+4722.789,4725.876,-Look at you. You came to work early. -I didn't go home last night.,5.0,1190
+4726.835,4728.17,I'll have breakfast before I go.,2.0,1191
+4728.837,4730.63,Should you drive after an all-nighter?,5.0,1192
+4730.714,4732.257,I'll grab a cab. Bye.,2.0,1193
+4732.841,4735.761,Do you have a symposium this weekend? Was it at J Hotel?,5.0,1194
+4735.844,4737.554,How do you know about it?,2.0,1195
+4739.389,4740.766,Right. Professor Jang?,2.0,1196
+4741.6,4743.685,I'll send him your regards. I'm leaving.,2.0,1197
+4743.81,4745.02,Bye.,5.0,1198
+4754.237,4755.155,Hey.,2.0,1199
+4760.535,4761.453,Get off now.,2.0,1200
+4763.955,4765.332,Listen to me.,,1201
+4765.415,4767.918,I'm sober now. I swear.,,1202
+4768.668,4770.295,I'm completely sober.,,1203
+4770.545,4771.588,Are you kidding me?,2.0,1204
+4771.671,4775.926,-I smell alcohol whenever you talk. -No way. It's been hours.,2.0,1205
+4776.009,4778.512,I just smell like alcohol.,,1206
+4778.595,4781.89,"When we talked on the phone earlier, you were still drinking at the wrap party.",2.0,1207
+4782.557,4785.102,That was five hours ago. You were totally drunk then.,2.0,1208
+4785.185,4788.063,-This is a crime. -I'm completely fine now.,2.0,1209
+4788.23,4789.773,Forget it. Let's just go.,,1210
+4789.898,4792.4,No one will know anyway. What's your problem?,,1211
+4793.068,4795.32,Do you see the sauna over there? Get some sleep there.,2.0,1212
+4799.032,4800.7,That's enough.,,1213
+4801.535,4803.203,Stop making a big deal out of nothing!,,1214
+4804.913,4808.291,I'll drop off your car at your house. Let's talk later.,2.0,1215
+4808.959,4809.96,And we should...,2.0,1216
+4811.628,4812.587,end it then.,2.0,1217
