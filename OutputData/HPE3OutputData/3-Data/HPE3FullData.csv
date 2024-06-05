@@ -1,0 +1,1465 @@
+Start,End,Text,Character,SentenceIndex,vaderNeg,vaderNeu,vaderPos,vaderCompound,roBERTaNeg,roBERTaNeu,roBERTaPos,roBERTaMajorSentiment,vaderMajorSentiment
+33.158,34.658,"dr. ahn , sangu .",Secondary,0,0.0,1.0,0.0,0.0,0.0879372,0.8293558,0.08270702,Neutral,Neutral
+34.743,38.293,goodness . sangu .,Ahn Jeong-won,1,0.0,0.25,0.75,0.4588,0.026823679,0.42777023,0.54540604,Positive,Positive
+38.371,40.921,"sangu , say hello doctor .",Secondary,2,0.0,1.0,0.0,0.0,0.035260696,0.8051825,0.15955684,Neutral,Neutral
+41.124,43.334,right . go .,Secondary,3,0.0,1.0,0.0,0.0,0.09675743,0.6065693,0.2966733,Neutral,Neutral
+43.793,46.303,"sangu , came shark today .",Ahn Jeong-won,4,0.0,1.0,0.0,0.0,0.04490817,0.88832635,0.066765524,Neutral,Neutral
+46.88,51.05,take look 's inside shark 's mouth ?,Ahn Jeong-won,5,0.0,1.0,0.0,0.0,0.11161698,0.8584299,0.029953076,Neutral,Neutral
+51.968,53.088,"oh , .",Ahn Jeong-won,6,0.0,1.0,0.0,0.0,0.29706195,0.561192,0.14174606,Neutral,Neutral
+53.386,56.766,"sangu , crying ?",Secondary,7,0.756,0.244,0.0,-0.4767,0.4317791,0.54358226,0.024638655,Neutral,Negative
+57.057,60.227,doctor going ease stomachache .,Secondary,8,0.0,0.545,0.455,0.3612,0.09278363,0.7308357,0.17638068,Neutral,Neutral
+60.31,62.77,'s trying ease stomachache . crying ?,Secondary,9,0.36,0.349,0.291,-0.1531,0.45709932,0.50401425,0.038886428,Neutral,Negative
+62.854,63.864,n't cry .,Secondary,10,0.0,0.281,0.719,0.3724,0.12971632,0.6534753,0.21680835,Neutral,Positive
+65.523,66.823,"keep crying ,",Secondary,11,0.756,0.244,0.0,-0.4767,0.64660126,0.31021217,0.04318663,Negative,Negative
+66.9,70.78,scary doctor going scold give shot .,Secondary,12,0.596,0.404,0.0,-0.7096,0.64170074,0.33823988,0.02005932,Negative,Negative
+71.529,72.909,"right , doctor ?",Secondary,13,0.0,1.0,0.0,0.0,0.1456592,0.7714745,0.0828663,Neutral,Neutral
+74.032,76.242,bad boy ! 's syringe ?,Ahn Jeong-won,14,0.558,0.442,0.0,-0.5848,0.31553268,0.64736414,0.03710315,Neutral,Negative
+76.451,79.871,"nurse , big syringe sangu going get ?",Ahn Jeong-won,15,0.0,1.0,0.0,0.0,0.18723683,0.7726054,0.04015775,Neutral,Neutral
+79.954,82.294,"sangu , quiet . stop crying .",Secondary,16,0.726,0.274,0.0,-0.6486,0.39032212,0.53569394,0.07398393,Neutral,Negative
+83.208,86.708,"keep crying , doctor going bring big syringe .",Secondary,17,0.341,0.659,0.0,-0.4767,0.708451,0.26872477,0.022824246,Negative,Neutral
+87.504,88.514,stop .,Secondary,18,1.0,0.0,0.0,-0.296,0.45770818,0.40653712,0.13575469,Negative,Negative
+96.429,99.849,let 's see . snacks sangu right .,Ahn Jeong-won,19,0.0,1.0,0.0,0.0,0.076873794,0.7820336,0.1410926,Neutral,Neutral
+99.933,102.893,"oh , goodness . scared sangu ?",Secondary,20,0.367,0.253,0.38,0.0258,0.5131717,0.45609397,0.03073433,Negative,Positive
+102.977,105.807,"scared sweet boy , sangu ?",Secondary,21,0.367,0.253,0.38,0.0258,0.23018786,0.7168267,0.052985415,Neutral,Positive
+105.897,107.267,doctor ?,Secondary,22,0.0,1.0,0.0,0.0,0.18031448,0.73223895,0.08744653,Neutral,Neutral
+108.316,110.316,"doctor , right ?",Secondary,23,0.0,1.0,0.0,0.0,0.14441319,0.7637348,0.09185198,Neutral,Neutral
+110.401,112.451,'ll scold .,Secondary,24,0.73,0.27,0.0,-0.4019,0.38934788,0.53696835,0.07368376,Neutral,Negative
+113.029,114.159,.,Secondary,25,0.0,0.0,0.0,0.0,0.24528693,0.51357335,0.24113972,Neutral,Positive
+115.323,117.333,scolded bad doctor .,Secondary,26,0.636,0.364,0.0,-0.5423,0.7921673,0.19186988,0.015962826,Negative,Negative
+118.159,122.079,"doctor , scare sangu ?",Secondary,27,0.615,0.385,0.0,-0.4939,0.16224684,0.80790424,0.029848859,Neutral,Negative
+122.664,124.504,'s nice boy .,Secondary,28,0.0,0.417,0.583,0.4215,0.00792259,0.10815377,0.88392365,Positive,Positive
+125.25,128.55,"doctor , wo n't scare sangu anymore , right ?",Secondary,29,0.0,0.695,0.305,0.3875,0.18008305,0.76876426,0.051152665,Neutral,Neutral
+129.254,130.134,"right , doctor ?",Secondary,30,0.0,1.0,0.0,0.0,0.1456592,0.7714745,0.0828663,Neutral,Neutral
+134.05,136.01,"sorry , sangu .",Ahn Jeong-won,31,0.565,0.435,0.0,-0.0772,0.4974333,0.45304358,0.049523093,Negative,Negative
+136.594,138.974,'ll give snack instead shot .,Ahn Jeong-won,32,0.0,1.0,0.0,0.0,0.0876421,0.79516876,0.117189124,Neutral,Neutral
+139.139,141.429,eat 're better .,Secondary,33,0.0,0.408,0.592,0.4404,0.04842052,0.4580543,0.4935251,Positive,Positive
+141.516,143.016,yes . professor ahn .,Secondary,34,0.0,0.426,0.574,0.4019,0.059987206,0.6900204,0.24999247,Neutral,Positive
+143.101,146.021,jisu needs peg tube changed .,Secondary,35,0.0,1.0,0.0,0.0,0.31544185,0.6489431,0.03561501,Neutral,Neutral
+146.604,149.654,"excuse second , sangu . yes .",Ahn Jeong-won,36,0.0,0.333,0.667,0.4588,0.060561754,0.6749928,0.26444542,Neutral,Positive
+153.528,154.898,hello .,Kim Jun-wan,37,0.0,1.0,0.0,0.0,0.09716277,0.6296369,0.27320033,Neutral,Neutral
+156.823,159.243,took look ultrasound .,Kim Jun-wan,38,0.0,1.0,0.0,0.0,0.11352101,0.80990916,0.07656983,Neutral,Neutral
+161.995,164.035,difficult treat antibiotics .,Kim Jun-wan,39,0.403,0.161,0.435,0.0516,0.44305408,0.5165971,0.040348805,Neutral,Positive
+164.664,166.544,exactly ?,Secondary,40,0.0,1.0,0.0,0.0,0.18720923,0.7045181,0.10827263,Neutral,Neutral
+166.708,169.038,infective endocarditis .,Kim Jun-wan,41,0.0,1.0,0.0,0.0,0.68024975,0.29534268,0.024407612,Negative,Neutral
+169.127,171.297,'s infection endocardium .,Kim Jun-wan,42,0.0,1.0,0.0,0.0,0.51757354,0.4512469,0.031179653,Negative,Neutral
+171.379,174.469,"treat antibiotics , may suffer embolism .",Kim Jun-wan,43,0.38,0.326,0.293,-0.2023,0.7051871,0.27353674,0.02127613,Negative,Negative
+174.883,177.643,'m concerned infected mass might block vessels .,Kim Jun-wan,44,0.55,0.45,0.0,-0.7269,0.7712617,0.22003981,0.00869848,Negative,Negative
+177.719,180.349,must get surgery soon possible . find bed ?,Kim Jun-wan,45,0.0,1.0,0.0,0.0,0.086010054,0.86307424,0.0509157,Neutral,Neutral
+180.43,182.14,"yes , get checked 6 p.m .",Secondary,46,0.0,0.526,0.474,0.4019,0.028334083,0.81275314,0.15891285,Neutral,Neutral
+182.223,185.023,check today let 's book surgery soon .,Kim Jun-wan,47,0.0,1.0,0.0,0.0,0.030574376,0.87334037,0.09608524,Neutral,Neutral
+185.602,187.272,serious ? yes .,Secondary,48,0.325,0.0,0.675,0.34,0.034153577,0.5675113,0.39833513,Neutral,Positive
+190.356,191.816,"infected mass small ,",Kim Jun-wan,49,0.615,0.385,0.0,-0.4939,0.5525908,0.42324892,0.024160324,Negative,Negative
+191.9,193.99,antibiotics used break .,Kim Jun-wan,50,0.0,1.0,0.0,0.0,0.19725646,0.7506904,0.052053127,Neutral,Neutral
+194.068,197.158,"ultrasound , infected mass big dangling .",Kim Jun-wan,51,0.444,0.556,0.0,-0.4939,0.44741786,0.5219242,0.030657975,Neutral,Neutral
+197.238,198.908,ca n't tell fall .,Kim Jun-wan,52,0.0,1.0,0.0,0.0,0.2271056,0.69146544,0.08142894,Neutral,Neutral
+199.449,201.329,"goes brain , causes stroke .",Kim Jun-wan,53,0.0,1.0,0.0,0.0,0.7555715,0.22801536,0.016413106,Negative,Neutral
+201.409,203.159,"goes heart , causes heart attack .",Kim Jun-wan,54,0.437,0.563,0.0,-0.4767,0.813457,0.1715699,0.014973083,Negative,Neutral
+203.244,205.124,need surgery soon .,Kim Jun-wan,55,0.0,1.0,0.0,0.0,0.4444219,0.5236945,0.03188364,Neutral,Neutral
+205.747,207.827,opening surgery two three days ?,Kim Jun-wan,56,0.0,1.0,0.0,0.0,0.161509,0.8044016,0.034089323,Neutral,Neutral
+207.916,210.706,", 're full . 's opening week .",Secondary,57,0.0,1.0,0.0,0.0,0.028602334,0.8281647,0.14323299,Neutral,Neutral
+210.793,213.883,'ll morning must . call anesthesiology,Kim Jun-wan,58,0.0,1.0,0.0,0.0,0.08584847,0.8455031,0.06864851,Neutral,Neutral
+213.963,216.673,ask help surgery two three days .,Kim Jun-wan,59,0.0,0.649,0.351,0.4019,0.11687087,0.80427134,0.07885773,Neutral,Neutral
+217.258,218.178,okay .,Secondary,60,0.0,0.0,1.0,0.2263,0.11996016,0.5391302,0.34090966,Neutral,Positive
+218.259,222.719,"doctor , daughter getting married three days .",Secondary,61,0.0,1.0,0.0,0.0,0.047928534,0.7959584,0.15611309,Neutral,Neutral
+223.306,225.226,postpone surgery next week ?,Secondary,62,0.388,0.612,0.0,-0.2263,0.08721386,0.88357574,0.029210415,Neutral,Neutral
+225.808,226.848,", .",Kim Jun-wan,63,0.0,0.0,0.0,0.0,0.23276104,0.57723576,0.19000316,Neutral,Positive
+227.435,229.595,'s couple days .,Secondary,64,0.0,1.0,0.0,0.0,0.06770081,0.7489253,0.18337391,Neutral,Neutral
+230.396,233.016,would n't okay ? .,Secondary,65,0.454,0.546,0.0,-0.1695,0.43384144,0.53896695,0.02719166,Neutral,Neutral
+233.107,235.067,want end life .,Kim Jun-wan,66,0.0,0.606,0.394,0.0772,0.7535375,0.21991706,0.026545431,Negative,Neutral
+235.693,238.533,"dad , talking ? n't foolish .",Secondary,67,0.0,0.623,0.377,0.2057,0.26944092,0.6530086,0.07755053,Neutral,Neutral
+239.113,240.703,wedding n't 's important .,Secondary,68,0.347,0.653,0.0,-0.1511,0.4068967,0.54597497,0.047128372,Neutral,Neutral
+241.366,243.116,look wedding photos .,Kim Jun-wan,69,0.0,1.0,0.0,0.0,0.048405353,0.85564804,0.09594661,Neutral,Neutral
+243.201,244.831,ask take lots photos .,Kim Jun-wan,70,0.0,1.0,0.0,0.0,0.027030008,0.6788765,0.29409346,Neutral,Neutral
+245.453,248.163,'ll see tomorrow rounds .,Kim Jun-wan,71,0.0,1.0,0.0,0.0,0.027105674,0.8514591,0.12143524,Neutral,Neutral
+250.208,252.378,let go need .,Secondary,72,0.0,1.0,0.0,0.0,0.13273942,0.70183134,0.16542923,Neutral,Neutral
+253.836,256.756,"first , head left blood sample drawn .",Secondary,73,0.0,1.0,0.0,0.0,0.18899319,0.7829188,0.02808804,Neutral,Neutral
+256.839,258.719,doctor rude ?,Secondary,74,0.75,0.25,0.0,-0.4588,0.64304245,0.333914,0.023043593,Negative,Negative
+259.759,262.099,sorry . well aware .,Secondary,75,0.295,0.227,0.477,0.2023,0.3323578,0.58409363,0.08354861,Neutral,Positive
+263.513,265.143,"second , get ekg room",Secondary,76,0.0,1.0,0.0,0.0,0.17531516,0.7278942,0.09679068,Neutral,Neutral
+265.223,267.933,right next blood sample drawn .,Secondary,77,0.0,1.0,0.0,0.0,0.11564492,0.8547816,0.029573372,Neutral,Neutral
+268.017,269.307,third ... well ...,Secondary,78,0.0,0.588,0.412,0.2732,0.17161044,0.76521146,0.063178115,Neutral,Neutral
+269.602,271.942,aged 78. name im giyeong .,Secondary,79,0.0,1.0,0.0,0.0,0.036317527,0.86044747,0.10323507,Neutral,Neutral
+272.021,274.611,underwent coiling month ago due sah .,Secondary,80,0.0,1.0,0.0,0.0,0.14985494,0.8110672,0.03907781,Neutral,Neutral
+275.483,277.943,showed symptoms leg weakness dementia three days ago,Secondary,81,0.286,0.714,0.0,-0.4215,0.613303,0.37435853,0.012338489,Negative,Neutral
+278.027,279.447,readmitted .,Secondary,82,0.0,1.0,0.0,0.0,0.19896357,0.6664115,0.13462493,Neutral,Neutral
+279.529,281.859,ct scan revealed hydrocephalus .,Secondary,83,0.0,1.0,0.0,0.0,0.6025307,0.37730902,0.020160278,Negative,Neutral
+282.949,286.619,seems ivh accompanied sah gone .,Secondary,84,0.0,1.0,0.0,0.0,0.23239222,0.71895176,0.04865598,Neutral,Neutral
+286.703,287.623,evd ...,Secondary,85,0.0,1.0,0.0,0.0,0.16605996,0.7015242,0.13241588,Neutral,Neutral
+290.248,291.538,'s . 'm sorry .,Secondary,86,0.394,0.606,0.0,-0.0772,0.57861745,0.38173643,0.039646156,Negative,Neutral
+293.626,295.546,think perform vp shunt .,Secondary,87,0.0,1.0,0.0,0.0,0.06067688,0.8793602,0.059962876,Neutral,Neutral
+296.045,298.085,n't memorized ?,Chae Song-hwa,88,0.0,1.0,0.0,0.0,0.2973699,0.6572177,0.045412414,Neutral,Neutral
+298.715,299.915,'re right .,Secondary,89,0.0,1.0,0.0,0.0,0.07845135,0.52208316,0.39946547,Neutral,Neutral
+300.675,302.885,sure needs vp shunt ? yes .,Chae Song-hwa,90,0.0,0.375,0.625,0.6124,0.03428142,0.7612988,0.20441975,Neutral,Positive
+305.388,306.598,.,Secondary,91,0.0,0.0,0.0,0.0,0.24528693,0.51357335,0.24113972,Neutral,Positive
+307.807,310.437,"wrong ? yes , think .",Secondary,92,0.456,0.147,0.397,-0.1027,0.20016785,0.7081522,0.09167994,Neutral,Negative
+311.227,313.347,really ? think 's right .,Chae Song-hwa,93,0.0,1.0,0.0,0.0,0.042594016,0.60337234,0.35403365,Neutral,Neutral
+316.774,318.614,next round .,Chae Song-hwa,94,0.0,1.0,0.0,0.0,0.11585076,0.6744923,0.20965695,Neutral,Neutral
+318.693,321.033,prepare summary relevant papers surgical cases .,Chae Song-hwa,95,0.0,1.0,0.0,0.0,0.0884342,0.84512067,0.066445075,Neutral,Neutral
+321.112,322.112,okay .,Secondary,96,0.0,0.0,1.0,0.2263,0.11996016,0.5391302,0.34090966,Neutral,Positive
+322.447,323.737,", . okay .",Secondary,97,0.0,0.0,1.0,0.2263,0.07531829,0.64934695,0.2753347,Neutral,Positive
+330.079,331.909,"professor chae , lunch yet ?",Secondary,98,0.0,1.0,0.0,0.0,0.05681195,0.8933861,0.04980192,Neutral,Neutral
+331.998,333.708,got new restaurant deliver us .,Secondary,99,0.0,1.0,0.0,0.0,0.019880343,0.65439576,0.32572392,Neutral,Neutral
+334.125,335.875,one ? seafood stew restaurant .,Chae Song-hwa,100,0.0,1.0,0.0,0.0,0.04181682,0.864296,0.09388714,Neutral,Neutral
+336.294,337.634,'s much delivery food .,Chae Song-hwa,101,0.0,1.0,0.0,0.0,0.07084438,0.7416336,0.18752201,Neutral,Neutral
+337.712,339.922,also wonderful haemulpajeon .,Secondary,102,0.0,0.351,0.649,0.5719,0.0021901815,0.05728581,0.94052404,Positive,Positive
+340.006,342.006,join us . 'll set office .,Secondary,103,0.0,0.645,0.355,0.296,0.010815654,0.7164928,0.27269158,Neutral,Neutral
+342.425,344.465,go ahead without . 'll eat guys .,Chae Song-hwa,104,0.0,1.0,0.0,0.0,0.10136784,0.79279757,0.10583457,Neutral,Neutral
+344.552,345.682,guys ?,Secondary,105,0.0,1.0,0.0,0.0,0.13135843,0.74871147,0.11993014,Neutral,Neutral
+345.762,346.722,gongnyong ridge,Secondary,106,0.0,1.0,0.0,0.0,0.12024117,0.7103191,0.1694397,Neutral,Neutral
+346.804,348.144,songhwa : lunch ? seokhyeong : okay,Secondary,107,0.0,0.612,0.388,0.2263,0.0125724925,0.8133599,0.17406757,Neutral,Neutral
+348.222,350.602,give minute,Secondary,108,0.0,1.0,0.0,0.0,0.22260591,0.5910566,0.18633755,Neutral,Neutral
+350.683,354.813,'s important moment life,Lee Ik-joon,109,0.0,0.625,0.375,0.2023,0.0129229035,0.32987526,0.6572018,Positive,Neutral
+374.123,377.673,"gyeoul , residents rarely get see mesocaval shunt person .",Secondary,110,0.0,1.0,0.0,0.0,0.2721875,0.68554294,0.042269535,Neutral,Neutral
+377.752,379.712,? told talk .,Lee Ik-joon,111,0.0,1.0,0.0,0.0,0.13295001,0.7872549,0.07979512,Neutral,Neutral
+379.796,381.506,get . let 's play fair .,Secondary,112,0.0,0.39,0.61,0.5719,0.05933751,0.68432176,0.2563407,Neutral,Positive
+381.589,382.919,? n't anything .,Secondary,113,0.0,1.0,0.0,0.0,0.57073295,0.3976191,0.031647917,Negative,Neutral
+383.007,384.877,"start talking , ? well ...",Secondary,114,0.0,0.588,0.412,0.2732,0.19847551,0.74804854,0.053475965,Neutral,Neutral
+385.259,386.549,...,Secondary,115,0.0,1.0,0.0,0.0,0.23258078,0.620445,0.14697418,Neutral,Neutral
+391.224,392.814,decided 's seafood stew .,Ahn Jeong-won,116,0.0,1.0,0.0,0.0,0.05836632,0.8605437,0.081089884,Neutral,Neutral
+392.892,395.272,'m allergic songhwa wants seafood stew .,Lee Ik-joon,117,0.306,0.694,0.0,-0.296,0.4772839,0.46696696,0.05574921,Negative,Neutral
+395.353,398.193,'re waiting gyeoul come quiet .,Lee Ik-joon,118,0.0,1.0,0.0,0.0,0.08274613,0.7800323,0.13722162,Neutral,Neutral
+398.856,399.896,gyeoul ?,Lee Ik-joon,119,0.0,1.0,0.0,0.0,0.12613662,0.77566284,0.09820061,Neutral,Neutral
+401.984,404.614,'s right . 's pressure .,Secondary,120,0.423,0.577,0.0,-0.296,0.117574625,0.735642,0.14678337,Neutral,Neutral
+405.363,406.453,take pick .,Secondary,121,0.0,1.0,0.0,0.0,0.17722799,0.62482846,0.1979436,Neutral,Neutral
+406.531,408.661,course . understand .,Secondary,122,0.0,1.0,0.0,0.0,0.080522716,0.6639562,0.25552112,Neutral,Neutral
+408.741,411.241,'re fine . understand everything .,Secondary,123,0.0,0.625,0.375,0.2023,0.012076127,0.22271477,0.76520914,Positive,Neutral
+411.911,413.081,...,Secondary,124,0.0,1.0,0.0,0.0,0.23258078,0.620445,0.14697418,Neutral,Neutral
+417.625,419.335,choose hpd .,Secondary,125,0.0,1.0,0.0,0.0,0.14961545,0.7398065,0.11057808,Neutral,Neutral
+419.419,421.089,come ! gosh .,Secondary,126,0.0,1.0,0.0,0.0,0.3856279,0.48515373,0.12921837,Neutral,Neutral
+422.046,424.466,"come . hemicolectomy great choice , .",Secondary,127,0.0,0.423,0.577,0.6249,0.0136109525,0.20203698,0.7843521,Positive,Positive
+425.383,426.633,gosh . darn .,Secondary,128,0.0,1.0,0.0,0.0,0.6847094,0.2827182,0.032572385,Negative,Neutral
+426.717,428.757,guardians must .,Secondary,129,0.0,1.0,0.0,0.0,0.17406295,0.71541,0.110526994,Neutral,Neutral
+429.053,432.273,goodness . mean ... ?,Secondary,130,0.0,0.4,0.6,0.4588,0.1671477,0.70680684,0.12604554,Neutral,Positive
+434.1,436.52,let 's go . songhwa ordered bigeyed herring .,Ahn Jeong-won,131,0.0,1.0,0.0,0.0,0.046627466,0.7893795,0.16399303,Neutral,Neutral
+436.602,437.482,junwan ?,Lee Ik-joon,132,0.0,1.0,0.0,0.0,0.13959147,0.7714455,0.088963084,Neutral,Neutral
+437.562,440.192,'s picu . guess wo n't joining us .,Lee Ik-joon,133,0.0,1.0,0.0,0.0,0.29224014,0.6661666,0.041593257,Neutral,Neutral
+441.524,443.154,yulje medical center,Secondary,134,0.0,1.0,0.0,0.0,0.11785365,0.8027189,0.0794275,Neutral,Neutral
+445.945,447.695,'s huidong 's weight today ?,Kim Jun-wan,135,0.0,1.0,0.0,0.0,0.046139188,0.9267542,0.02710673,Neutral,Neutral
+447.78,449.12,'s three kilograms .,Secondary,136,0.0,1.0,0.0,0.0,0.13361236,0.67296475,0.19342296,Neutral,Neutral
+460.209,462.839,close . let 's get ready .,Kim Jun-wan,137,0.0,0.615,0.385,0.3612,0.03873662,0.7520006,0.2092628,Neutral,Neutral
+465.131,466.421,'s jaehak ?,Secondary,138,0.0,1.0,0.0,0.0,0.067891225,0.8621953,0.0699134,Neutral,Neutral
+466.507,469.217,went get med students earlier .,Secondary,139,0.0,1.0,0.0,0.0,0.06269977,0.87244594,0.06485431,Neutral,Neutral
+469.635,472.215,right . guess 's suited .,Kim Jun-wan,140,0.0,1.0,0.0,0.0,0.08495733,0.73088866,0.18415399,Neutral,Neutral
+472.305,473.425,let 's get started .,Kim Jun-wan,141,0.0,1.0,0.0,0.0,0.048438292,0.6352501,0.31631157,Neutral,Neutral
+474.724,477.894,cs lot emergency surgeries . cases dramatic .,Secondary,142,0.342,0.658,0.0,-0.3818,0.33745533,0.5889491,0.073595636,Neutral,Neutral
+478.394,480.734,someone fine morning,Secondary,143,0.0,0.526,0.474,0.2023,0.007796637,0.1135714,0.878632,Positive,Neutral
+480.813,482.323,could dead afternoon cs .,Secondary,144,0.589,0.411,0.0,-0.6486,0.25831974,0.6753619,0.0663183,Neutral,Negative
+483.608,486.238,know best cardiothoracic surgeon ?,Secondary,145,0.0,0.417,0.583,0.6369,0.07617854,0.8651254,0.05869611,Neutral,Positive
+487.945,488.985,ji sung .,Secondary,146,0.0,1.0,0.0,0.0,0.04920428,0.74487376,0.205922,Neutral,Neutral
+490.198,492.158,? ji sung new heart .,Secondary,147,0.0,1.0,0.0,0.0,0.026892046,0.82362854,0.14947937,Neutral,Neutral
+492.241,493.911,'ve watched medical dramas since ten .,Secondary,148,0.0,1.0,0.0,0.0,0.073787965,0.85680646,0.06940559,Neutral,Neutral
+494.619,495.699,.,Secondary,149,0.0,0.0,0.0,0.0,0.24528693,0.51357335,0.24113972,Neutral,Positive
+495.786,497.656,teacher kim dr. romantic ?,Secondary,150,0.0,0.526,0.474,0.4019,0.07430786,0.8904038,0.035288356,Neutral,Neutral
+499.79,501.5,names cheol miae ?,Secondary,151,0.0,1.0,0.0,0.0,0.16418052,0.7667368,0.0690827,Neutral,Neutral
+501.584,503.674,'re hongdo yunbok . hongdo yunbok .,Secondary,152,0.0,1.0,0.0,0.0,0.05078499,0.81201476,0.1372002,Neutral,Neutral
+503.753,505.003,"guys , listen .",Secondary,153,0.0,1.0,0.0,0.0,0.09370969,0.7882381,0.11805219,Neutral,Neutral
+505.087,508.087,great doctors like n't exist hospital .,Secondary,154,0.0,0.377,0.623,0.765,0.23865452,0.5565963,0.2047492,Neutral,Positive
+508.966,511.046,'s thanos .,Secondary,155,0.0,1.0,0.0,0.0,0.068862215,0.79831606,0.1328217,Neutral,Neutral
+511.636,512.886,'ll meet soon .,Secondary,156,0.0,1.0,0.0,0.0,0.016156448,0.6787209,0.30512264,Neutral,Neutral
+516.557,518.597,"yes , sir . ?",Secondary,157,0.0,0.27,0.73,0.4019,0.08516825,0.81953704,0.09529473,Neutral,Positive
+519.352,520.562,'m way .,Secondary,158,0.0,1.0,0.0,0.0,0.13703008,0.6153558,0.24761412,Neutral,Neutral
+531.906,534.156,perform surgery ? yes .,Secondary,159,0.0,0.426,0.574,0.4019,0.031187544,0.8243382,0.1444743,Neutral,Positive
+535.076,538.616,'s dangerous move patient many drips .,Secondary,160,0.383,0.617,0.0,-0.4767,0.6656073,0.31346944,0.020923318,Negative,Neutral
+548.839,550.129,gyeonu jiknyeo ?,Kim Jun-wan,161,0.0,1.0,0.0,0.0,0.06591536,0.87595826,0.058126412,Neutral,Neutral
+551.008,552.588,'re hongdo yunbok .,Secondary,162,0.0,1.0,0.0,0.0,0.045230895,0.84675074,0.10801842,Neutral,Neutral
+553.553,556.063,third year med school ? yes .,Kim Jun-wan,163,0.0,0.597,0.403,0.4019,0.022268701,0.78614837,0.19158286,Neutral,Neutral
+557.974,559.354,pay attention . okay .,Kim Jun-wan,164,0.326,0.233,0.442,0.128,0.0670465,0.68295467,0.24999878,Neutral,Positive
+560.142,561.232,"professor ,",Secondary,165,0.0,1.0,0.0,0.0,0.19909723,0.5998428,0.20105997,Neutral,Neutral
+561.31,563.65,"surgery difficult ? baby live , right ?",Secondary,166,0.417,0.583,0.0,-0.4329,0.35990027,0.5872894,0.052810352,Neutral,Neutral
+563.729,566.519,"four days ago , tga , transposition great arteries .",Kim Jun-wan,167,0.0,0.594,0.406,0.6249,0.037462316,0.7766963,0.18584128,Neutral,Neutral
+566.607,568.937,heart swelling severe . could n't close .,Kim Jun-wan,168,0.342,0.658,0.0,-0.3818,0.8132314,0.1682833,0.018485337,Negative,Neutral
+571.737,575.157,"seeing heart today , might able close . , 'll .",Kim Jun-wan,169,0.0,1.0,0.0,0.0,0.01146176,0.54589915,0.44263908,Neutral,Neutral
+576.117,577.447,"live , right ?",Secondary,170,0.0,1.0,0.0,0.0,0.1067608,0.7951444,0.09809485,Neutral,Neutral
+577.535,579.405,'m closing 's better .,Kim Jun-wan,171,0.0,0.508,0.492,0.4404,0.021592475,0.40518937,0.5732181,Positive,Neutral
+581.163,582.503,"jaehak , bring .",Secondary,172,0.0,1.0,0.0,0.0,0.04263851,0.82975096,0.12761055,Neutral,Neutral
+583.624,584.464,pardon ?,Secondary,173,0.0,0.0,1.0,0.3182,0.17560384,0.719121,0.10527518,Neutral,Positive
+585.293,586.343,see . okay .,Secondary,174,0.0,0.345,0.655,0.2263,0.0793793,0.6550711,0.26554966,Neutral,Positive
+592.967,595.217,think 're ? 'll contaminate .,Kim Jun-wan,175,0.0,1.0,0.0,0.0,0.52899724,0.44961342,0.021389365,Negative,Neutral
+597.138,598.138,death wish ?,Kim Jun-wan,176,0.591,0.0,0.409,-0.296,0.5821541,0.40258262,0.015263325,Negative,Negative
+599.682,600.602,means guardians .,Secondary,177,0.0,1.0,0.0,0.0,0.114359565,0.8028941,0.082746364,Neutral,Neutral
+609.775,612.525,"sir , chanhyeong slight fever .",Secondary,178,0.0,1.0,0.0,0.0,0.14655383,0.75966895,0.09377721,Neutral,Neutral
+614.739,615.869,since ?,Kim Jun-wan,179,0.0,1.0,0.0,0.0,0.19002607,0.6909418,0.119032145,Neutral,Neutral
+616.407,618.737,"checked 8 a.m. , 36degc .",Secondary,180,0.0,1.0,0.0,0.0,0.0291038,0.83883524,0.13206099,Neutral,Neutral
+618.826,621.786,"checked 's 38.3degc . nose little runny , .",Secondary,181,0.0,1.0,0.0,0.0,0.14510445,0.74337894,0.111516625,Neutral,Neutral
+623.247,626.127,perform surgery today ? let see .,Secondary,182,0.0,1.0,0.0,0.0,0.05332015,0.9161768,0.030503022,Neutral,Neutral
+637.011,639.811,"lung n't sound good , either . ca n't operate like .",Kim Jun-wan,183,0.392,0.608,0.0,-0.5448,0.86135375,0.12818557,0.010460619,Negative,Neutral
+640.556,643.016,give five minutes . remove membrane .,Secondary,184,0.0,1.0,0.0,0.0,0.1437192,0.78419435,0.07208643,Neutral,Neutral
+643.934,645.604,touch baby ?,Secondary,185,0.0,1.0,0.0,0.0,0.11810143,0.798737,0.08316156,Neutral,Neutral
+645.686,647.056,disinfected hands . okay .,Secondary,186,0.0,0.513,0.487,0.2263,0.5167751,0.43691298,0.046311934,Negative,Neutral
+654.987,657.617,'s wrong baby ?,Secondary,187,0.608,0.392,0.0,-0.4767,0.40540016,0.5652046,0.02939516,Neutral,Negative
+657.698,660.578,"jaehak , get chanhyeong 's guardians .",Kim Jun-wan,188,0.0,1.0,0.0,0.0,0.06456324,0.84426767,0.0911691,Neutral,Neutral
+661.452,663.872,tetralogy fallot . 's congenital heart defect .,Kim Jun-wan,189,0.324,0.676,0.0,-0.34,0.5716554,0.4064469,0.021897722,Negative,Neutral
+663.954,666.334,"ventricular septal defect , pulmonary stenosis ,",Kim Jun-wan,190,0.375,0.625,0.0,-0.34,0.44111502,0.53414136,0.024743605,Neutral,Neutral
+666.415,669.085,"right ventricular hypertrophy , overriding aorta , together .",Kim Jun-wan,191,0.0,1.0,0.0,0.0,0.027056957,0.86640084,0.10654219,Neutral,Neutral
+669.669,671.589,scheduled operate afternoon .,Kim Jun-wan,192,0.0,1.0,0.0,0.0,0.050967917,0.8631309,0.085901104,Neutral,Neutral
+671.671,674.261,"oxygen saturation little low , though .",Kim Jun-wan,193,0.311,0.689,0.0,-0.204,0.49088374,0.47456273,0.034553565,Negative,Neutral
+675.257,677.047,'s showing symptoms pneumonia .,Kim Jun-wan,194,0.0,1.0,0.0,0.0,0.7465996,0.23500414,0.01839627,Negative,Neutral
+678.803,681.183,needs surgery soon possible .,Kim Jun-wan,195,0.0,1.0,0.0,0.0,0.19518916,0.7580656,0.04674522,Neutral,Neutral
+682.431,683.311,.,Secondary,196,0.0,0.0,0.0,0.0,0.24528693,0.51357335,0.24113972,Neutral,Positive
+695.319,696.819,bad news .,Kim Jun-wan,197,0.778,0.222,0.0,-0.5423,0.8065656,0.17450432,0.01893008,Negative,Negative
+696.904,699.534,need postpone surgery day two .,Kim Jun-wan,198,0.322,0.678,0.0,-0.2263,0.26659527,0.6978659,0.035538804,Neutral,Neutral
+700.324,702.284,fever lung n't sound good .,Kim Jun-wan,199,0.376,0.624,0.0,-0.3412,0.8925629,0.09852656,0.008910549,Negative,Neutral
+702.368,705.498,plan reschedule taking xray lungs .,Kim Jun-wan,200,0.0,1.0,0.0,0.0,0.12042419,0.83924544,0.040330365,Neutral,Neutral
+706.914,708.424,'s still finding hard breathe .,Kim Jun-wan,201,0.259,0.741,0.0,-0.1027,0.5671623,0.39844066,0.034397088,Negative,Neutral
+708.499,711.379,might pain rush surgery .,Kim Jun-wan,202,0.524,0.476,0.0,-0.5106,0.27238518,0.6977632,0.029851677,Neutral,Negative
+712.336,713.666,"'ll , .",Secondary,203,0.0,1.0,0.0,0.0,0.13916892,0.7314768,0.12935431,Neutral,Neutral
+715.381,718.221,"'s mild case pneumonia , 'll recover two three days .",Kim Jun-wan,204,0.0,1.0,0.0,0.0,0.017686224,0.51099396,0.47131976,Neutral,Neutral
+718.3,720.01,'ll observe days .,Kim Jun-wan,205,0.0,1.0,0.0,0.0,0.08211993,0.76369965,0.1541805,Neutral,Neutral
+722.179,723.559,questions ?,Kim Jun-wan,206,0.0,1.0,0.0,0.0,0.18667157,0.7339813,0.079347126,Neutral,Neutral
+724.557,725.427,.,Secondary,207,0.0,0.0,0.0,0.0,0.24528693,0.51357335,0.24113972,Neutral,Positive
+727.977,730.597,"'ll reschedule surgery let us know , right ?",Secondary,208,0.0,1.0,0.0,0.0,0.033380672,0.9081925,0.058426842,Neutral,Neutral
+731.272,733.192,know . explained already .,Secondary,209,0.0,1.0,0.0,0.0,0.16645285,0.6523503,0.18119684,Neutral,Neutral
+734.567,735.477,"okay , .",Kim Jun-wan,210,0.0,0.0,1.0,0.2263,0.1492129,0.61013854,0.2406486,Neutral,Positive
+738.696,742.316,"gosh , seem composed . son 's life stake .",Secondary,211,0.0,1.0,0.0,0.0,0.043824885,0.50035805,0.45581704,Neutral,Neutral
+743.284,745.954,immature . see young mother ?,Secondary,212,0.0,1.0,0.0,0.0,0.30197766,0.67117393,0.026848428,Neutral,Neutral
+746.036,747.116,born 2000 .,Secondary,213,0.0,1.0,0.0,0.0,0.1262113,0.7312867,0.14250204,Neutral,Neutral
+747.705,749.325,like 's calm .,Kim Jun-wan,214,0.0,0.172,0.828,0.5859,0.041692033,0.63660395,0.32170397,Neutral,Positive
+749.999,753.039,think 's possible 's right,Secondary,215,0.0,1.0,0.0,0.0,0.015610002,0.46881276,0.51557726,Positive,Neutral
+753.127,756.047,pressure 's needs escape reality ?,Secondary,216,0.319,0.435,0.246,-0.128,0.28786436,0.68262947,0.029506188,Neutral,Neutral
+756.13,757.51,'s still young .,Secondary,217,0.0,1.0,0.0,0.0,0.08340228,0.6533438,0.2632539,Neutral,Neutral
+758.007,760.837,maybe 's trouble coming terms situation .,Secondary,218,0.351,0.649,0.0,-0.4019,0.52191854,0.4504949,0.027586574,Negative,Neutral
+760.926,761.756,jaehak . yes ?,Secondary,219,0.0,0.27,0.73,0.4019,0.03082669,0.8761316,0.09304171,Neutral,Positive
+763.637,764.847,talk much ?,Kim Jun-wan,220,0.0,1.0,0.0,0.0,0.18471941,0.7688564,0.046424165,Neutral,Neutral
+767.349,768.519,mind business .,Kim Jun-wan,221,0.0,1.0,0.0,0.0,0.2421369,0.62450325,0.1333598,Neutral,Neutral
+769.935,770.935,okay .,Secondary,222,0.0,0.0,1.0,0.2263,0.11996016,0.5391302,0.34090966,Neutral,Positive
+776.15,777.15,let 's get going .,Secondary,223,0.0,1.0,0.0,0.0,0.026268326,0.47220048,0.5015312,Positive,Neutral
+780.863,782.033,"hey , little baby .",Secondary,224,0.0,1.0,0.0,0.0,0.097321644,0.6900404,0.21263795,Neutral,Neutral
+783.282,784.662,n't sick .,Secondary,225,0.0,0.27,0.73,0.4023,0.28595096,0.58885753,0.1251915,Neutral,Positive
+807.264,810.854,yulje medical center,Secondary,226,0.0,1.0,0.0,0.0,0.11785365,0.8027189,0.0794275,Neutral,Neutral
+813.479,814.689,feel dizzy .,Lee Ik-joon,227,0.655,0.345,0.0,-0.2263,0.576701,0.38308534,0.040213685,Negative,Negative
+822.154,825.034,'s ikjun 's favorite song . 's favorite song .,Ahn Jeong-won,228,0.0,0.5,0.5,0.7184,0.0045749224,0.2307595,0.7646656,Positive,Positive
+825.115,827.905,", 's song . lie eating ,",Chae Song-hwa,229,0.0,1.0,0.0,0.0,0.37491986,0.5685015,0.056578666,Neutral,Neutral
+827.993,829.253,'ll get reflux esophagitis .,Lee Ik-joon,230,0.0,1.0,0.0,0.0,0.7338815,0.24839449,0.017724022,Negative,Neutral
+829.328,831.958,songhwa . eyes get worse ?,Lee Ik-joon,231,0.508,0.492,0.0,-0.4767,0.87143755,0.12158382,0.006978545,Negative,Negative
+832.414,834.254,eyesight ca n't see .,Lee Ik-joon,232,0.0,1.0,0.0,0.0,0.3400768,0.6029524,0.056970768,Neutral,Neutral
+834.542,835.712,try removing contacts .,Chae Song-hwa,233,0.0,1.0,0.0,0.0,0.2521196,0.7008161,0.04706433,Neutral,Neutral
+835.793,837.383,'s taking junwan long ?,Chae Song-hwa,234,0.0,1.0,0.0,0.0,0.25379786,0.7208384,0.025363725,Neutral,Neutral
+837.461,839.711,"guys , n't told yet ,",Ahn Jeong-won,235,0.0,1.0,0.0,0.0,0.17110291,0.7667935,0.06210361,Neutral,Neutral
+839.797,841.087,sing song really well .,Ahn Jeong-won,236,0.0,0.556,0.444,0.3384,0.005628494,0.118275695,0.87609583,Positive,Neutral
+841.173,843.883,kept quiet fuss guys make .,Ahn Jeong-won,237,0.0,1.0,0.0,0.0,0.20550197,0.73110825,0.063389756,Neutral,Neutral
+843.968,846.638,want go karaoke ? ?,Lee Ik-joon,238,0.0,0.546,0.454,0.168,0.017846415,0.8047196,0.17743395,Neutral,Neutral
+846.72,849.31,"say ? go tonight ? oh , good .",Lee Ik-joon,239,0.0,0.551,0.449,0.504,0.0038920585,0.12992324,0.8661847,Positive,Neutral
+850.015,852.345,"anything ? course . come , sit .",Kim Jun-wan,240,0.0,1.0,0.0,0.0,0.056058723,0.84389955,0.10004173,Neutral,Neutral
+854.687,856.057,quick . yes .,Ahn Jeong-won,241,0.0,0.27,0.73,0.4019,0.036012337,0.44159487,0.5223928,Positive,Positive
+856.146,858.896,delayed sternal closure . ketchup ?,Kim Jun-wan,242,0.388,0.612,0.0,-0.2263,0.27855307,0.69985664,0.021590266,Neutral,Neutral
+859.608,860.858,sorts stuff .,Ahn Jeong-won,243,0.0,1.0,0.0,0.0,0.111399084,0.7891407,0.09946022,Neutral,Neutral
+861.443,863.323,came food .,Ahn Jeong-won,244,0.0,1.0,0.0,0.0,0.11571505,0.7173138,0.16697112,Neutral,Neutral
+866.74,869.45,"please , stop wiping table . see shrink .",Chae Song-hwa,245,0.259,0.471,0.271,0.0258,0.6378154,0.33991408,0.02227045,Negative,Neutral
+869.785,871.115,"n't , flies .",Ahn Jeong-won,246,0.0,1.0,0.0,0.0,0.37924635,0.5343442,0.08640949,Neutral,Neutral
+871.704,873.414,put smack .,Chae Song-hwa,247,0.0,1.0,0.0,0.0,0.3220112,0.54030913,0.13767962,Neutral,Neutral
+875.291,876.501,hey .,Kim Jun-wan,248,0.0,1.0,0.0,0.0,0.18461223,0.5913169,0.22407086,Neutral,Neutral
+877.626,879.246,guys know ? ?,Kim Jun-wan,249,0.0,1.0,0.0,0.0,0.13531145,0.7877387,0.07694984,Neutral,Neutral
+879.336,880.206,?,Lee Ik-joon,250,0.0,0.0,0.0,0.0,0.20457315,0.68945074,0.10597605,Neutral,Positive
+881.38,882.67,sing song really well .,Kim Jun-wan,251,0.0,0.556,0.444,0.3384,0.005628494,0.118275695,0.87609583,Positive,Neutral
+883.549,885.089,n't `` aloha '' cool ?,Kim Jun-wan,252,0.0,0.635,0.365,0.3182,0.23603544,0.58356637,0.18039818,Neutral,Neutral
+885.175,887.595,made lot girls cry song .,Kim Jun-wan,253,0.437,0.563,0.0,-0.4767,0.3828193,0.5159439,0.101236805,Neutral,Neutral
+887.845,889.715,right . hawaii .,Ahn Jeong-won,254,0.0,1.0,0.0,0.0,0.08222616,0.8203105,0.09746333,Neutral,Neutral
+891.515,892.385,good . hawaii ?,Kim Jun-wan,255,0.0,0.256,0.744,0.4404,0.027983181,0.8099706,0.16204615,Neutral,Positive
+892.474,894.104,n't . ?,Kim Jun-wan,256,0.0,1.0,0.0,0.0,0.20392767,0.71892405,0.0771483,Neutral,Neutral
+894.184,895.024,? ?,Ahn Jeong-won,257,0.0,0.0,0.0,0.0,0.19455518,0.72974735,0.07569741,Neutral,Positive
+897.187,899.857,"something happened hawaii , right ? bet .",Lee Ik-joon,258,0.0,1.0,0.0,0.0,0.1747493,0.7919369,0.03331382,Neutral,Neutral
+899.94,901.44,"hey , ...",Secondary,259,0.0,1.0,0.0,0.0,0.15503962,0.7244404,0.12051999,Neutral,Neutral
+901.525,904.105,hawaii month medical board exam .,Lee Ik-joon,260,0.0,1.0,0.0,0.0,0.086414725,0.87761563,0.035969645,Neutral,Neutral
+904.194,905.864,stop moving .,Chae Song-hwa,261,0.688,0.312,0.0,-0.296,0.4149677,0.5178077,0.06722459,Neutral,Negative
+905.946,907.356,ouch . 're place .,Chae Song-hwa,262,0.0,1.0,0.0,0.0,0.47012353,0.48754394,0.04233257,Neutral,Neutral
+908.365,910.445,'s famous since high school .,Kim Jun-wan,263,0.0,1.0,0.0,0.0,0.032790706,0.41506594,0.55214334,Positive,Neutral
+910.534,912.544,friends everyone ten different classes .,Kim Jun-wan,264,0.0,0.563,0.437,0.4767,0.1282494,0.77082074,0.10092987,Neutral,Neutral
+912.62,915.0,"noisy , easily distracted moved constantly .",Kim Jun-wan,265,0.482,0.235,0.282,-0.1779,0.79172474,0.1868147,0.021460505,Negative,Negative
+915.08,917.71,n't know always got top grades school .,Kim Jun-wan,266,0.0,0.769,0.231,0.2023,0.1130847,0.68963075,0.19728453,Neutral,Neutral
+917.791,921.051,'s kids today call `` fleek . '',Lee Ik-joon,267,0.0,1.0,0.0,0.0,0.17541333,0.75423557,0.07035114,Neutral,Neutral
+921.128,922.338,'s `` unfleek . '',Lee Ik-joon,268,0.0,1.0,0.0,0.0,0.22346817,0.720406,0.05612581,Neutral,Neutral
+923.213,925.673,'m trying listen song .,Yang Seok-hyung,269,0.0,1.0,0.0,0.0,0.08405047,0.78617764,0.12977192,Neutral,Neutral
+926.05,927.34,annoying prick .,Yang Seok-hyung,270,1.0,0.0,0.0,-0.6249,0.93197227,0.05623804,0.011789662,Negative,Negative
+928.594,930.764,pick professor lee 's surgery ?,Secondary,271,0.0,1.0,0.0,0.0,0.086028375,0.8820309,0.031940747,Neutral,Neutral
+930.971,932.891,yes . gyeoul .,Secondary,272,0.0,0.27,0.73,0.4019,0.0254797,0.56131613,0.41320416,Neutral,Positive
+934.391,935.891,like professor lee ?,Secondary,273,0.0,0.444,0.556,0.3612,0.10392767,0.84878653,0.047285862,Neutral,Positive
+936.477,937.477,yes .,Secondary,274,0.0,0.0,1.0,0.4019,0.10013353,0.4596959,0.44017053,Neutral,Positive
+938.854,940.194,like professor lee .,Secondary,275,0.0,0.444,0.556,0.3612,0.08163352,0.80682313,0.11154327,Neutral,Positive
+942.566,943.646,kid .,Secondary,276,0.0,1.0,0.0,0.0,0.15859206,0.6788406,0.16256739,Neutral,Neutral
+945.277,946.197,?,Secondary,277,0.0,0.0,0.0,0.0,0.20457315,0.68945074,0.10597605,Neutral,Positive
+948.864,949.874,nothing .,Secondary,278,0.0,1.0,0.0,0.0,0.2748684,0.56714666,0.157985,Neutral,Neutral
+954.495,956.995,ever performed `` aloha '' ?,Chae Song-hwa,279,0.0,1.0,0.0,0.0,0.10373032,0.8523574,0.043912373,Neutral,Neutral
+957.081,959.631,", . never performed show .",Ahn Jeong-won,280,0.0,1.0,0.0,0.0,0.5918177,0.37912935,0.029052934,Negative,Neutral
+959.708,961.338,"least , conscience .",Kim Jun-wan,281,0.0,1.0,0.0,0.0,0.13791642,0.6954954,0.16658822,Neutral,Neutral
+961.418,962.748,"hey , remember ?",Ahn Jeong-won,282,0.0,1.0,0.0,0.0,0.113536686,0.7644843,0.12197908,Neutral,Neutral
+962.836,966.126,practiced night perform show song .,Ahn Jeong-won,283,0.0,1.0,0.0,0.0,0.026782855,0.87118334,0.1020337,Neutral,Neutral
+966.215,969.425,jerk registered band comedy team .,Ahn Jeong-won,284,0.304,0.38,0.316,0.0258,0.056343168,0.86082596,0.08283082,Neutral,Neutral
+969.51,972.43,jerk told us day festival .,Kim Jun-wan,285,0.279,0.349,0.372,0.2023,0.083294086,0.8181579,0.09854797,Neutral,Positive
+972.513,975.103,said n't poster secret weapon .,Kim Jun-wan,286,0.0,0.679,0.321,0.2235,0.28620064,0.6655502,0.048249204,Neutral,Neutral
+975.182,976.682,"gosh , idiot .",Kim Jun-wan,287,0.767,0.233,0.0,-0.5106,0.9070382,0.07787862,0.015083088,Negative,Negative
+976.767,979.097,"'s lucky 's doctor . otherwise , 'd fraud .",Kim Jun-wan,288,0.328,0.431,0.241,-0.25,0.17503628,0.6005572,0.22440647,Neutral,Neutral
+979.186,981.356,band closer comedy music show .,Lee Ik-joon,289,0.0,0.615,0.385,0.3612,0.014357599,0.7419883,0.2436541,Neutral,Neutral
+981.438,984.778,saved guys getting beaten audience .,Lee Ik-joon,290,0.326,0.349,0.326,0.0,0.573522,0.39955318,0.026924895,Negative,Neutral
+985.15,986.57,"come . still ,",Ahn Jeong-won,291,0.0,1.0,0.0,0.0,0.13051333,0.7087536,0.16073309,Neutral,Neutral
+986.652,988.322,improved lot three four years .,Ahn Jeong-won,292,0.0,0.563,0.437,0.4767,0.018618202,0.29328617,0.6880956,Positive,Neutral
+988.404,989.704,well given situation .,Kim Jun-wan,293,0.0,0.488,0.512,0.2732,0.12448175,0.7662113,0.10930702,Neutral,Positive
+989.78,991.95,"besides , guys scared .",Lee Ik-joon,294,0.592,0.408,0.0,-0.4404,0.6171901,0.35745552,0.025354384,Negative,Negative
+992.032,994.912,"found show , hands shook week .",Lee Ik-joon,295,0.259,0.741,0.0,-0.1027,0.073482364,0.6870297,0.23948795,Neutral,Neutral
+995.035,997.615,thought hand tremors . gosh .,Lee Ik-joon,296,0.0,0.484,0.516,0.4939,0.4745012,0.45224532,0.073253505,Negative,Positive
+997.705,999.955,worried might able finish internship,Lee Ik-joon,297,0.355,0.645,0.0,-0.296,0.2922093,0.62916994,0.07862074,Neutral,Neutral
+1000.04,1002.79,shaky hands . stop making stories .,Lee Ik-joon,298,0.577,0.423,0.0,-0.4767,0.84681785,0.14222845,0.010953698,Negative,Negative
+1002.876,1006.506,suck bad ? thought pretty good .,Chae Song-hwa,299,0.474,0.074,0.452,-0.0772,0.3266858,0.4057246,0.26758966,Neutral,Negative
+1006.588,1009.628,performing stage different matter altogether .,Ahn Jeong-won,300,0.0,0.784,0.216,0.0258,0.114040464,0.79835993,0.087599576,Neutral,Neutral
+1009.717,1011.217,like gag concert .,Kim Jun-wan,301,0.407,0.169,0.424,0.0258,0.09952703,0.7840541,0.11641892,Neutral,Positive
+1011.301,1014.391,ikjun got mad tried teach play bass guitar .,Kim Jun-wan,302,0.276,0.517,0.207,-0.2023,0.5074254,0.4661222,0.026452338,Negative,Neutral
+1014.471,1016.811,damn . 'm still angry .,Lee Ik-joon,303,0.75,0.25,0.0,-0.7184,0.9235858,0.06862785,0.0077863736,Negative,Negative
+1016.89,1019.56,"hey , n't bad .",Chae Song-hwa,304,0.0,0.412,0.588,0.431,0.020333864,0.22220056,0.75746554,Positive,Positive
+1020.06,1024.36,besides ... 's good terrible teacher .,Chae Song-hwa,305,0.31,0.4,0.29,-0.0516,0.67438257,0.25943413,0.06618337,Negative,Neutral
+1025.19,1028.53,"even , like ikjun 's voice .",Yang Seok-hyung,306,0.0,0.615,0.385,0.3612,0.04639714,0.75092787,0.20267501,Neutral,Neutral
+1028.61,1029.65,go . good one .,Lee Ik-joon,307,0.0,0.408,0.592,0.4404,0.012936739,0.16450098,0.8225622,Positive,Positive
+1030.446,1031.906,'ll sing guys today .,Lee Ik-joon,308,0.0,1.0,0.0,0.0,0.006648601,0.7057001,0.28765127,Neutral,Neutral
+1032.698,1034.618,let 's go karaoke work .,Lee Ik-joon,309,0.0,1.0,0.0,0.0,0.0172782,0.6629576,0.31976426,Neutral,Neutral
+1034.7,1037.75,"time go karaoke , would n't eating seafood stew .",Chae Song-hwa,310,0.0,1.0,0.0,0.0,0.28337994,0.6347407,0.08187935,Neutral,Neutral
+1038.328,1039.658,vsd surgery .,Kim Jun-wan,311,0.0,1.0,0.0,0.0,0.16792202,0.764327,0.067750975,Neutral,Neutral
+1039.747,1041.417,conference ped tonight .,Ahn Jeong-won,312,0.0,1.0,0.0,0.0,0.048751272,0.8658402,0.085408494,Neutral,Neutral
+1041.498,1042.788,'m grocery shopping mom .,Yang Seok-hyung,313,0.0,1.0,0.0,0.0,0.1216987,0.7447594,0.13354191,Neutral,Neutral
+1043.375,1044.375,weekend ?,Lee Ik-joon,314,0.0,1.0,0.0,0.0,0.08870532,0.8227228,0.088571966,Neutral,Neutral
+1044.46,1046.05,'m golfing director chairman .,Kim Jun-wan,315,0.0,1.0,0.0,0.0,0.027246576,0.87507135,0.09768211,Neutral,Neutral
+1046.128,1048.708,halfmarathon . 's . 'm going camping .,Ahn Jeong-won,316,0.0,1.0,0.0,0.0,0.056256037,0.81901,0.12473397,Neutral,Neutral
+1050.466,1052.216,'m getting nails done mom .,Chae Song-hwa,317,0.0,1.0,0.0,0.0,0.04311871,0.80874354,0.14813781,Neutral,Neutral
+1052.301,1053.471,"fine , wo n't go .",Yang Seok-hyung,318,0.0,0.625,0.375,0.2023,0.13996556,0.74163103,0.11840345,Neutral,Neutral
+1054.845,1057.305,guys ridiculous .,Lee Ik-joon,319,0.714,0.286,0.0,-0.3612,0.8332989,0.14046046,0.026240533,Negative,Negative
+1058.14,1061.64,think 've got nothing better go karaoke ?,Lee Ik-joon,320,0.286,0.714,0.0,-0.3412,0.18293852,0.65616345,0.16089803,Neutral,Neutral
+1061.727,1063.847,"'m busy , .",Lee Ik-joon,321,0.0,1.0,0.0,0.0,0.3491087,0.5592235,0.09166779,Neutral,Neutral
+1063.937,1066.517,need watch movie coloring uju .,Lee Ik-joon,322,0.0,1.0,0.0,0.0,0.035941616,0.8402669,0.1237915,Neutral,Neutral
+1066.607,1068.897,"need eat loach soup , .",Lee Ik-joon,323,0.0,1.0,0.0,0.0,0.1787305,0.7490834,0.07218609,Neutral,Neutral
+1068.984,1071.994,wo n't go . 'm going ! gosh .,Lee Ik-joon,324,0.0,1.0,0.0,0.0,0.3959483,0.497505,0.10654667,Neutral,Neutral
+1072.821,1075.241,"'ll probably go , right ? one hundred percent .",Ahn Jeong-won,325,0.0,1.0,0.0,0.0,0.013369296,0.55821735,0.4284134,Neutral,Neutral
+1076.2,1079.16,su karaoke,Secondary,326,0.0,1.0,0.0,0.0,0.045960687,0.83183223,0.122207075,Neutral,Neutral
+1079.244,1081.964,"guess , uju . nightclub ?",Lee Ik-joon,327,0.0,1.0,0.0,0.0,0.083826594,0.8661181,0.05005539,Neutral,Neutral
+1083.665,1085.495,taught word ? aunt .,Lee Ik-joon,328,0.0,1.0,0.0,0.0,0.21173187,0.7481564,0.040111803,Neutral,Neutral
+1086.585,1088.495,aunt terminator told,Secondary,329,0.0,1.0,0.0,0.0,0.2822435,0.68998456,0.02777203,Neutral,Neutral
+1088.587,1092.507,lived place called nightclub long time ago .,Secondary,330,0.0,1.0,0.0,0.0,0.12972973,0.79459554,0.075674735,Neutral,Neutral
+1092.841,1094.381,nightclub rat .,Secondary,331,0.0,1.0,0.0,0.0,0.4542484,0.5028115,0.04294018,Neutral,Neutral
+1097.763,1098.813,'s true .,Secondary,332,0.0,0.263,0.737,0.4215,0.035352148,0.53118056,0.43346727,Neutral,Positive
+1098.889,1102.479,dad used live apartment named `` nightclub . '',Lee Ik-joon,333,0.0,1.0,0.0,0.0,0.099765606,0.8461403,0.05409405,Neutral,Neutral
+1102.559,1104.599,n't apartment .,Lee Ik-joon,334,0.0,1.0,0.0,0.0,0.30060112,0.5962333,0.103165515,Neutral,Neutral
+1104.895,1108.435,"place ... know 'm band , right ?",Lee Ik-joon,335,0.0,1.0,0.0,0.0,0.085764445,0.83155674,0.082678735,Neutral,Neutral
+1108.941,1111.691,"like super wings , sing , dance , put shows .",Lee Ik-joon,336,0.0,0.439,0.561,0.7506,0.011381904,0.54002774,0.44859034,Neutral,Positive
+1111.777,1113.027,'m like .,Lee Ik-joon,337,0.0,0.286,0.714,0.3612,0.21739556,0.6463283,0.13627613,Neutral,Positive
+1114.029,1116.529,first place ever performed .,Lee Ik-joon,338,0.0,1.0,0.0,0.0,0.08482517,0.7732062,0.14196868,Neutral,Neutral
+1118.117,1120.537,could say spent youth .,Lee Ik-joon,339,0.0,1.0,0.0,0.0,0.12545605,0.78855354,0.08599041,Neutral,Neutral
+1120.619,1121.619,uju .,Lee Ik-joon,340,0.0,1.0,0.0,0.0,0.19458425,0.64489216,0.16052361,Neutral,Neutral
+1122.579,1123.789,suddenly ...,Lee Ik-joon,341,0.0,1.0,0.0,0.0,0.1585359,0.7401802,0.10128384,Neutral,Neutral
+1125.707,1127.077,feel bit overwhelmed .,Lee Ik-joon,342,0.0,0.625,0.375,0.0516,0.7094617,0.26647314,0.024065219,Negative,Neutral
+1130.838,1134.088,dad . please buy one corn dog .,Secondary,343,0.0,0.685,0.315,0.3182,0.099522606,0.8008046,0.09967273,Neutral,Neutral
+1136.718,1139.048,corn dog ... finished already ?,Lee Ik-joon,344,0.0,1.0,0.0,0.0,0.35143283,0.6162292,0.032338005,Neutral,Neutral
+1139.138,1140.098,yes .,Secondary,345,0.0,0.0,1.0,0.4019,0.10013353,0.4596959,0.44017053,Neutral,Positive
+1140.889,1143.729,okay . let 's go stall closes . right .,Lee Ik-joon,346,0.207,0.575,0.218,0.0258,0.025277603,0.71791756,0.25680488,Neutral,Neutral
+1144.56,1146.56,corn dog good ? yes .,Lee Ik-joon,347,0.0,0.263,0.737,0.6808,0.0101436,0.27354616,0.7163102,Positive,Positive
+1148.772,1149.862,"hey , uju .",Lee Ik-joon,348,0.0,1.0,0.0,0.0,0.09887365,0.75325054,0.14787574,Neutral,Neutral
+1150.107,1152.567,say `` please '' want something .,Lee Ik-joon,349,0.0,0.526,0.474,0.3818,0.15260717,0.751476,0.09591684,Neutral,Neutral
+1152.651,1154.951,", 's true . 's news .",Secondary,350,0.0,0.517,0.483,0.4215,0.02065617,0.48711342,0.4922304,Positive,Neutral
+1155.529,1157.319,? learn ?,Lee Ik-joon,351,0.0,1.0,0.0,0.0,0.2431469,0.7140086,0.04284444,Neutral,Neutral
+1157.739,1159.409,mom . gosh .,Secondary,352,0.0,1.0,0.0,0.0,0.3713021,0.5238685,0.104829445,Neutral,Neutral
+1159.491,1162.411,stayed night,Chae Song-hwa,353,0.0,1.0,0.0,0.0,0.08160387,0.74436367,0.17403242,Neutral,Neutral
+1162.786,1168.206,seeing smile makes happy,Chae Song-hwa,354,0.0,0.244,0.756,0.7351,0.0019310857,0.032703508,0.96536535,Positive,Positive
+1168.667,1171.747,even 're joking,Chae Song-hwa,355,0.0,0.513,0.487,0.2263,0.13029288,0.67227507,0.19743204,Neutral,Neutral
+1172.504,1173.424,hey .,Chae Song-hwa,356,0.0,1.0,0.0,0.0,0.18461223,0.5913169,0.22407086,Neutral,Neutral
+1173.505,1176.335,"sorry . trying reserve song , ended canceling .",Kim Jun-wan,357,0.206,0.794,0.0,-0.0772,0.6994673,0.269648,0.03088471,Negative,Neutral
+1176.717,1178.677,liar . 's right . lied .,Chae Song-hwa,358,0.747,0.253,0.0,-0.7096,0.72656065,0.24712682,0.026312513,Negative,Negative
+1181.096,1182.756,"hey , wake .",Kim Jun-wan,359,0.0,1.0,0.0,0.0,0.14088106,0.65412486,0.20499413,Neutral,Neutral
+1184.141,1185.681,'s wrong ?,Kim Jun-wan,360,0.756,0.244,0.0,-0.4767,0.4295029,0.52661455,0.043882545,Neutral,Negative
+1186.643,1188.233,took three calming pills morning .,Ahn Jeong-won,361,0.0,0.597,0.403,0.4019,0.007963049,0.4725763,0.5194607,Positive,Neutral
+1188.312,1190.062,show ?,Chae Song-hwa,362,0.0,1.0,0.0,0.0,0.13196932,0.77801055,0.09002007,Neutral,Neutral
+1190.147,1192.897,"seokhyeong hermit sociophobe , lives isolation .",Ahn Jeong-won,363,0.403,0.597,0.0,-0.4019,0.57552224,0.39947546,0.025002342,Negative,Neutral
+1192.983,1195.283,"gosh , last one ? coward .",Ahn Jeong-won,364,0.5,0.5,0.0,-0.4588,0.7845642,0.19286731,0.022568483,Negative,Neutral
+1195.36,1197.91,"yes . , known grand slammer .",Ahn Jeong-won,365,0.0,0.26,0.74,0.6908,0.14703679,0.7626055,0.09035779,Neutral,Positive
+1199.698,1201.328,"hey , 's turn !",Ahn Jeong-won,366,0.0,1.0,0.0,0.0,0.041636717,0.6294411,0.32892215,Neutral,Neutral
+1201.408,1204.078,requested something . give second .,Kim Jun-wan,367,0.0,1.0,0.0,0.0,0.078721195,0.81966347,0.101615384,Neutral,Neutral
+1204.161,1206.411,"listen . , seokhyeong ,",Ahn Jeong-won,368,0.0,1.0,0.0,0.0,0.037512198,0.87106746,0.091420375,Neutral,Neutral
+1206.496,1209.246,"ikjun , junwan , songhwa . 's turn sing .",Ahn Jeong-won,369,0.0,1.0,0.0,0.0,0.025050258,0.8163353,0.1586144,Neutral,Neutral
+1209.374,1211.844,actually keeping count ? kind pervert ?,Kim Jun-wan,370,0.328,0.298,0.374,0.1179,0.62990445,0.35557324,0.014522327,Negative,Positive
+1211.919,1213.299,'s ikjun ?,Chae Song-hwa,371,0.0,1.0,0.0,0.0,0.11122635,0.80362535,0.08514831,Neutral,Neutral
+1214.004,1215.884,'re .,Chae Song-hwa,372,0.0,1.0,0.0,0.0,0.15307158,0.69516253,0.15176581,Neutral,Neutral
+1217.507,1218.927,goodness . song ?,Yang Seok-hyung,373,0.0,0.25,0.75,0.4588,0.028195336,0.65008533,0.3217193,Neutral,Positive
+1219.009,1219.839,`` aloha '' cool,Secondary,374,0.0,0.566,0.434,0.3182,0.012698168,0.29257542,0.69472647,Positive,Neutral
+1220.802,1222.852,"pick song ? , n't .",Chae Song-hwa,375,0.0,1.0,0.0,0.0,0.19156048,0.74193484,0.06650473,Neutral,Neutral
+1223.347,1224.637,", ?",Chae Song-hwa,376,0.0,0.0,0.0,0.0,0.21379602,0.63302815,0.1531758,Neutral,Positive
+1227.851,1232.441,candle dark,Secondary,377,0.0,1.0,0.0,0.0,0.14215311,0.6695148,0.18833213,Neutral,Neutral
+1232.814,1236.994,wineglass filled promise,Secondary,378,0.0,0.465,0.535,0.3182,0.025633669,0.6151412,0.35922518,Neutral,Positive
+1237.361,1242.621,always stay side protect,Secondary,379,0.0,0.536,0.464,0.3818,0.066924,0.6096044,0.32347152,Neutral,Neutral
+1242.699,1246.079,", believed",Secondary,380,0.0,1.0,0.0,0.0,0.095888935,0.7074048,0.19670635,Neutral,Neutral
+1247.412,1251.332,'ll ask one thing,Secondary,381,0.0,1.0,0.0,0.0,0.1385468,0.7446835,0.11676968,Neutral,Neutral
+1251.416,1255.876,'m dreaming eternally happy,Secondary,382,0.0,0.448,0.552,0.5719,0.0022052745,0.037269022,0.9605257,Positive,Positive
+1256.129,1261.299,n't fancy n't need perfect life,Secondary,383,0.375,0.625,0.0,-0.4585,0.3599958,0.5536725,0.086331725,Neutral,Neutral
+1261.385,1265.135,thing want,Secondary,384,0.0,0.435,0.565,0.0772,0.15084553,0.55383295,0.2953215,Neutral,Positive
+1265.222,1266.522,n't worry,Secondary,385,0.0,0.294,0.706,0.3412,0.09534316,0.68086183,0.22379503,Neutral,Positive
+1267.724,1268.894,always,Secondary,386,0.0,1.0,0.0,0.0,0.19857499,0.47168455,0.3297404,Neutral,Neutral
+1270.352,1274.442,always remember moment,Secondary,387,0.0,1.0,0.0,0.0,0.02679748,0.5742289,0.39897367,Neutral,Neutral
+1274.856,1275.816,arms,Secondary,388,0.0,1.0,0.0,0.0,0.19565459,0.6053785,0.19896688,Neutral,Neutral
+1275.899,1277.439,"sit , guys .",Secondary,389,0.0,1.0,0.0,0.0,0.08824103,0.74707186,0.16468701,Neutral,Neutral
+1277.526,1279.316,n't get excited . sit .,Secondary,390,0.404,0.596,0.0,-0.2584,0.47464865,0.42833513,0.097016275,Negative,Neutral
+1280.028,1284.318,make sure smile lights forever,Secondary,391,0.0,0.385,0.615,0.5859,0.003715974,0.108796366,0.88748765,Positive,Positive
+1288.912,1292.582,saying happy,Secondary,392,0.0,0.213,0.787,0.5719,0.0070148734,0.11770244,0.8752827,Positive,Positive
+1293.208,1295.538,spend first night together,Secondary,393,0.0,1.0,0.0,0.0,0.014877256,0.8006513,0.18447146,Neutral,Neutral
+1295.627,1298.257,change,Secondary,394,0.0,1.0,0.0,0.0,0.19892499,0.6467331,0.15434194,Neutral,Neutral
+1298.338,1301.718,eyes,Secondary,395,0.0,1.0,0.0,0.0,0.22996858,0.5462561,0.22377525,Neutral,Neutral
+1307.764,1311.694,even lose everything,Secondary,396,0.574,0.426,0.0,-0.4019,0.5200021,0.452598,0.027399832,Negative,Negative
+1312.102,1314.152,wo n't regret,Secondary,397,0.0,0.462,0.538,0.3252,0.10645874,0.74874175,0.1447995,Neutral,Positive
+1314.229,1317.189,always love,Secondary,398,0.0,0.192,0.808,0.6369,0.01767374,0.19054577,0.79178053,Positive,Positive
+1317.274,1322.284,everlasting love,Secondary,399,0.0,0.192,0.808,0.6369,0.015440186,0.2208891,0.7636707,Positive,Positive
+1322.696,1323.856,"`` moment ,",Secondary,400,0.0,1.0,0.0,0.0,0.09064304,0.635447,0.27390996,Neutral,Neutral
+1323.947,1327.447,important person life n't .,Secondary,401,0.0,0.625,0.375,0.2023,0.41647494,0.51935667,0.064168476,Neutral,Neutral
+1327.951,1330.201,"show determination words ,",Secondary,402,0.0,0.426,0.574,0.4019,0.12845446,0.73933524,0.13221022,Neutral,Positive
+1330.579,1332.209,love .,Secondary,403,0.0,0.0,1.0,0.6369,0.049787294,0.38800627,0.56220645,Positive,Positive
+1332.998,1334.458,like friends said shy .,Secondary,404,0.233,0.116,0.651,0.5574,0.19197239,0.7283692,0.07965841,Neutral,Positive
+1334.541,1336.081,"like couples , much medication .",Secondary,405,0.0,0.545,0.455,0.3612,0.124172695,0.78765523,0.08817199,Neutral,Neutral
+1336.585,1340.045,"last breath , love . ''",Secondary,406,0.0,0.417,0.583,0.6369,0.047822844,0.55203754,0.40013954,Neutral,Positive
+1340.756,1344.466,believe one,Secondary,407,0.0,1.0,0.0,0.0,0.077523366,0.6081623,0.3143144,Neutral,Neutral
+1344.551,1348.721,always trust one another,Secondary,408,0.0,0.476,0.524,0.5106,0.013286541,0.3200603,0.6666531,Positive,Positive
+1348.805,1352.055,stay beat . hope comfort,Secondary,409,0.0,0.27,0.73,0.6597,0.019235652,0.4498378,0.5309266,Positive,Positive
+1352.142,1354.392,misery celebrate,Secondary,410,0.5,0.0,0.5,0.0,0.74958587,0.22595267,0.024461444,Negative,Positive
+1354.478,1358.568,"happiness together hey , slowly .",Secondary,411,0.0,0.455,0.545,0.5574,0.006180297,0.22865075,0.76516896,Positive,Positive
+1358.648,1359.688,promise,Secondary,412,0.0,0.0,1.0,0.3182,0.14735824,0.659755,0.19288683,Neutral,Positive
+1361.026,1362.646,things get hard,Secondary,413,0.412,0.588,0.0,-0.1027,0.79306555,0.18980406,0.01713039,Negative,Neutral
+1363.57,1367.57,'ll protector,Secondary,414,0.0,1.0,0.0,0.0,0.19341916,0.5671622,0.23941864,Neutral,Neutral
+1367.949,1369.199,smile arms,Secondary,415,0.0,0.286,0.714,0.3612,0.014676299,0.35165504,0.6336687,Positive,Positive
+1370.202,1373.082,make sure,Secondary,416,0.0,0.303,0.697,0.3182,0.13600288,0.5998366,0.26416057,Neutral,Positive
+1373.163,1377.333,smile lights forever,Secondary,417,0.0,0.444,0.556,0.3612,0.008772713,0.25041303,0.74081427,Positive,Positive
+1382.047,1386.007,saying happy,Secondary,418,0.0,0.213,0.787,0.5719,0.0070148734,0.11770244,0.8752827,Positive,Positive
+1386.301,1388.931,spend first night together,Secondary,419,0.0,1.0,0.0,0.0,0.014877256,0.8006513,0.18447146,Neutral,Neutral
+1389.012,1391.562,change,Secondary,420,0.0,1.0,0.0,0.0,0.19892499,0.6467331,0.15434194,Neutral,Neutral
+1391.64,1394.98,eyes,Secondary,421,0.0,1.0,0.0,0.0,0.22996858,0.5462561,0.22377525,Neutral,Neutral
+1400.857,1405.237,even lose everything,Secondary,422,0.574,0.426,0.0,-0.4019,0.5200021,0.452598,0.027399832,Negative,Negative
+1405.32,1407.53,wo n't regret,Secondary,423,0.0,0.462,0.538,0.3252,0.10645874,0.74874175,0.1447995,Neutral,Positive
+1407.614,1410.584,always love,Secondary,424,0.0,0.192,0.808,0.6369,0.01767374,0.19054577,0.79178053,Positive,Positive
+1410.659,1415.119,everlasting love,Secondary,425,0.0,0.192,0.808,0.6369,0.015440186,0.2208891,0.7636707,Positive,Positive
+1435.934,1438.354,"seven o'clock , let 's meet ! let 's meet !",Secondary,426,0.0,1.0,0.0,0.0,0.00996958,0.4611914,0.52883905,Positive,Neutral
+1438.437,1439.857,"hello , lee soogeun .",Secondary,427,0.0,1.0,0.0,0.0,0.0145205315,0.6634409,0.3220386,Neutral,Neutral
+1440.188,1441.398,"hey , jiwon , say hello .",Secondary,428,0.0,1.0,0.0,0.0,0.010861316,0.5954026,0.39373606,Neutral,Neutral
+1441.481,1443.571,hello . 'm jiwon .,Secondary,429,0.0,1.0,0.0,0.0,0.016101059,0.7082139,0.27568495,Neutral,Neutral
+1444.151,1446.901,"jiwon , looked calendar may today .",Secondary,430,0.0,1.0,0.0,0.0,0.020639818,0.8996693,0.079690896,Neutral,Neutral
+1446.987,1448.777,noticed many holidays may .,Secondary,431,0.0,0.536,0.464,0.3818,0.056819566,0.79756844,0.14561193,Neutral,Neutral
+1448.864,1451.284,"'s holiday , . children 's day !",Secondary,432,0.0,0.572,0.428,0.4574,0.06300651,0.5828328,0.35416064,Neutral,Neutral
+1451.366,1453.986,'s right . 's children 's day 's parents ' day .,Secondary,433,0.0,1.0,0.0,0.0,0.06929472,0.6468178,0.2838875,Neutral,Neutral
+1454.077,1456.197,teachers ' day well ! many !,Secondary,434,0.0,0.528,0.472,0.3987,0.009439633,0.25010726,0.7404531,Positive,Neutral
+1456.288,1457.958,trying sell something ?,Secondary,435,0.0,1.0,0.0,0.0,0.15667062,0.8065517,0.036777657,Neutral,Neutral
+1458.039,1460.289,'re discussing holidays . sound like street peddler .,Secondary,436,0.0,0.495,0.505,0.6249,0.48307484,0.47407973,0.04284537,Negative,Positive
+1460.375,1463.375,'s one thing disappoints . 's holiday .,Secondary,437,0.28,0.43,0.29,0.0258,0.83779883,0.14340407,0.018797154,Negative,Neutral
+1463.503,1466.013,"come , soogeun . whatever want every day .",Secondary,438,0.0,0.794,0.206,0.0772,0.014400122,0.51618,0.46941993,Neutral,Neutral
+1466.089,1467.629,mean ? every single day .,Secondary,439,0.0,1.0,0.0,0.0,0.2345994,0.6677353,0.09766527,Neutral,Neutral
+1467.716,1471.506,could things want one day ?,Secondary,440,0.0,0.755,0.245,0.0772,0.039756414,0.83353806,0.1267055,Neutral,Neutral
+1471.595,1474.055,try live today like ?,Secondary,441,0.0,0.545,0.455,0.3612,0.08534325,0.8752913,0.03936544,Neutral,Neutral
+1474.139,1476.099,may perfect month .,Secondary,442,0.0,0.351,0.649,0.5719,0.0039405604,0.08127524,0.91478425,Positive,Positive
+1476.183,1479.943,'s first song . 's song cool . 's english .,Secondary,443,0.0,0.753,0.247,0.3182,0.003934193,0.1258459,0.8702199,Positive,Neutral
+1480.02,1480.85,jiwon .,Secondary,444,0.0,1.0,0.0,0.0,0.12622121,0.74872655,0.12505223,Neutral,Neutral
+1499.539,1500.669,!,Secondary,445,0.0,0.0,0.0,0.0,0.09442686,0.53720474,0.36836836,Neutral,Positive
+1503.335,1505.545,"one , two .",Secondary,446,0.0,1.0,0.0,0.0,0.14351879,0.6489947,0.20748655,Neutral,Neutral
+1506.213,1508.303,let 's ! let 's go !,Secondary,447,0.0,1.0,0.0,0.0,0.013398223,0.3032201,0.6833817,Positive,Neutral
+1511.384,1513.304,good luck . let 's complete run !,Secondary,448,0.0,0.392,0.608,0.7345,0.002012876,0.058085497,0.93990165,Positive,Positive
+1518.266,1520.346,one minute start !,Secondary,449,0.0,1.0,0.0,0.0,0.039170846,0.6088588,0.35197031,Neutral,Neutral
+1521.394,1526.824,try get rid scent wind,Secondary,450,0.0,1.0,0.0,0.0,0.22717635,0.72584224,0.046981476,Neutral,Neutral
+1528.693,1532.283,"get going , n't matter",Secondary,451,0.264,0.736,0.0,-0.0191,0.10362668,0.57718354,0.31918982,Neutral,Neutral
+1532.572,1534.202,"hello , sir . 'm .",Secondary,452,0.0,1.0,0.0,0.0,0.028954595,0.7181318,0.25291365,Neutral,Neutral
+1534.282,1537.082,park car b104 . 's empty .,Secondary,453,0.31,0.69,0.0,-0.2023,0.2047744,0.71775746,0.07746814,Neutral,Neutral
+1537.577,1538.697,okay . thank .,Chae Song-hwa,454,0.0,0.0,1.0,0.5267,0.01467695,0.2935458,0.6917773,Positive,Positive
+1551.508,1554.428,good luck records !,Secondary,455,0.0,0.139,0.861,0.7345,0.0034991193,0.06334362,0.93315727,Positive,Positive
+1554.511,1560.061,"five , four , three , two , one .",Secondary,456,0.0,1.0,0.0,0.0,0.11266033,0.73963785,0.14770181,Neutral,Neutral
+1589.838,1592.588,n't send mental hospital something ?,Secondary,457,0.0,1.0,0.0,0.0,0.3734403,0.6018603,0.024699427,Neutral,Neutral
+1593.3,1595.34,right . goodness .,Secondary,458,0.0,0.25,0.75,0.4588,0.08089486,0.52668417,0.39242098,Neutral,Positive
+1596.678,1599.638,"hyeonho might surgical bleeding . elevated lactic acid level , urine",Secondary,459,0.0,1.0,0.0,0.0,0.5906928,0.3904177,0.01888948,Negative,Neutral
+1639.179,1641.429,resident yong seokmin,Secondary,460,0.0,1.0,0.0,0.0,0.0741584,0.79626054,0.12958102,Neutral,Neutral
+1658.865,1664.195,"yeoninsan campsite , b104",Secondary,461,0.0,1.0,0.0,0.0,0.050675124,0.8788913,0.07043365,Neutral,Neutral
+1671.336,1673.206,look .,Secondary,462,0.0,1.0,0.0,0.0,0.14547914,0.6548308,0.19969003,Neutral,Neutral
+1676.341,1677.261,'s good .,Secondary,463,0.0,0.256,0.744,0.4404,0.0069532846,0.09423804,0.89880866,Positive,Positive
+1679.135,1681.755,n't hard handle vip patients top regular patients ?,Secondary,464,0.25,0.463,0.287,-0.1546,0.17819665,0.77614754,0.045655802,Neutral,Neutral
+1681.846,1684.266,", 's doable . doctors , .",Kim Jun-wan,465,0.0,1.0,0.0,0.0,0.020046208,0.396009,0.5839448,Positive,Neutral
+1685.183,1687.273,'s nice see young doctor like .,Secondary,466,0.0,0.43,0.57,0.6486,0.0070821377,0.12111226,0.8718056,Positive,Positive
+1687.352,1688.852,"envy friendship , .",Secondary,467,0.42,0.0,0.58,0.2023,0.04836958,0.64931124,0.30231923,Neutral,Positive
+1688.937,1691.267,"jongsu , tenth hole far .",Secondary,468,0.0,1.0,0.0,0.0,0.0866107,0.8500103,0.06337905,Neutral,Neutral
+1691.356,1692.896,let 's take cart .,Secondary,469,0.0,1.0,0.0,0.0,0.059249062,0.7255661,0.2151848,Neutral,Neutral
+1699.072,1700.702,'s cousin .,Secondary,470,0.0,1.0,0.0,0.0,0.13504785,0.7622158,0.10273639,Neutral,Neutral
+1700.782,1703.492,'s supposed secret . everyone knows .,Secondary,471,0.0,1.0,0.0,0.0,0.1494926,0.76808226,0.082425185,Neutral,Neutral
+1703.576,1705.946,everyone hospital knows . .,Secondary,472,0.0,1.0,0.0,0.0,0.23462,0.7022954,0.06308454,Neutral,Neutral
+1706.913,1708.083,everyone knows .,Secondary,473,0.0,1.0,0.0,0.0,0.21393487,0.639529,0.14653622,Neutral,Neutral
+1708.665,1710.375,"hey , know ?",Secondary,474,0.0,1.0,0.0,0.0,0.1603624,0.6900211,0.14961655,Neutral,Neutral
+1710.875,1715.255,people know even things assume idea .,Secondary,475,0.0,1.0,0.0,0.0,0.23796377,0.69484067,0.067195565,Neutral,Neutral
+1718.758,1721.588,"hey , 'm tired . let 's take cart .",Secondary,476,0.326,0.674,0.0,-0.4404,0.27028292,0.6446566,0.0850605,Neutral,Neutral
+1721.678,1723.968,let 's walk . take cart .,Secondary,477,0.0,1.0,0.0,0.0,0.031088779,0.8307884,0.13812281,Neutral,Neutral
+1724.055,1725.675,let 's walk .,Secondary,478,0.0,1.0,0.0,0.0,0.06564942,0.7615782,0.1727724,Neutral,Neutral
+1726.474,1727.394,upset ?,Secondary,479,1.0,0.0,0.0,-0.3818,0.39627966,0.5627164,0.04100386,Neutral,Negative
+1738.987,1740.357,much prescribe ?,Kim Jun-wan,480,0.0,1.0,0.0,0.0,0.1757382,0.7479528,0.076309025,Neutral,Neutral
+1741.239,1742.199,io ?,Kim Jun-wan,481,0.0,1.0,0.0,0.0,0.20255736,0.6441802,0.15326244,Neutral,Neutral
+1743.908,1745.328,okay . 'll soon .,Kim Jun-wan,482,0.0,0.513,0.487,0.2263,0.017671786,0.6300505,0.35227776,Neutral,Neutral
+1748.955,1750.035,thank .,Yang Seok-hyung,483,0.0,0.0,1.0,0.3612,0.04915872,0.6146238,0.3362175,Neutral,Positive
+1751.499,1754.289,. scamming phone call .,Secondary,484,0.0,1.0,0.0,0.0,0.6951771,0.28758812,0.017234791,Negative,Neutral
+1754.544,1760.014,"`` sir , need go atm right . ''",Secondary,485,0.0,1.0,0.0,0.0,0.1117752,0.81911385,0.06911095,Neutral,Neutral
+1760.383,1762.513,professor yang . surprise see .,Secondary,486,0.0,0.588,0.412,0.2732,0.073295064,0.7142199,0.21248502,Neutral,Neutral
+1762.886,1764.636,thought n't eating .,Secondary,487,0.0,1.0,0.0,0.0,0.30791795,0.62975883,0.06232322,Neutral,Neutral
+1766.598,1768.268,schedule suddenly freed .,Secondary,488,0.0,0.426,0.574,0.4019,0.035968065,0.78456455,0.17946738,Neutral,Positive
+1768.349,1769.519,see .,Secondary,489,0.0,1.0,0.0,0.0,0.20908241,0.6057027,0.18521489,Neutral,Neutral
+1770.518,1773.098,"professor yang , n't tell us ? yes ?",Secondary,490,0.344,0.656,0.0,-0.3855,0.11167808,0.83297205,0.055349875,Neutral,Neutral
+1773.688,1774.978,?,Secondary,491,0.0,0.0,0.0,0.0,0.20457315,0.68945074,0.10597605,Neutral,Positive
+1775.064,1777.234,comedy club premed .,Secondary,492,0.0,0.444,0.556,0.3612,0.07945552,0.8048851,0.11565937,Neutral,Positive
+1778.109,1780.449,surprised . n't see coming .,Secondary,493,0.0,0.612,0.388,0.2263,0.0404933,0.3361027,0.623404,Positive,Neutral
+1780.528,1782.488,"thought loner , 're pretty cool .",Secondary,494,0.235,0.204,0.561,0.4939,0.0058843,0.088936254,0.9051794,Positive,Positive
+1783.072,1784.322,", n't . said ?",Secondary,495,0.0,1.0,0.0,0.0,0.22828548,0.72369313,0.048021305,Neutral,Neutral
+1785.074,1786.494,dr. jang told us .,Secondary,496,0.0,1.0,0.0,0.0,0.0933479,0.8334346,0.07321747,Neutral,Neutral
+1787.118,1789.248,dr. jang gyeoul thirdyear gs resident .,Secondary,497,0.0,1.0,0.0,0.0,0.043813094,0.9026346,0.053552184,Neutral,Neutral
+1790.079,1791.409,hello .,Secondary,498,0.0,1.0,0.0,0.0,0.09716277,0.6296369,0.27320033,Neutral,Neutral
+1791.498,1792.998,"dr. jang . 's true , n't ?",Secondary,499,0.0,0.588,0.412,0.4215,0.06037352,0.8806335,0.058993056,Neutral,Neutral
+1793.082,1797.052,said five professors born 1980 comedy club .,Secondary,500,0.0,0.706,0.294,0.3612,0.09729635,0.8228937,0.07981001,Neutral,Neutral
+1797.629,1799.589,"'s heard , . ?",Secondary,501,0.0,1.0,0.0,0.0,0.15729809,0.787786,0.05491591,Neutral,Neutral
+1799.672,1801.342,professor lee ikjun hepatopancreatic surgery .,Secondary,502,0.0,1.0,0.0,0.0,0.07819632,0.8719057,0.049898036,Neutral,Neutral
+1801.424,1802.304,see .,Secondary,503,0.0,1.0,0.0,0.0,0.20908241,0.6057027,0.18521489,Neutral,Neutral
+1805.053,1806.853,n't middle meal ?,Secondary,504,0.0,1.0,0.0,0.0,0.13235743,0.80441797,0.06322457,Neutral,Neutral
+1807.347,1809.057,try bread . 's really good .,Secondary,505,0.0,0.556,0.444,0.4927,0.0026736395,0.041250695,0.95607567,Positive,Neutral
+1809.641,1811.851,okay . dig .,Yang Seok-hyung,506,0.0,0.345,0.655,0.2263,0.10013841,0.7085447,0.19131683,Neutral,Positive
+1811.935,1814.395,"professor yang , 'd love meal .",Secondary,507,0.0,0.488,0.512,0.6369,0.012311671,0.28304774,0.70464057,Positive,Positive
+1814.896,1816.266,hear dr. jang buys beef .,Yang Seok-hyung,508,0.0,1.0,0.0,0.0,0.2675458,0.70885557,0.023598667,Neutral,Neutral
+1816.356,1819.526,sure . eat . 'll treat beef time .,Yang Seok-hyung,509,0.0,0.444,0.556,0.6124,0.039228372,0.73504394,0.22572774,Neutral,Positive
+1819.609,1820.819,right ?,Secondary,510,0.0,1.0,0.0,0.0,0.20608503,0.6216273,0.1722877,Neutral,Neutral
+1820.902,1823.862,gosh . get going .,Yang Seok-hyung,511,0.0,1.0,0.0,0.0,0.1035741,0.6386737,0.2577521,Neutral,Neutral
+1823.947,1827.407,got text message result mri requested .,Yang Seok-hyung,512,0.0,1.0,0.0,0.0,0.092098184,0.83956,0.068341866,Neutral,Neutral
+1827.492,1828.742,"bye , .",Yang Seok-hyung,513,0.0,1.0,0.0,0.0,0.24624357,0.6157783,0.13797818,Neutral,Neutral
+1829.16,1830.29,okay . okay .,Secondary,514,0.0,0.0,1.0,0.4215,0.05122895,0.5208376,0.42793348,Neutral,Positive
+1830.995,1832.205,bye . bye .,Yang Seok-hyung,515,0.0,1.0,0.0,0.0,0.37574977,0.5064853,0.11776494,Neutral,Neutral
+1832.288,1833.868,good day . okay .,Yang Seok-hyung,516,0.0,0.172,0.828,0.5859,0.0039157104,0.052418202,0.94366604,Positive,Positive
+1833.957,1834.787,goodness . bye .,Secondary,517,0.0,0.25,0.75,0.4588,0.051656578,0.42267847,0.5256649,Positive,Positive
+1837.21,1841.17,"taein , get mri requests obgyn today ?",Secondary,518,0.0,1.0,0.0,0.0,0.049351506,0.92039776,0.030250728,Neutral,Neutral
+1841.256,1843.416,", 's none . checked came .",Secondary,519,0.0,1.0,0.0,0.0,0.20868954,0.70407003,0.087240435,Neutral,Neutral
+1844.425,1846.215,"gosh , ?",Secondary,520,0.0,1.0,0.0,0.0,0.39928257,0.55026585,0.05045152,Neutral,Neutral
+1846.719,1848.299,get along people ?,Secondary,521,0.0,1.0,0.0,0.0,0.16967988,0.78135645,0.048963558,Neutral,Neutral
+1848.805,1851.715,"professor yang good , though .",Secondary,522,0.0,0.508,0.492,0.4404,0.0061395764,0.16189218,0.83196825,Positive,Neutral
+1852.016,1854.976,"'s authoritative , always work .",Secondary,523,0.0,1.0,0.0,0.0,0.031151783,0.54793036,0.42091784,Neutral,Neutral
+1855.144,1857.904,like . things work america ?,Secondary,524,0.0,0.545,0.455,0.3612,0.13767365,0.7912584,0.07106796,Neutral,Neutral
+1858.356,1861.066,heard fellowship states .,Secondary,525,0.0,1.0,0.0,0.0,0.11450706,0.80463195,0.08086097,Neutral,Neutral
+1861.317,1862.817,merit individualism ?,Secondary,526,0.0,0.263,0.737,0.4215,0.27289554,0.69088596,0.03621848,Neutral,Positive
+1862.902,1864.992,tell 's considered merit .,Secondary,527,0.0,0.517,0.483,0.4215,0.06907609,0.8217582,0.10916567,Neutral,Neutral
+1865.238,1866.988,'s frustrating sloth .,Secondary,528,0.592,0.408,0.0,-0.4404,0.9119522,0.076206274,0.011841458,Negative,Negative
+1867.74,1869.83,wish would talk least .,Secondary,529,0.0,0.526,0.474,0.4019,0.15307146,0.7520715,0.09485696,Neutral,Neutral
+1869.909,1871.579,never read 's thinking .,Secondary,530,0.0,1.0,0.0,0.0,0.48354325,0.47917295,0.037283763,Negative,Neutral
+1875.582,1878.082,"dr. jang , 's ? boyfriend ?",Secondary,531,0.0,1.0,0.0,0.0,0.06898178,0.89186114,0.039157107,Neutral,Neutral
+1878.167,1880.127,"even photo makes happy ? yes , .",Secondary,532,0.0,0.319,0.681,0.7506,0.0036823004,0.08564153,0.9106762,Positive,Positive
+1880.461,1883.051,yes . make happy . gosh .,Secondary,533,0.0,0.238,0.762,0.7506,0.0054862574,0.08603892,0.90847486,Positive,Positive
+1884.007,1884.967,'ll get going .,Secondary,534,0.0,1.0,0.0,0.0,0.020489579,0.5440955,0.43541485,Neutral,Neutral
+1892.557,1894.767,ambulance brought due severe stomachache .,Secondary,535,0.394,0.606,0.0,-0.3818,0.8565798,0.13422497,0.009195356,Negative,Neutral
+1894.851,1896.771,"according xray scan , could ileus .",Secondary,536,0.0,1.0,0.0,0.0,0.1576964,0.7791031,0.063200526,Neutral,Neutral
+1896.853,1899.273,called liver transplant .,Secondary,537,0.0,1.0,0.0,0.0,0.22352827,0.73120713,0.04526459,Neutral,Neutral
+1899.564,1901.774,released gas diarrhea waiting .,Secondary,538,0.0,1.0,0.0,0.0,0.13661097,0.77124035,0.09214867,Neutral,Neutral
+1901.858,1904.438,good work . bend knees ?,Lee Ik-joon,539,0.0,0.508,0.492,0.4404,0.011242337,0.26064563,0.72811204,Positive,Neutral
+1905.069,1908.029,"'m sorry , doctor . 's weekend .",Secondary,540,0.245,0.755,0.0,-0.0772,0.44678473,0.48281854,0.07039669,Neutral,Neutral
+1908.114,1911.034,"gyubin , know 'm always call . give second .",Lee Ik-joon,541,0.0,1.0,0.0,0.0,0.020195236,0.67242676,0.307378,Neutral,Neutral
+1914.662,1916.502,"diarrhea released gas , right ?",Lee Ik-joon,542,0.0,1.0,0.0,0.0,0.38168937,0.59314436,0.025166295,Neutral,Neutral
+1916.581,1920.081,yes . n't hurt .,Secondary,543,0.0,0.154,0.846,0.6679,0.05270202,0.5458854,0.40141258,Neutral,Positive
+1920.376,1923.296,thought going die ambulance .,Secondary,544,0.565,0.435,0.0,-0.5994,0.55486727,0.40089136,0.044241354,Negative,Negative
+1923.379,1927.009,"soon saw face , pain disappeared completely .",Secondary,545,0.565,0.435,0.0,-0.6369,0.07287386,0.4831679,0.44395825,Neutral,Negative
+1927.675,1930.175,'m really sorry . 's okay . 're recovering .,Lee Ik-joon,546,0.182,0.571,0.247,0.1458,0.03558805,0.38014644,0.5842655,Positive,Neutral
+1931.638,1934.308,"gyubin , 'm really sorry scar .",Lee Ik-joon,547,0.285,0.715,0.0,-0.1513,0.57809025,0.37703973,0.044870045,Negative,Neutral
+1934.39,1937.52,'s nothing . 'm glad back school .,Secondary,548,0.332,0.668,0.0,-0.357,0.012131992,0.108116105,0.87975186,Positive,Neutral
+1937.602,1939.102,goodness .,Lee Ik-joon,549,0.0,0.0,1.0,0.4588,0.024299005,0.32578576,0.6499152,Positive,Positive
+1941.481,1943.571,take scan quickly ?,Lee Ik-joon,550,0.0,1.0,0.0,0.0,0.09409379,0.8362712,0.06963502,Neutral,Neutral
+1943.65,1944.82,yes . okay .,Secondary,551,0.0,0.0,1.0,0.5574,0.017132528,0.32465208,0.65821534,Positive,Positive
+1946.11,1947.57,knew . see ?,Secondary,552,0.0,1.0,0.0,0.0,0.17074026,0.74553835,0.083721444,Neutral,Neutral
+1948.488,1951.488,knew would . golf course ?,Lee Ik-joon,553,0.0,1.0,0.0,0.0,0.07267815,0.8626022,0.06471969,Neutral,Neutral
+1951.574,1953.034,jeez . take look .,Secondary,554,0.0,1.0,0.0,0.0,0.31975207,0.61145335,0.06879462,Neutral,Neutral
+1953.117,1955.907,? n't much time .,Kim Jun-wan,555,0.0,1.0,0.0,0.0,0.35754693,0.5688163,0.073636785,Neutral,Neutral
+1956.454,1959.374,"'ve revision surgery . 're closing , need get back .",Kim Jun-wan,556,0.0,1.0,0.0,0.0,0.15585208,0.79856163,0.045586288,Neutral,Neutral
+1959.874,1960.754,wo n't take long .,Lee Ik-joon,557,0.0,1.0,0.0,0.0,0.08385763,0.71669155,0.1994509,Neutral,Neutral
+1961.542,1963.542,teenage patient ldlt .,Lee Ik-joon,558,0.0,1.0,0.0,0.0,0.22032313,0.73993456,0.039742317,Neutral,Neutral
+1963.628,1965.708,"'s visible steroids ,",Lee Ik-joon,559,0.0,1.0,0.0,0.0,0.1906957,0.72897935,0.080324985,Neutral,Neutral
+1966.172,1968.932,hypertrophy vertical scar bit noticeable .,Lee Ik-joon,560,0.0,1.0,0.0,0.0,0.26599705,0.688419,0.04558395,Neutral,Neutral
+1969.008,1971.338,refer case scar clinic ?,Lee Ik-joon,561,0.0,1.0,0.0,0.0,0.09757971,0.8688928,0.033527534,Neutral,Neutral
+1971.427,1972.637,sure .,Kim Jun-wan,562,0.0,0.0,1.0,0.3182,0.16858904,0.53195983,0.29945108,Neutral,Positive
+1973.513,1976.353,send department . 'll take look .,Kim Jun-wan,563,0.0,1.0,0.0,0.0,0.05747105,0.83710206,0.10542691,Neutral,Neutral
+1978.267,1979.847,gosh .,Lee Ik-joon,564,0.0,1.0,0.0,0.0,0.44641957,0.45662946,0.09695097,Neutral,Neutral
+1980.77,1983.56,iksun also biliary atresia .,Lee Ik-joon,565,0.0,1.0,0.0,0.0,0.09664125,0.8367484,0.06661038,Neutral,Neutral
+1983.898,1986.438,still big scar stomach kasai 's operation .,Lee Ik-joon,566,0.0,1.0,0.0,0.0,0.35668558,0.61609083,0.027223542,Neutral,Neutral
+1986.526,1988.026,iksun 's still alive ?,Kim Jun-wan,567,0.0,0.536,0.464,0.3818,0.05241211,0.8740846,0.073503375,Neutral,Neutral
+1989.195,1990.695,? would dead ?,Lee Ik-joon,568,0.823,0.177,0.0,-0.6868,0.38743484,0.58405465,0.028510597,Neutral,Negative
+1990.78,1992.03,n't dog 's name ?,Kim Jun-wan,569,0.0,1.0,0.0,0.0,0.15050048,0.7910522,0.05844733,Neutral,Neutral
+1992.824,1994.744,'s micky . micky sister .,Kim Jun-wan,570,0.0,1.0,0.0,0.0,0.14617504,0.7721972,0.08162784,Neutral,Neutral
+1994.826,1996.696,sister iksun . 's dog .,Lee Ik-joon,571,0.0,1.0,0.0,0.0,0.06535971,0.86221486,0.07242538,Neutral,Neutral
+1996.786,1997.906,dog 's name iksun .,Lee Ik-joon,572,0.0,1.0,0.0,0.0,0.069082364,0.83578813,0.09512952,Neutral,Neutral
+1997.996,1999.906,", dog 's name micky . micky iksun .",Lee Ik-joon,573,0.0,1.0,0.0,0.0,0.042926215,0.8777528,0.07932102,Neutral,Neutral
+1999.998,2001.618,damn . confused .,Lee Ik-joon,574,1.0,0.0,0.0,-0.6124,0.8049214,0.1774404,0.017638227,Negative,Negative
+2002.542,2004.292,younger sister 's name iksun .,Lee Ik-joon,575,0.0,1.0,0.0,0.0,0.037942477,0.886702,0.07535556,Neutral,Neutral
+2004.377,2005.837,"hey , ?",Lee Ik-joon,576,0.0,1.0,0.0,0.0,0.18828683,0.6715058,0.14020735,Neutral,Neutral
+2010.216,2011.966,recommendation letter priests .,Kim Jun-wan,577,0.0,1.0,0.0,0.0,0.107332386,0.83825606,0.05441159,Neutral,Neutral
+2012.051,2013.011,right ?,Lee Ik-joon,578,0.0,1.0,0.0,0.0,0.20608503,0.6216273,0.1722877,Neutral,Neutral
+2013.094,2014.894,"'s real time , right ? yes .",Lee Ik-joon,579,0.0,0.597,0.403,0.4019,0.019508375,0.50248533,0.47800633,Neutral,Neutral
+2014.971,2016.681,feel bad jeongwon 's mother .,Kim Jun-wan,580,0.467,0.533,0.0,-0.5423,0.7973245,0.18977267,0.012902819,Negative,Neutral
+2017.223,2018.773,. jerk .,Lee Ik-joon,581,1.0,0.0,0.0,-0.34,0.8250285,0.15229486,0.022676686,Negative,Negative
+2020.101,2021.941,"jeongwon ? , 's wife .",Kim Jun-wan,582,0.0,1.0,0.0,0.0,0.088852465,0.85802734,0.05312021,Neutral,Neutral
+2022.02,2023.48,wife ? wife ?,Kim Jun-wan,583,0.0,1.0,0.0,0.0,0.20965335,0.720583,0.069763646,Neutral,Neutral
+2025.231,2026.231,"yes , wife .",Lee Ik-joon,584,0.0,0.27,0.73,0.4019,0.050488133,0.5452609,0.404251,Neutral,Positive
+2026.315,2028.475,ambitious ms. yuk hyejeong ?,Kim Jun-wan,585,0.0,0.492,0.508,0.4767,0.059296545,0.8911318,0.049571645,Neutral,Positive
+2028.568,2030.358,"'s busy , 'll forget face pretty soon .",Kim Jun-wan,586,0.188,0.495,0.317,0.3182,0.18186407,0.6257126,0.1924234,Neutral,Neutral
+2030.445,2031.275,'s enough .,Kim Jun-wan,587,0.0,1.0,0.0,0.0,0.1413845,0.6037893,0.2548262,Neutral,Neutral
+2031.362,2033.952,"hey , honey . 's long !",Lee Ik-joon,588,0.0,1.0,0.0,0.0,0.15531245,0.6673378,0.1773497,Neutral,Neutral
+2035.408,2036.618,time ?,Lee Ik-joon,589,0.0,1.0,0.0,0.0,0.17750064,0.7003274,0.122172,Neutral,Neutral
+2037.535,2038.535,okay .,Lee Ik-joon,590,0.0,0.0,1.0,0.2263,0.11996016,0.5391302,0.34090966,Neutral,Positive
+2039.787,2041.077,marathon course ?,Kim Jun-wan,591,0.0,1.0,0.0,0.0,0.08510528,0.84961927,0.06527545,Neutral,Neutral
+2041.748,2044.038,tell hole room counts . yes .,Ahn Jeong-won,592,0.0,0.597,0.403,0.4019,0.034273542,0.6631166,0.30260986,Neutral,Neutral
+2047.17,2048.76,'s wife . okay .,Kim Jun-wan,593,0.0,0.513,0.487,0.2263,0.03547334,0.719358,0.24516863,Neutral,Neutral
+2049.338,2050.378,really ? okay . sure .,Ahn Jeong-won,594,0.0,0.173,0.827,0.5819,0.04198555,0.5968576,0.36115682,Neutral,Positive
+2050.465,2052.295,okay . 'll see tomorrow .,Lee Ik-joon,595,0.0,0.612,0.388,0.2263,0.027246745,0.73592144,0.2368318,Neutral,Neutral
+2053.134,2054.724,'s coming back tomorrow .,Lee Ik-joon,596,0.0,1.0,0.0,0.0,0.008465204,0.8179071,0.17362772,Neutral,Neutral
+2054.802,2056.602,'s coming straight hospital misses .,Ahn Jeong-won,597,0.279,0.441,0.279,0.0,0.40875417,0.5334685,0.057777364,Neutral,Neutral
+2056.679,2058.599,'s 's children 's day two days .,Kim Jun-wan,598,0.0,1.0,0.0,0.0,0.05527024,0.81727755,0.12745215,Neutral,Neutral
+2059.015,2061.385,year since saw ? year half .,Kim Jun-wan,599,0.0,1.0,0.0,0.0,0.09964042,0.84924746,0.05111207,Neutral,Neutral
+2061.476,2064.016,'ve mom 's anniversary least .,Kim Jun-wan,600,0.0,1.0,0.0,0.0,0.06031433,0.7825042,0.15718149,Neutral,Neutral
+2064.353,2066.773,whatever ! 's business .,Kim Jun-wan,601,0.0,1.0,0.0,0.0,0.184049,0.68221664,0.13373439,Neutral,Neutral
+2066.856,2068.436,"gosh , yuk hyejeong .",Lee Ik-joon,602,0.0,1.0,0.0,0.0,0.06357868,0.71686345,0.2195579,Neutral,Neutral
+2068.524,2071.074,'s friend one set .,Ahn Jeong-won,603,0.0,0.484,0.516,0.4939,0.045773663,0.7848284,0.16939795,Neutral,Positive
+2071.152,2074.452,never seen anyone ambitious .,Ahn Jeong-won,604,0.46,0.54,0.0,-0.3724,0.48392743,0.46734598,0.048726577,Negative,Neutral
+2074.989,2076.869,'ve never seen badmouth anyone either .,Kim Jun-wan,605,0.0,1.0,0.0,0.0,0.44736755,0.5081849,0.04444757,Neutral,Neutral
+2076.949,2079.119,stop . 's wife . 's uju 's mother .,Lee Ik-joon,606,0.268,0.732,0.0,-0.296,0.35403034,0.6114361,0.034533534,Neutral,Neutral
+2079.202,2081.042,virgin bachelor shut .,Lee Ik-joon,607,0.0,1.0,0.0,0.0,0.37304798,0.5831286,0.043823443,Neutral,Neutral
+2081.12,2083.04,'s outdated term . `` bachelor . '',Kim Jun-wan,608,0.0,1.0,0.0,0.0,0.4993319,0.46088973,0.039778445,Negative,Neutral
+2083.122,2085.582,"hey , jeongwon . ?",Lee Ik-joon,609,0.0,1.0,0.0,0.0,0.049512748,0.8823113,0.06817596,Neutral,Neutral
+2090.213,2092.053,really going quit become priest ?,Kim Jun-wan,610,0.0,1.0,0.0,0.0,0.26197985,0.71243095,0.02558914,Neutral,Neutral
+2092.84,2095.13,rsvp ? important right ?,Ahn Jeong-won,611,0.0,0.481,0.519,0.2869,0.094890304,0.8181923,0.0869174,Neutral,Positive
+2095.593,2097.263,listen . ...,Lee Ik-joon,612,0.0,1.0,0.0,0.0,0.14095984,0.7926429,0.06639725,Neutral,Neutral
+2098.471,2099.511,"hey , gyeoul .",Lee Ik-joon,613,0.0,1.0,0.0,0.0,0.059052505,0.7614788,0.1794687,Neutral,Neutral
+2100.556,2103.306,course . collected lot . yes .,Lee Ik-joon,614,0.0,0.526,0.474,0.4019,0.024684083,0.5861105,0.38920537,Neutral,Neutral
+2103.392,2105.392,okay . got . ?,Kim Jun-wan,615,0.0,0.345,0.655,0.2263,0.15212408,0.71569836,0.13217755,Neutral,Positive
+2105.478,2107.308,talk director ? okay .,Kim Jun-wan,616,0.0,0.513,0.487,0.2263,0.05101541,0.79434973,0.15463486,Neutral,Neutral
+2107.814,2109.154,'ll tell next week .,Ahn Jeong-won,617,0.0,1.0,0.0,0.0,0.056217987,0.79530424,0.14847784,Neutral,Neutral
+2110.149,2112.189,wo n't leaving right away .,Ahn Jeong-won,618,0.0,1.0,0.0,0.0,0.17668562,0.7550191,0.06829533,Neutral,Neutral
+2112.61,2114.9,'ll stay end year resign .,Ahn Jeong-won,619,0.375,0.625,0.0,-0.34,0.077460125,0.8555635,0.06697634,Neutral,Neutral
+2116.197,2117.817,'m going go see gyeoul .,Lee Ik-joon,620,0.0,1.0,0.0,0.0,0.004094347,0.46447802,0.5314276,Positive,Neutral
+2118.616,2119.946,seriously . wait .,Kim Jun-wan,621,0.63,0.37,0.0,-0.1779,0.4644976,0.4902876,0.045214806,Neutral,Negative
+2121.786,2124.536,look . look camera .,Lee Ik-joon,622,0.0,1.0,0.0,0.0,0.13587666,0.73022187,0.13390146,Neutral,Neutral
+2125.081,2126.791,"one , two , three .",Lee Ik-joon,623,0.0,1.0,0.0,0.0,0.1227978,0.6773694,0.19983271,Neutral,Neutral
+2127.542,2129.342,? ?,Ahn Jeong-won,624,0.0,0.0,0.0,0.0,0.19455518,0.72974735,0.07569741,Neutral,Positive
+2129.46,2132.84,jeongwon leave us soon . leave lots photos behind .,Lee Ik-joon,625,0.286,0.714,0.0,-0.1027,0.15072519,0.71862,0.13065477,Neutral,Neutral
+2133.256,2134.876,bye . ...,Lee Ik-joon,626,0.0,1.0,0.0,0.0,0.19208908,0.72655153,0.0813594,Neutral,Neutral
+2138.052,2140.352,affair gyeoul ?,Kim Jun-wan,627,0.0,1.0,0.0,0.0,0.11735717,0.8110985,0.07154425,Neutral,Neutral
+2160.7,2161.99,n't photo alone ?,Secondary,628,0.0,0.535,0.465,0.1877,0.1518837,0.7939556,0.05416066,Neutral,Neutral
+2162.577,2165.197,give time . 'm waiting right time .,Lee Ik-joon,629,0.0,1.0,0.0,0.0,0.023228621,0.560712,0.41605943,Neutral,Neutral
+2165.413,2167.623,jeongwon catches really fast .,Lee Ik-joon,630,0.0,1.0,0.0,0.0,0.008870679,0.30620295,0.68492633,Positive,Neutral
+2168.124,2170.794,ask ? think ?,Secondary,631,0.0,1.0,0.0,0.0,0.17530496,0.76653224,0.058162767,Neutral,Neutral
+2171.21,2173.17,yet . ?,Lee Ik-joon,632,0.0,1.0,0.0,0.0,0.164116,0.7750058,0.06087813,Neutral,Neutral
+2173.963,2175.843,'d obvious . okay ?,Lee Ik-joon,633,0.0,0.513,0.487,0.2263,0.06740191,0.7801641,0.15243392,Neutral,Neutral
+2175.923,2178.093,yes . n't mind .,Secondary,634,0.0,0.426,0.574,0.4019,0.040798504,0.4755944,0.48360708,Positive,Positive
+2178.176,2180.506,", please ask thinks .",Secondary,635,0.0,0.465,0.535,0.3182,0.09082858,0.8298718,0.07929969,Neutral,Positive
+2180.595,2182.755,n't tell like ?,Lee Ik-joon,636,0.513,0.487,0.0,-0.2755,0.23781437,0.71412456,0.04806103,Neutral,Negative
+2185.308,2186.138,'s ...,Secondary,637,0.0,1.0,0.0,0.0,0.15922566,0.71725094,0.12352336,Neutral,Neutral
+2187.977,2189.847,'m shy . gosh .,Secondary,638,0.5,0.5,0.0,-0.25,0.6486882,0.31264147,0.038670346,Negative,Neutral
+2190.813,2192.483,'re shy talking ? .,Lee Ik-joon,639,0.5,0.5,0.0,-0.25,0.19033699,0.76305574,0.04660733,Neutral,Neutral
+2194.15,2197.74,"okay , fine . 'll extra sneaky",Lee Ik-joon,640,0.25,0.263,0.487,0.2023,0.05580819,0.66508764,0.2791042,Neutral,Positive
+2197.82,2199.86,ask thinks .,Lee Ik-joon,641,0.0,1.0,0.0,0.0,0.14353979,0.7497221,0.1067381,Neutral,Neutral
+2199.947,2202.617,'m think highly courage .,Lee Ik-joon,642,0.0,0.462,0.538,0.5413,0.013118048,0.3434452,0.64343673,Positive,Positive
+2208.122,2210.372,yukjeon . 's gwangju .,Secondary,643,0.0,1.0,0.0,0.0,0.051441114,0.8541308,0.094428025,Neutral,Neutral
+2210.458,2213.668,"oh , . serious ? yukjeon ?",Lee Ik-joon,644,0.454,0.546,0.0,-0.168,0.2758912,0.68954825,0.034560565,Neutral,Neutral
+2219.3,2221.09,like jeongwon much ?,Lee Ik-joon,645,0.0,0.444,0.556,0.3612,0.06885343,0.88051194,0.050634645,Neutral,Positive
+2222.428,2223.678,everything .,Secondary,646,0.0,1.0,0.0,0.0,0.23280378,0.5666257,0.20057055,Neutral,Neutral
+2224.305,2225.595,need water ?,Secondary,647,0.0,1.0,0.0,0.0,0.15675855,0.7716962,0.07154524,Neutral,Neutral
+2226.515,2227.675,'m fine .,Lee Ik-joon,648,0.0,0.357,0.643,0.2023,0.024296913,0.3087738,0.6669293,Positive,Positive
+2229.268,2230.188,gyeoul .,Lee Ik-joon,649,0.0,1.0,0.0,0.0,0.11755698,0.70718503,0.175258,Neutral,Neutral
+2231.312,2233.942,think fantasy jeongwon .,Lee Ik-joon,650,0.0,1.0,0.0,0.0,0.050254878,0.8518363,0.09790876,Neutral,Neutral
+2234.398,2237.738,way treats people hospital,Lee Ik-joon,651,0.0,1.0,0.0,0.0,0.2679392,0.65652347,0.075537324,Neutral,Neutral
+2237.818,2240.028,way behaves around us different .,Lee Ik-joon,652,0.0,1.0,0.0,0.0,0.20666517,0.7248455,0.06848933,Neutral,Neutral
+2240.112,2242.822,like ? want hear everything .,Secondary,653,0.0,0.345,0.655,0.4215,0.18521613,0.7284701,0.08631369,Neutral,Positive
+2243.532,2245.032,'s sensitive .,Lee Ik-joon,654,0.0,1.0,0.0,0.0,0.37227115,0.556827,0.07090183,Neutral,Neutral
+2245.785,2248.405,loses sleep month something goes wrong patient .,Lee Ik-joon,655,0.519,0.481,0.0,-0.6597,0.86000496,0.13262033,0.0073746787,Negative,Negative
+2249.205,2250.405,'s humanitarian .,Secondary,656,0.0,1.0,0.0,0.0,0.059124053,0.6810396,0.25983638,Neutral,Neutral
+2250.498,2253.038,'s extremely stubborn .,Lee Ik-joon,657,0.599,0.401,0.0,-0.4576,0.74605703,0.22857976,0.025363235,Negative,Negative
+2253.125,2254.205,man principles .,Secondary,658,0.0,1.0,0.0,0.0,0.14232981,0.69386446,0.16380571,Neutral,Neutral
+2254.71,2256.63,'s rich . 's dirt poor .,Lee Ik-joon,659,0.495,0.18,0.324,-0.2263,0.32924694,0.53493446,0.13581863,Neutral,Negative
+2256.712,2258.302,mooches junwan .,Lee Ik-joon,660,0.706,0.294,0.0,-0.34,0.06840091,0.8046516,0.12694755,Neutral,Negative
+2258.881,2260.301,n't noblesse oblige ?,Secondary,661,0.0,1.0,0.0,0.0,0.20576142,0.7449095,0.04932899,Neutral,Neutral
+2260.8,2262.51,playing game antonyms ?,Lee Ik-joon,662,0.0,0.526,0.474,0.2023,0.078998104,0.87070155,0.050300296,Neutral,Neutral
+2263.97,2266.6,else ? tell everything .,Secondary,663,0.0,1.0,0.0,0.0,0.2501204,0.6947467,0.055132926,Neutral,Neutral
+2268.641,2270.181,"importantly , ...",Lee Ik-joon,664,0.0,0.303,0.697,0.3182,0.15241428,0.7333353,0.11425038,Neutral,Positive
+2271.686,2272.596,gosh .,Lee Ik-joon,665,0.0,1.0,0.0,0.0,0.44641957,0.45662946,0.09695097,Neutral,Neutral
+2273.688,2274.898,dating ...,Lee Ik-joon,666,0.0,1.0,0.0,0.0,0.10950818,0.80687016,0.083621636,Neutral,Neutral
+2274.981,2277.021,. 's interested women .,Lee Ik-joon,667,0.0,0.426,0.574,0.4019,0.035076927,0.8165218,0.14840122,Neutral,Positive
+2277.608,2280.528,"never seen girl , ever .",Lee Ik-joon,668,0.0,1.0,0.0,0.0,0.44766116,0.49144226,0.060896553,Neutral,Neutral
+2284.115,2285.485,ears .,Lee Ik-joon,669,0.0,1.0,0.0,0.0,0.22534153,0.63763756,0.13702087,Neutral,Neutral
+2286.492,2288.412,jeongwon interested something else .,Lee Ik-joon,670,0.0,0.526,0.474,0.4019,0.071968384,0.71334964,0.21468201,Neutral,Neutral
+2288.953,2290.413,sexual minority ?,Secondary,671,0.0,1.0,0.0,0.0,0.37720728,0.60191697,0.0208758,Neutral,Neutral
+2290.997,2293.997,jeez . like . mean wants man god .,Lee Ik-joon,672,0.0,0.465,0.535,0.5574,0.7824719,0.19333214,0.024196023,Negative,Positive
+2294.083,2295.793,pride . priest .,Lee Ik-joon,673,0.0,0.294,0.706,0.34,0.059109405,0.8013812,0.13950945,Neutral,Positive
+2296.335,2297.835,doubt .,Secondary,674,1.0,0.0,0.0,-0.3612,0.3691112,0.57828087,0.05260792,Neutral,Negative
+2298.754,2300.174,"hope , .",Lee Ik-joon,675,0.0,0.0,1.0,0.4404,0.087819695,0.6686865,0.24349381,Neutral,Positive
+2302.174,2305.224,know professor ahn devout catholic .,Secondary,676,0.0,1.0,0.0,0.0,0.06295922,0.85314953,0.0838912,Neutral,Neutral
+2305.303,2308.013,"brothers priests , sisters nuns .",Secondary,677,0.0,1.0,0.0,0.0,0.18408415,0.7597018,0.056214128,Neutral,Neutral
+2309.015,2311.305,'s priest yet .,Secondary,678,0.0,1.0,0.0,0.0,0.15722471,0.7339008,0.10887447,Neutral,Neutral
+2312.143,2313.273,wants one .,Secondary,679,0.0,1.0,0.0,0.0,0.09688456,0.68558353,0.217532,Neutral,Neutral
+2314.103,2316.983,still chance .,Secondary,680,0.0,0.333,0.667,0.25,0.051777497,0.5952558,0.35296676,Neutral,Positive
+2317.523,2319.193,"ikjun , give cigarette .",Ahn Jeong-won,681,0.0,1.0,0.0,0.0,0.15864679,0.744752,0.09660117,Neutral,Neutral
+2330.161,2331.541,gyeoul people .,Ahn Jeong-won,682,0.0,1.0,0.0,0.0,0.11159444,0.78203243,0.10637311,Neutral,Neutral
+2333.914,2336.924,"prick , 'd better come senses beat .",Ahn Jeong-won,683,0.258,0.43,0.312,0.128,0.091080405,0.75832516,0.15059444,Neutral,Neutral
+2337.835,2339.795,thinking ? 're married .,Ahn Jeong-won,684,0.0,1.0,0.0,0.0,0.15700468,0.77261955,0.07037574,Neutral,Neutral
+2344.675,2345.675,?,Ahn Jeong-won,685,0.0,0.0,0.0,0.0,0.20457315,0.68945074,0.10597605,Neutral,Positive
+2345.76,2347.47,think gyeoul ?,Lee Ik-joon,686,0.0,1.0,0.0,0.0,0.09978705,0.8289429,0.07126997,Neutral,Neutral
+2348.804,2351.524,? think ?,Lee Ik-joon,687,0.0,1.0,0.0,0.0,0.15451522,0.7635348,0.08194998,Neutral,Neutral
+2360.232,2362.152,yulje medical center,Secondary,688,0.0,1.0,0.0,0.0,0.11785365,0.8027189,0.0794275,Neutral,Neutral
+2364.153,2366.203,"surgery status , waiting",Secondary,689,0.0,1.0,0.0,0.0,0.100915335,0.83164674,0.067437895,Neutral,Neutral
+2382.963,2384.053,hey .,Secondary,690,0.0,1.0,0.0,0.0,0.18461223,0.5913169,0.22407086,Neutral,Neutral
+2384.715,2386.215,dad came .,Secondary,691,0.0,1.0,0.0,0.0,0.08680481,0.7271117,0.18608347,Neutral,Neutral
+2395.976,2398.726,"move , let check things .",Secondary,692,0.0,1.0,0.0,0.0,0.13125603,0.78503245,0.08371154,Neutral,Neutral
+2398.813,2401.573,'s name ? 's jeong subeom .,Secondary,693,0.0,1.0,0.0,0.0,0.060729053,0.8622739,0.07699708,Neutral,Neutral
+2401.649,2403.779,let check id bracelet .,Secondary,694,0.0,1.0,0.0,0.0,0.18071684,0.7422535,0.077029675,Neutral,Neutral
+2404.36,2406.24,today operated professor kim junwan,Secondary,695,0.0,1.0,0.0,0.0,0.029615534,0.9244191,0.045965347,Neutral,Neutral
+2406.32,2407.74,cardiothoracic surgery ?,Secondary,696,0.0,1.0,0.0,0.0,0.18278784,0.79313076,0.024081416,Neutral,Neutral
+2407.905,2408.945,yes .,Secondary,697,0.0,0.0,1.0,0.4019,0.10013353,0.4596959,0.44017053,Neutral,Positive
+2413.327,2416.497,"dad . strong , okay ?",Secondary,698,0.0,0.161,0.839,0.6369,0.016704958,0.5430804,0.4402146,Neutral,Positive
+2417.039,2418.959,everything fine . n't worry .,Secondary,699,0.0,0.322,0.678,0.4949,0.0067869355,0.15021053,0.84300256,Positive,Positive
+2419.458,2420.538,sweetheart .,Secondary,700,0.0,0.0,1.0,0.6486,0.016605742,0.28989342,0.6935008,Positive,Positive
+2421.877,2423.837,sorry .,Secondary,701,1.0,0.0,0.0,-0.0772,0.48275325,0.42702612,0.09022062,Negative,Negative
+2425.965,2429.545,ca n't come wedding sick .,Secondary,702,0.0,0.597,0.403,0.4023,0.37342528,0.55313975,0.07343501,Neutral,Neutral
+2431.303,2433.013,"sorry , sweetie .",Secondary,703,0.289,0.0,0.711,0.4404,0.3360817,0.53793514,0.12598318,Neutral,Positive
+2433.347,2436.927,"sorry ? sorry , dad .",Secondary,704,0.722,0.278,0.0,-0.1531,0.5144379,0.42784414,0.057717893,Negative,Negative
+2438.185,2440.935,could get married 're sick ?,Secondary,705,0.452,0.548,0.0,-0.5106,0.24743068,0.7193632,0.033206172,Neutral,Neutral
+2442.148,2443.358,'m sorry .,Secondary,706,0.565,0.435,0.0,-0.0772,0.5241156,0.4061268,0.06975763,Negative,Negative
+2460.583,2461.793,hello .,Secondary,707,0.0,1.0,0.0,0.0,0.09716277,0.6296369,0.27320033,Neutral,Neutral
+2463.169,2465.879,'re going move patient .,Secondary,708,0.0,1.0,0.0,0.0,0.06488662,0.72909445,0.20601894,Neutral,Neutral
+2467.339,2468.969,?,Kim Jun-wan,709,0.0,0.0,0.0,0.0,0.20457315,0.68945074,0.10597605,Neutral,Positive
+2469.842,2471.222,feeling ?,Kim Jun-wan,710,0.0,0.0,1.0,0.128,0.18594061,0.76372933,0.050330095,Neutral,Positive
+2472.553,2473.973,let explain surgery .,Kim Jun-wan,711,0.0,1.0,0.0,0.0,0.23621303,0.7209159,0.042871032,Neutral,Neutral
+2474.054,2475.974,"told , 'll remove infected mass",Kim Jun-wan,712,0.444,0.556,0.0,-0.4939,0.22090755,0.73967624,0.039416242,Neutral,Neutral
+2476.056,2478.176,mold area leftover tissue .,Kim Jun-wan,713,0.0,1.0,0.0,0.0,0.12004145,0.82267034,0.057288215,Neutral,Neutral
+2478.267,2480.477,take five hours .,Kim Jun-wan,714,0.0,1.0,0.0,0.0,0.119650155,0.78460467,0.095745146,Neutral,Neutral
+2480.561,2482.981,could longer 's complication .,Kim Jun-wan,715,0.0,1.0,0.0,0.0,0.28867754,0.6567871,0.0545353,Neutral,Neutral
+2483.063,2486.943,"doctor , 've done surgery many times , right ?",Secondary,716,0.0,1.0,0.0,0.0,0.113675855,0.8311139,0.055210292,Neutral,Neutral
+2487.026,2488.146,yes .,Secondary,717,0.0,0.0,1.0,0.4019,0.10013353,0.4596959,0.44017053,Neutral,Positive
+2488.652,2491.162,", n't worry much , right ?",Secondary,718,0.0,0.555,0.445,0.3412,0.052759014,0.7410857,0.20615526,Neutral,Neutral
+2491.447,2494.277,"surgery n't lifethreatening anything , right ?",Secondary,719,0.0,1.0,0.0,0.0,0.33044213,0.633352,0.036205854,Neutral,Neutral
+2494.366,2495.736,guarantee .,Kim Jun-wan,720,0.0,0.0,1.0,0.25,0.14216587,0.7576361,0.10019802,Neutral,Positive
+2495.826,2498.286,lot variables surgery .,Kim Jun-wan,721,0.0,1.0,0.0,0.0,0.16705795,0.78641164,0.046530355,Neutral,Neutral
+2499.455,2500.285,"oh , .",Secondary,722,0.0,1.0,0.0,0.0,0.29706195,0.561192,0.14174606,Neutral,Neutral
+2500.372,2501.792,"however , best .",Kim Jun-wan,723,0.0,0.192,0.808,0.6369,0.028992975,0.3508551,0.6201519,Positive,Positive
+2509.465,2510.715,jeez .,Secondary,724,0.0,1.0,0.0,0.0,0.40348575,0.48653653,0.10997776,Neutral,Neutral
+2512.301,2515.471,told 's going fine .,Secondary,725,0.0,0.625,0.375,0.2023,0.023430562,0.3331938,0.64337564,Positive,Neutral
+2516.472,2518.852,patient 's daughter getting married today .,Secondary,726,0.0,1.0,0.0,0.0,0.039888605,0.85582983,0.10428152,Neutral,Neutral
+2519.225,2521.475,whole family must already feel bad .,Secondary,727,0.412,0.588,0.0,-0.5423,0.86049944,0.13088314,0.008617394,Negative,Neutral
+2522.019,2524.059,nicer .,Secondary,728,0.0,0.0,1.0,0.4404,0.2034199,0.6561085,0.1404716,Neutral,Positive
+2525.606,2526.816,could told,Secondary,729,0.0,1.0,0.0,0.0,0.2593334,0.6091864,0.13148016,Neutral,Neutral
+2527.358,2530.318,"surgery successful , nothing worry .",Secondary,730,0.0,0.244,0.756,0.7356,0.0057283537,0.14283307,0.8514386,Positive,Positive
+2530.402,2532.402,could n't say ?,Secondary,731,0.0,1.0,0.0,0.0,0.24389984,0.70146954,0.05463053,Neutral,Neutral
+2534.365,2536.235,surgery n't difficult .,Secondary,732,0.0,0.487,0.513,0.2755,0.06850556,0.6974052,0.23408929,Neutral,Positive
+2538.035,2540.615,patient periannular abscess ?,Kim Jun-wan,733,0.0,1.0,0.0,0.0,0.19417486,0.7819431,0.023882044,Neutral,Neutral
+2541.664,2544.384,brain damage embolism surgery ?,Kim Jun-wan,734,0.516,0.484,0.0,-0.4939,0.4417039,0.54272455,0.015571574,Neutral,Negative
+2544.458,2546.998,chance happening low .,Secondary,735,0.412,0.196,0.392,-0.0258,0.35087427,0.5941298,0.054995947,Neutral,Negative
+2548.295,2549.545,feelings .,Secondary,736,0.0,1.0,0.0,0.0,0.13616689,0.74639344,0.11743961,Neutral,Neutral
+2549.63,2551.76,feelings help surgery ?,Kim Jun-wan,737,0.0,0.426,0.574,0.4019,0.05149664,0.89446324,0.05404012,Neutral,Positive
+2551.84,2553.84,"'ll emotional helps , n't .",Kim Jun-wan,738,0.0,0.323,0.677,0.4939,0.30470735,0.61043257,0.08486015,Neutral,Positive
+2554.468,2555.388,n't help .,Kim Jun-wan,739,0.693,0.307,0.0,-0.3089,0.6612593,0.30981645,0.028924242,Negative,Negative
+2556.387,2557.427,'m sorry .,Secondary,740,0.565,0.435,0.0,-0.0772,0.5241156,0.4061268,0.06975763,Negative,Negative
+2557.513,2559.273,never talk patients like .,Kim Jun-wan,741,0.413,0.587,0.0,-0.2755,0.6584597,0.31824613,0.023294082,Negative,Neutral
+2559.765,2561.265,`` 's simple surgery . live .,Kim Jun-wan,742,0.0,1.0,0.0,0.0,0.10815242,0.67912084,0.21272674,Neutral,Neutral
+2561.35,2564.02,surgery go well . n't worry anything . '',Kim Jun-wan,743,0.0,0.526,0.474,0.5432,0.005830997,0.14767678,0.8464922,Positive,Neutral
+2566.021,2567.651,n't . got ?,Kim Jun-wan,744,0.0,1.0,0.0,0.0,0.22883183,0.6955365,0.07563168,Neutral,Neutral
+2569.066,2570.026,yes .,Secondary,745,0.0,0.0,1.0,0.4019,0.10013353,0.4596959,0.44017053,Neutral,Positive
+2581.412,2584.212,yulje medical center,Secondary,746,0.0,1.0,0.0,0.0,0.11785365,0.8027189,0.0794275,Neutral,Neutral
+2587.418,2590.418,"one iced americano three shots , please .",Kim Jun-wan,747,0.0,0.685,0.315,0.3182,0.023163335,0.6911804,0.28565624,Neutral,Neutral
+2590.504,2592.174,"hello , professor kim . hello .",Secondary,748,0.0,1.0,0.0,0.0,0.0121370265,0.5443917,0.4434713,Neutral,Neutral
+2592.256,2595.296,"guys early . piece chocolate cake , .",Kim Jun-wan,749,0.0,1.0,0.0,0.0,0.019196374,0.63703346,0.34377027,Neutral,Neutral
+2596.427,2598.547,'ve since eight morning .,Secondary,750,0.0,1.0,0.0,0.0,0.07032052,0.7834216,0.14625789,Neutral,Neutral
+2598.637,2601.557,? 's impressive .,Kim Jun-wan,751,0.0,0.233,0.767,0.5106,0.023153776,0.2753849,0.7014613,Positive,Positive
+2602.057,2603.177,pay . ?,Kim Jun-wan,752,1.0,0.0,0.0,-0.1027,0.20191373,0.7554602,0.042626124,Neutral,Negative
+2603.559,2605.139,thank . thank .,Secondary,753,0.0,0.0,1.0,0.6124,0.009490275,0.17024872,0.820261,Positive,Positive
+2607.73,2609.48,"dr. good , right ?",Kim Jun-wan,754,0.0,0.408,0.592,0.4404,0.019853815,0.4945063,0.4856399,Neutral,Positive
+2609.732,2611.282,"yes , 's really nice .",Secondary,755,0.0,0.257,0.743,0.6997,0.0028285028,0.03588621,0.9612853,Positive,Positive
+2611.358,2613.398,goodness . 'm glad hear .,Kim Jun-wan,756,0.0,0.25,0.75,0.7184,0.0025130936,0.05395837,0.9435285,Positive,Positive
+2613.485,2616.275,ask chose cardiothoracic surgery ?,Secondary,757,0.0,1.0,0.0,0.0,0.13484079,0.84117967,0.023979552,Neutral,Neutral
+2617.823,2620.873,'s assignment interview . 've asked another professor well .,Secondary,758,0.0,0.769,0.231,0.2732,0.05816145,0.86092705,0.08091147,Neutral,Neutral
+2620.951,2621.791,?,Kim Jun-wan,759,0.0,0.0,0.0,0.0,0.20457315,0.68945074,0.10597605,Neutral,Positive
+2621.869,2625.289,"'ve started , 've interviewed one professor .",Secondary,760,0.0,1.0,0.0,0.0,0.05602574,0.8723897,0.07158455,Neutral,Neutral
+2625.372,2627.502,'s professor chae songhwa neurosurgery .,Secondary,761,0.0,1.0,0.0,0.0,0.03219143,0.8886237,0.07918488,Neutral,Neutral
+2628.167,2629.287,say ?,Kim Jun-wan,762,0.0,1.0,0.0,0.0,0.19347759,0.6876461,0.11887625,Neutral,Neutral
+2629.877,2632.497,chose neurosurgery wanted study .,Secondary,763,0.0,1.0,0.0,0.0,0.12330335,0.8246637,0.052032966,Neutral,Neutral
+2632.588,2634.468,still lot study field .,Secondary,764,0.0,1.0,0.0,0.0,0.11034604,0.7429155,0.14673842,Neutral,Neutral
+2634.548,2636.878,know . one knows better .,Kim Jun-wan,765,0.0,0.508,0.492,0.4404,0.1493728,0.6462497,0.2043775,Neutral,Neutral
+2636.967,2638.297,", sir ?",Secondary,766,0.0,1.0,0.0,0.0,0.16929218,0.7337385,0.09696933,Neutral,Neutral
+2640.22,2642.72,? went internet cafe,Kim Jun-wan,767,0.0,1.0,0.0,0.0,0.092932805,0.81391114,0.09315599,Neutral,Neutral
+2642.806,2645.306,cardiothoracic surgeon sat next told choose cs .,Kim Jun-wan,768,0.0,1.0,0.0,0.0,0.10474622,0.863542,0.03171177,Neutral,Neutral
+2648.228,2650.308,"professor , please . 'm serious .",Secondary,769,0.232,0.357,0.411,0.25,0.26990637,0.65802073,0.072072916,Neutral,Positive
+2650.397,2652.517,asked whether wanted make money teach .,Kim Jun-wan,770,0.0,1.0,0.0,0.0,0.13702251,0.8220016,0.040975932,Neutral,Neutral
+2652.608,2654.528,said 'd prefer teach,Kim Jun-wan,771,0.0,1.0,0.0,0.0,0.23217998,0.71319664,0.05462337,Neutral,Neutral
+2654.61,2655.74,told choose cs .,Kim Jun-wan,772,0.0,1.0,0.0,0.0,0.13584496,0.7274355,0.13671948,Neutral,Neutral
+2656.445,2657.445,'s 'm .,Kim Jun-wan,773,0.0,1.0,0.0,0.0,0.14057687,0.72814083,0.13128231,Neutral,Neutral
+2658.322,2659.322,see .,Secondary,774,0.0,1.0,0.0,0.0,0.20908241,0.6057027,0.18521489,Neutral,Neutral
+2660.866,2663.036,may chocolate cake ?,Secondary,775,0.0,1.0,0.0,0.0,0.033240132,0.8807104,0.08604954,Neutral,Neutral
+2663.118,2664.118,", may .",Kim Jun-wan,776,0.0,1.0,0.0,0.0,0.12837273,0.6796418,0.19198541,Neutral,Neutral
+2667.122,2669.292,get one . okay .,Kim Jun-wan,777,0.0,0.513,0.487,0.2263,0.038940303,0.6160066,0.34505308,Neutral,Neutral
+2678.634,2680.894,"irrigation important . know , right ?",Chae Song-hwa,778,0.0,0.625,0.375,0.2023,0.07988704,0.7804917,0.1396212,Neutral,Neutral
+2680.969,2683.349,yes . important ?,Secondary,779,0.0,0.0,1.0,0.5423,0.06976662,0.8274298,0.102803685,Neutral,Positive
+2687.601,2688.601,well ...,Secondary,780,0.0,0.323,0.677,0.2732,0.21553482,0.69436187,0.09010329,Neutral,Positive
+2689.687,2691.017,"microscope ,",Secondary,781,0.0,1.0,0.0,0.0,0.1536241,0.64703506,0.19934076,Neutral,Neutral
+2691.105,2693.935,see 's close optic nerve .,Secondary,782,0.0,1.0,0.0,0.0,0.08307296,0.851195,0.06573205,Neutral,Neutral
+2694.983,2698.653,", bipolar cautery cause thermal injuries ,",Secondary,783,0.0,1.0,0.0,0.0,0.73788947,0.24975212,0.012358366,Negative,Neutral
+2698.737,2701.777,result loss vision surgery .,Secondary,784,0.365,0.317,0.317,-0.0772,0.44577348,0.5213921,0.03283444,Neutral,Negative
+2711.166,2714.666,"ms. nam , operate chanhyeong tomorrow .",Kim Jun-wan,785,0.0,1.0,0.0,0.0,0.016340168,0.9268373,0.05682256,Neutral,Neutral
+2715.17,2718.72,"yes . lung sounds improved , xrays look much better .",Secondary,786,0.0,0.365,0.635,0.8271,0.0025104873,0.034937676,0.9625518,Positive,Positive
+2718.799,2721.009,yes . hard keep putting .,Kim Jun-wan,787,0.23,0.328,0.443,0.3182,0.043033466,0.5117917,0.44517487,Neutral,Positive
+2721.093,2722.723,"guardians , right ?",Kim Jun-wan,788,0.0,1.0,0.0,0.0,0.16800295,0.7699944,0.062002707,Neutral,Neutral
+2722.803,2724.353,"yes , 'll go bring .",Secondary,789,0.0,0.526,0.474,0.4019,0.015838811,0.48215258,0.5020086,Positive,Neutral
+2728.267,2730.387,"jaehak , happen suit ?",Kim Jun-wan,790,0.0,1.0,0.0,0.0,0.06702268,0.88116586,0.051811464,Neutral,Neutral
+2730.477,2732.477,"yes , always keep one office .",Secondary,791,0.0,0.597,0.403,0.4019,0.048014596,0.56456286,0.38742253,Neutral,Neutral
+2732.563,2733.943,borrow ?,Kim Jun-wan,792,0.0,1.0,0.0,0.0,0.1733513,0.7484791,0.07816962,Neutral,Neutral
+2734.982,2736.942,went home . ?,Secondary,793,0.0,1.0,0.0,0.0,0.10674102,0.8188861,0.07437283,Neutral,Neutral
+2737.526,2740.356,"went home , child sick ?",Secondary,794,0.524,0.476,0.0,-0.5106,0.45712724,0.5253465,0.017526278,Neutral,Negative
+2740.612,2741.862,possible ?,Secondary,795,0.0,1.0,0.0,0.0,0.13324568,0.7886519,0.07810238,Neutral,Neutral
+2741.947,2744.487,chanhyeong 's mom went home bit .,Secondary,796,0.0,1.0,0.0,0.0,0.06791151,0.85947603,0.07261244,Neutral,Neutral
+2744.825,2747.285,grandmothers though .,Secondary,797,0.0,1.0,0.0,0.0,0.13242367,0.7950925,0.07248384,Neutral,Neutral
+2747.369,2748.999,lounge .,Secondary,798,0.0,1.0,0.0,0.0,0.10656399,0.70931554,0.1841205,Neutral,Neutral
+2750.914,2751.964,shall go bring ?,Secondary,799,0.0,1.0,0.0,0.0,0.0975748,0.8007799,0.10164529,Neutral,Neutral
+2752.04,2753.25,"yes , please .",Kim Jun-wan,800,0.0,0.0,1.0,0.6124,0.042173088,0.41213655,0.5456903,Positive,Positive
+2754.501,2756.461,"'ve postponing surgery due pneumonia ,",Kim Jun-wan,801,0.273,0.727,0.0,-0.128,0.4243817,0.5456647,0.029953556,Neutral,Neutral
+2756.545,2758.915,"fever gone , crp .",Kim Jun-wan,802,0.0,1.0,0.0,0.0,0.32672697,0.6168235,0.05644956,Neutral,Neutral
+2759.006,2760.416,think would best time .,Secondary,803,0.0,0.417,0.583,0.6369,0.021516154,0.35942832,0.6190555,Positive,Positive
+2760.716,2764.176,"operation dangerous , doctor ?",Secondary,804,0.608,0.392,0.0,-0.4767,0.5086286,0.47138402,0.019987417,Negative,Negative
+2764.261,2766.391,grandmother ? 'm maternal grandmother .,Kim Jun-wan,805,0.0,1.0,0.0,0.0,0.15006241,0.80462295,0.04531461,Neutral,Neutral
+2766.472,2768.062,paternal grandmother . see .,Secondary,806,0.0,1.0,0.0,0.0,0.12910895,0.80220646,0.06868454,Neutral,Neutral
+2768.14,2771.27,", please informed operate tomorrow afternoon .",Kim Jun-wan,807,0.0,0.635,0.365,0.3182,0.021704964,0.8500503,0.12824473,Neutral,Neutral
+2771.351,2774.611,"parents back , 'll walk details .",Kim Jun-wan,808,0.0,1.0,0.0,0.0,0.032755572,0.83996016,0.12728427,Neutral,Neutral
+2774.688,2777.858,tell us instead .,Secondary,809,0.0,1.0,0.0,0.0,0.33403602,0.6130309,0.052933045,Neutral,Neutral
+2777.941,2779.571,mom 20 .,Secondary,810,0.0,1.0,0.0,0.0,0.094105594,0.7570676,0.14882681,Neutral,Neutral
+2779.651,2781.401,'s clueless 's young .,Secondary,811,0.455,0.545,0.0,-0.3612,0.5740689,0.373464,0.05246703,Negative,Neutral
+2781.487,2783.197,goes son .,Secondary,812,0.0,1.0,0.0,0.0,0.13041814,0.7348098,0.13477199,Neutral,Neutral
+2783.28,2785.45,"'s right . tell us , doctor .",Secondary,813,0.0,1.0,0.0,0.0,0.11243761,0.7677001,0.11986234,Neutral,Neutral
+2785.532,2787.162,'ll speak later .,Kim Jun-wan,814,0.0,1.0,0.0,0.0,0.03880939,0.82720286,0.13398781,Neutral,Neutral
+2787.242,2789.082,mom still legal guardian .,Kim Jun-wan,815,0.0,0.667,0.333,0.128,0.03594505,0.82724094,0.13681397,Neutral,Neutral
+2789.161,2790.121,'ll see .,Secondary,816,0.0,1.0,0.0,0.0,0.1368947,0.62486434,0.23824094,Neutral,Neutral
+2795.209,2797.879,"talk grandmothers , professor .",Secondary,817,0.0,1.0,0.0,0.0,0.11695969,0.7933858,0.089654475,Neutral,Neutral
+2797.961,2801.591,'ll go everything mom get consent form signed .,Secondary,818,0.0,0.787,0.213,0.2263,0.018367799,0.8698492,0.111783095,Neutral,Neutral
+2801.673,2803.263,n't overlook single detail .,Kim Jun-wan,819,0.0,1.0,0.0,0.0,0.16242456,0.701305,0.13627043,Neutral,Neutral
+2803.342,2805.012,suit office ? yes .,Kim Jun-wan,820,0.0,0.426,0.574,0.4019,0.05060765,0.67491704,0.27447534,Neutral,Positive
+2805.093,2806.353,color ? color ?,Secondary,821,0.0,1.0,0.0,0.0,0.17989099,0.69190437,0.12820457,Neutral,Neutral
+2806.428,2808.558,"yes , color suit ?",Kim Jun-wan,822,0.0,0.426,0.574,0.4019,0.06764517,0.77430934,0.15804547,Neutral,Positive
+2809.348,2811.348,worried might silver ?,Secondary,823,0.524,0.476,0.0,-0.296,0.2500383,0.72372633,0.026235376,Neutral,Negative
+2841.922,2843.222,"junwan , ...",Ahn Jeong-won,824,0.0,1.0,0.0,0.0,0.10331176,0.8135301,0.08315814,Neutral,Neutral
+2844.091,2845.221,"oh , boy .",Ahn Jeong-won,825,0.0,1.0,0.0,0.0,0.24741527,0.6065177,0.14606711,Neutral,Neutral
+2845.801,2847.091,n't say anything .,Kim Jun-wan,826,0.0,1.0,0.0,0.0,0.28331646,0.6617702,0.05491331,Neutral,Neutral
+2847.177,2848.177,okay .,Ahn Jeong-won,827,0.0,0.0,1.0,0.2263,0.11996016,0.5391302,0.34090966,Neutral,Positive
+2851.431,2853.601,going lunch ? 'm hungry .,Ahn Jeong-won,828,0.0,1.0,0.0,0.0,0.15295695,0.768174,0.078869104,Neutral,Neutral
+2853.725,2855.015,braised hairtail fish ?,Ahn Jeong-won,829,0.0,1.0,0.0,0.0,0.11903334,0.8441966,0.03677,Neutral,Neutral
+2855.394,2859.194,suddenly got craving reason .,Ahn Jeong-won,830,0.0,1.0,0.0,0.0,0.103979975,0.71824956,0.17777053,Neutral,Neutral
+2859.273,2861.363,go . 'm meeting someone .,Kim Jun-wan,831,0.0,1.0,0.0,0.0,0.018060429,0.7233941,0.2585455,Neutral,Neutral
+2861.775,2862.935,going eat ?,Ahn Jeong-won,832,0.0,1.0,0.0,0.0,0.108264916,0.8195712,0.072163805,Neutral,Neutral
+2863.151,2864.281,steak .,Kim Jun-wan,833,0.0,1.0,0.0,0.0,0.21615094,0.6435563,0.14029269,Neutral,Neutral
+2864.361,2866.201,"gosh , n't like steak .",Kim Jun-wan,834,0.413,0.587,0.0,-0.2755,0.8380615,0.14692946,0.015009009,Negative,Neutral
+2871.702,2874.872,"shall eat , ? 's .",Ahn Jeong-won,835,0.0,1.0,0.0,0.0,0.1035073,0.84109646,0.055396248,Neutral,Neutral
+2878.709,2880.089,hello . ahn jeongwon .,Ahn Jeong-won,836,0.0,1.0,0.0,0.0,0.01856958,0.80583525,0.17559516,Neutral,Neutral
+2881.044,2882.754,"okay , 'll right .",Ahn Jeong-won,837,0.0,0.513,0.487,0.2263,0.045708712,0.57241017,0.3818811,Neutral,Neutral
+2883.255,2884.545,gosh .,Ahn Jeong-won,838,0.0,1.0,0.0,0.0,0.44641957,0.45662946,0.09695097,Neutral,Neutral
+2884.798,2887.008,"chihong , wrap ?",Chae Song-hwa,839,0.0,1.0,0.0,0.0,0.07342445,0.8354563,0.09111922,Neutral,Neutral
+2887.092,2888.052,sure .,Secondary,840,0.0,0.0,1.0,0.3182,0.16858904,0.53195983,0.29945108,Neutral,Positive
+2896.226,2898.226,insert hemovac first .,Chae Song-hwa,841,0.0,1.0,0.0,0.0,0.26519004,0.666929,0.067881,Neutral,Neutral
+2898.562,2899.522,yes .,Secondary,842,0.0,0.0,1.0,0.4019,0.10013353,0.4596959,0.44017053,Neutral,Positive
+2904.109,2905.939,going keep breaking ?,Chae Song-hwa,843,0.0,1.0,0.0,0.0,0.47903168,0.49954432,0.021423992,Neutral,Neutral
+2906.528,2908.528,control strength . gentle .,Secondary,844,0.0,0.141,0.859,0.7269,0.042925686,0.6960404,0.26103392,Neutral,Positive
+2910.032,2911.122,okay . 'm sorry .,Secondary,845,0.31,0.238,0.452,0.1531,0.45419103,0.4852055,0.060603492,Neutral,Positive
+2912.284,2913.744,'ll stop talking .,Chae Song-hwa,846,0.524,0.476,0.0,-0.296,0.39806944,0.54515135,0.05677925,Neutral,Negative
+2913.827,2915.367,focus . 'm sorry .,Chae Song-hwa,847,0.394,0.606,0.0,-0.0772,0.56293535,0.39280292,0.04426173,Negative,Neutral
+2915.746,2916.746,'s okay .,Secondary,848,0.0,0.345,0.655,0.2263,0.01946015,0.30033177,0.680208,Positive,Positive
+2918.582,2919.752,mr. yuk huigwan .,Secondary,849,0.0,1.0,0.0,0.0,0.080681555,0.83789855,0.08141994,Neutral,Neutral
+2920.0,2922.13,congratulations . go home . thank .,Secondary,850,0.0,0.238,0.762,0.7506,0.003684809,0.052540686,0.9437746,Positive,Positive
+2922.21,2924.25,surgical wound disinfected,Secondary,851,0.0,1.0,0.0,0.0,0.17165783,0.75142884,0.07691328,Neutral,Neutral
+2924.338,2925.838,wrapped waterproof bandage .,Secondary,852,0.0,1.0,0.0,0.0,0.11368025,0.77561295,0.1107067,Neutral,Neutral
+2925.923,2927.593,take shower right away .,Secondary,853,0.0,1.0,0.0,0.0,0.029650934,0.77090055,0.19944854,Neutral,Neutral
+2927.674,2931.434,"food , eat normally please try overeat .",Secondary,854,0.0,0.685,0.315,0.3182,0.07552286,0.64780754,0.2766696,Neutral,Neutral
+2931.511,2933.471,"mom , transform ?",Secondary,855,0.0,1.0,0.0,0.0,0.10423616,0.8299696,0.065794304,Neutral,Neutral
+2933.555,2935.675,"bit , wonjun . give minute .",Secondary,856,0.0,1.0,0.0,0.0,0.04437039,0.788878,0.16675155,Neutral,Neutral
+2936.266,2938.476,appointment booked week .,Secondary,857,0.0,1.0,0.0,0.0,0.04924691,0.83574367,0.1150094,Neutral,Neutral
+2938.56,2940.19,biopsy results available .,Secondary,858,0.0,1.0,0.0,0.0,0.08001799,0.8638378,0.056144115,Neutral,Neutral
+2940.27,2942.81,"need diagnosis insurance , let us know .",Secondary,859,0.0,1.0,0.0,0.0,0.10064096,0.83416903,0.065190054,Neutral,Neutral
+2942.898,2944.608,"okay , thank . thank .",Secondary,860,0.0,0.0,1.0,0.7096,0.004815612,0.10456532,0.89061904,Positive,Positive
+2944.691,2948.031,"hurry , mom . want transformed robot .",Secondary,861,0.0,0.755,0.245,0.0772,0.087610394,0.71528137,0.19710827,Neutral,Neutral
+2949.112,2952.072,dr. lee ikjun rounds today chance ?,Secondary,862,0.0,0.714,0.286,0.25,0.01818264,0.9515224,0.03029491,Neutral,Neutral
+2952.157,2954.327,n't chance thank properly .,Secondary,863,0.658,0.342,0.0,-0.431,0.39532664,0.54900753,0.05566576,Neutral,Negative
+2954.409,2955.619,excellent job .,Secondary,864,0.0,0.213,0.787,0.5719,0.009281033,0.07475622,0.9159628,Positive,Positive
+2955.702,2956.952,wonjun !,Lee Ik-joon,865,0.0,1.0,0.0,0.0,0.05138244,0.7027645,0.24585308,Neutral,Neutral
+2958.121,2960.291,"hello , dr. lee . yes , hello .",Secondary,866,0.0,0.597,0.403,0.4019,0.0035923505,0.22089268,0.77551496,Positive,Neutral
+2960.374,2962.174,give . 'll .,Lee Ik-joon,867,0.0,1.0,0.0,0.0,0.083701976,0.7952705,0.12102756,Neutral,Neutral
+2962.292,2963.792,gosh .,Secondary,868,0.0,1.0,0.0,0.0,0.44641957,0.45662946,0.09695097,Neutral,Neutral
+2963.919,2967.509,"mr. yuk , n't even look like patient without iv drip .",Lee Ik-joon,869,0.19,0.81,0.0,-0.2755,0.36282733,0.58717054,0.050002176,Neutral,Neutral
+2967.589,2968.629,'re handsome .,Lee Ik-joon,870,0.0,0.238,0.762,0.4939,0.008289261,0.09240856,0.8993022,Positive,Positive
+2968.715,2969.755,"gosh , 'm flattered .",Secondary,871,0.0,0.435,0.565,0.3818,0.005705814,0.12305169,0.8712425,Positive,Positive
+2969.841,2971.801,remembered name .,Secondary,872,0.0,1.0,0.0,0.0,0.12569262,0.79106534,0.083242126,Neutral,Neutral
+2971.885,2973.385,must lot patients .,Secondary,873,0.0,1.0,0.0,0.0,0.18792154,0.7138943,0.09818418,Neutral,Neutral
+2973.47,2975.56,wife 's surname also yuk .,Lee Ik-joon,874,0.0,1.0,0.0,0.0,0.102561384,0.85037875,0.04705995,Neutral,Neutral
+2975.639,2977.979,", 're one know surname .",Lee Ik-joon,875,0.0,1.0,0.0,0.0,0.09631084,0.8130021,0.09068706,Neutral,Neutral
+2978.058,2981.938,"actually , 's fatherinlaw , brotherinlaw , sisterinlaw , niece .",Lee Ik-joon,876,0.0,1.0,0.0,0.0,0.06341513,0.8716825,0.064902425,Neutral,Neutral
+2982.02,2983.77,"gosh , many .",Lee Ik-joon,877,0.0,1.0,0.0,0.0,0.29248562,0.574943,0.13257128,Neutral,Neutral
+2984.398,2985.648,"'re going home today , right ?",Lee Ik-joon,878,0.0,1.0,0.0,0.0,0.020834815,0.8842455,0.09491978,Neutral,Neutral
+2985.732,2989.242,"yes . tomorrow children 's day , 'm happy home .",Secondary,879,0.0,0.484,0.516,0.7506,0.002118215,0.03940796,0.9584738,Positive,Positive
+2989.82,2990.78,"yes , 're right .",Lee Ik-joon,880,0.0,0.426,0.574,0.4019,0.03403531,0.3762448,0.5897199,Positive,Positive
+2990.862,2992.282,ca n't go anywhere far .,Lee Ik-joon,881,0.0,1.0,0.0,0.0,0.34800196,0.5844623,0.06753577,Neutral,Neutral
+2992.364,2995.124,'re going eat chinese restaurant near place .,Lee Ik-joon,882,0.0,1.0,0.0,0.0,0.008333267,0.8306227,0.16104406,Neutral,Neutral
+2995.2,2996.7,wonjun loves jajangmyeon .,Secondary,883,0.0,0.351,0.649,0.5719,0.0054564644,0.16527133,0.82927215,Positive,Positive
+2996.785,2999.535,kid loves jajangmyeon . kids .,Lee Ik-joon,884,0.0,0.448,0.552,0.5719,0.0026973542,0.0596018,0.93770087,Positive,Positive
+3000.08,3002.12,"simple laparoscopic cholecystectomy ,",Lee Ik-joon,885,0.0,1.0,0.0,0.0,0.13507007,0.80952835,0.055401597,Neutral,Neutral
+3002.207,3004.327,n't worry postsurgical complications .,Lee Ik-joon,886,0.0,0.555,0.445,0.3412,0.13723913,0.7270083,0.13575263,Neutral,Neutral
+3004.418,3006.038,n't overexert,Lee Ik-joon,887,0.0,1.0,0.0,0.0,0.3400961,0.59499615,0.06490775,Neutral,Neutral
+3006.128,3008.088,try walk much .,Lee Ik-joon,888,0.0,1.0,0.0,0.0,0.1381942,0.7682105,0.09359527,Neutral,Neutral
+3008.171,3009.971,"exercise help , okay ?",Lee Ik-joon,889,0.0,0.179,0.821,0.5574,0.027356345,0.76676214,0.2058815,Neutral,Positive
+3010.465,3012.715,right . go .,Lee Ik-joon,890,0.0,1.0,0.0,0.0,0.09675743,0.6065693,0.2966733,Neutral,Neutral
+3012.801,3015.181,"wow , ?",Secondary,891,0.0,0.0,1.0,0.5859,0.21125656,0.7187619,0.06998152,Neutral,Positive
+3015.262,3016.352,wonjun .,Secondary,892,0.0,1.0,0.0,0.0,0.113266364,0.7674946,0.11923902,Neutral,Neutral
+3016.43,3018.43,"silly goose , think ?",Lee Ik-joon,893,0.0,0.645,0.355,0.0258,0.31477317,0.6269599,0.05826697,Neutral,Neutral
+3018.515,3020.975,'m one got rid ouchy dad 's tummy .,Lee Ik-joon,894,0.0,1.0,0.0,0.0,0.35573566,0.57213354,0.07213074,Neutral,Neutral
+3021.56,3023.65,goodbye . 'll see next appointment .,Lee Ik-joon,895,0.0,1.0,0.0,0.0,0.051716924,0.8285728,0.119710185,Neutral,Neutral
+3023.729,3025.519,thank . thank .,Secondary,896,0.0,0.0,1.0,0.6124,0.009490275,0.17024872,0.820261,Positive,Positive
+3025.605,3026.855,say goodbye properly .,Secondary,897,0.0,1.0,0.0,0.0,0.27521083,0.64136916,0.08342003,Neutral,Neutral
+3027.357,3029.227,"thank , dr. lee ! pleasure !",Secondary,898,0.0,0.228,0.772,0.7772,0.0018214328,0.031375702,0.96680284,Positive,Positive
+3029.317,3031.737,"oh , . look .",Secondary,899,0.0,1.0,0.0,0.0,0.2137759,0.6582116,0.12801251,Neutral,Neutral
+3031.82,3033.2,hello . hello .,Secondary,900,0.0,1.0,0.0,0.0,0.021570487,0.41094458,0.567485,Positive,Neutral
+3036.658,3037.618,hello .,Secondary,901,0.0,1.0,0.0,0.0,0.09716277,0.6296369,0.27320033,Neutral,Neutral
+3039.327,3040.617,songhwa scold ?,Lee Ik-joon,902,0.73,0.27,0.0,-0.4019,0.18418685,0.77835196,0.03746116,Neutral,Negative
+3040.704,3042.374,yes . .,Secondary,903,0.0,0.0,1.0,0.4019,0.07861894,0.52436227,0.3970188,Neutral,Positive
+3042.873,3044.123,guess .,Lee Ik-joon,904,0.0,1.0,0.0,0.0,0.20578988,0.61455023,0.17965984,Neutral,Neutral
+3044.207,3046.417,chihong time .,Secondary,905,0.0,1.0,0.0,0.0,0.077833496,0.6844199,0.23774663,Neutral,Neutral
+3046.501,3047.631,said .,Lee Ik-joon,906,0.0,1.0,0.0,0.0,0.204475,0.6001802,0.19534475,Neutral,Neutral
+3048.17,3050.59,'s tough cookie military background .,Secondary,907,0.273,0.727,0.0,-0.128,0.20186514,0.7178145,0.08032037,Neutral,Neutral
+3051.214,3054.434,happened could n't answer questions .,Secondary,908,0.0,1.0,0.0,0.0,0.61843437,0.35455155,0.027014084,Negative,Neutral
+3054.551,3056.051,even thought sounded dumb .,Secondary,909,0.524,0.476,0.0,-0.5106,0.7452682,0.2288328,0.02589896,Negative,Negative
+3056.136,3058.756,"graduated korea military academy , right ?",Lee Ik-joon,910,0.0,1.0,0.0,0.0,0.08136386,0.8651139,0.053522155,Neutral,Neutral
+3058.847,3061.427,yes . know someone ...,Lee Ik-joon,911,0.0,0.526,0.474,0.4019,0.06666613,0.7968566,0.13647725,Neutral,Neutral
+3061.516,3062.766,hello ?,Lee Ik-joon,912,0.0,1.0,0.0,0.0,0.19381635,0.6660204,0.14016335,Neutral,Neutral
+3063.351,3064.901,"yes , ?",Lee Ik-joon,913,0.0,0.0,1.0,0.4019,0.14037995,0.7007034,0.15891671,Neutral,Positive
+3065.312,3067.562,"okay , 'll head . right .",Lee Ik-joon,914,0.0,0.612,0.388,0.2263,0.0283879,0.6727938,0.2988183,Neutral,Neutral
+3070.942,3071.942,"yes , professor .",Secondary,915,0.0,0.27,0.73,0.4019,0.059779186,0.60764337,0.3325774,Neutral,Positive
+3072.611,3073.611,right .,Secondary,916,0.0,1.0,0.0,0.0,0.14577112,0.5682945,0.28593433,Neutral,Neutral
+3074.279,3075.609,"yes , got .",Secondary,917,0.0,0.27,0.73,0.4019,0.084318854,0.47682074,0.43886042,Neutral,Positive
+3076.49,3078.37,know emergency patient traffic accident yesterday ?,Secondary,918,0.588,0.412,0.0,-0.6908,0.3903979,0.5934453,0.016156808,Neutral,Negative
+3078.45,3079.74,yes . n't operated,Secondary,919,0.0,0.426,0.574,0.4019,0.24967898,0.64333475,0.10698628,Neutral,Positive
+3079.826,3082.156,unstable vitals severe bleeding .,Secondary,920,0.622,0.122,0.256,-0.4588,0.8282814,0.15993647,0.011782153,Negative,Negative
+3082.245,3083.455,seems professor chae,Secondary,921,0.0,1.0,0.0,0.0,0.10113068,0.79899585,0.09987339,Neutral,Neutral
+3083.538,3085.618,perform surgery tonight . see .,Secondary,922,0.0,1.0,0.0,0.0,0.05076899,0.91046596,0.038765,Neutral,Neutral
+3085.707,3087.917,"meeting later . okay , great .",Secondary,923,0.0,0.25,0.75,0.7184,0.0027851271,0.06091327,0.9363016,Positive,Positive
+3088.21,3090.67,`` great '' ? really ? yes .,Secondary,924,0.0,0.287,0.713,0.8153,0.051944483,0.40318984,0.54486567,Positive,Positive
+3090.754,3092.464,totally put spot earlier .,Secondary,925,0.0,1.0,0.0,0.0,0.14695321,0.73990476,0.113141984,Neutral,Neutral
+3092.631,3095.051,asking questions .,Secondary,926,0.0,1.0,0.0,0.0,0.14837696,0.74060655,0.11101653,Neutral,Neutral
+3095.509,3097.259,wanted work case anyway .,Secondary,927,0.0,1.0,0.0,0.0,0.13341236,0.76938814,0.097199455,Neutral,Neutral
+3097.344,3100.764,hoping assigned assisting professor chae case .,Secondary,928,0.0,0.641,0.359,0.4215,0.010871901,0.7111266,0.27800155,Neutral,Neutral
+3100.889,3102.219,perfect .,Secondary,929,0.0,0.0,1.0,0.5719,0.08802929,0.36842823,0.5435425,Positive,Positive
+3102.557,3104.517,dr. ahn . yes .,Secondary,930,0.0,0.426,0.574,0.4019,0.029885294,0.64197206,0.3281427,Neutral,Positive
+3104.601,3106.851,n't get cranial ct scan ?,Secondary,931,0.0,1.0,0.0,0.0,0.40870225,0.57348037,0.017817343,Neutral,Neutral
+3108.73,3110.48,"sure , 's employee discount .",Secondary,932,0.0,0.566,0.434,0.3182,0.042385146,0.70826477,0.24935004,Neutral,Neutral
+3129.709,3131.459,sounds good . 'll .,Chae Song-hwa,933,0.0,0.408,0.592,0.4404,0.0032251482,0.055405866,0.941369,Positive,Positive
+3133.713,3135.013,take nap,Chae Song-hwa,934,0.0,1.0,0.0,0.0,0.123306595,0.7444005,0.13229296,Neutral,Neutral
+3135.09,3136.38,'ll see guys tonight .,Chae Song-hwa,935,0.0,1.0,0.0,0.0,0.009383068,0.72771615,0.26290077,Neutral,Neutral
+3136.466,3137.466,okay .,Secondary,936,0.0,0.0,1.0,0.2263,0.11996016,0.5391302,0.34090966,Neutral,Positive
+3140.595,3143.715,going surgery anyway .,Secondary,937,0.0,1.0,0.0,0.0,0.2722399,0.6806411,0.047118943,Neutral,Neutral
+3143.807,3145.097,know 's matters .,Secondary,938,0.0,0.645,0.355,0.0258,0.117671885,0.7067977,0.17553042,Neutral,Neutral
+3145.183,3147.233,matters whether knew .,Secondary,939,0.0,0.645,0.355,0.0258,0.16670793,0.77118075,0.0621113,Neutral,Neutral
+3153.441,3154.401,roses .,Secondary,940,0.0,1.0,0.0,0.0,0.121113665,0.66572493,0.21316147,Neutral,Neutral
+3155.11,3156.61,already season roses ?,Secondary,941,0.0,1.0,0.0,0.0,0.035169,0.84637856,0.118452445,Neutral,Neutral
+3158.029,3160.159,"dr. yong , 're observant .",Secondary,942,0.0,1.0,0.0,0.0,0.018104099,0.7029284,0.27896744,Neutral,Neutral
+3160.24,3161.7,family flower shop .,Secondary,943,0.0,1.0,0.0,0.0,0.019243417,0.7292779,0.25147867,Neutral,Neutral
+3161.783,3163.663,everyone knows roses look like .,Secondary,944,0.0,0.615,0.385,0.3612,0.014523392,0.40354338,0.5819332,Positive,Neutral
+3163.743,3164.913,"really . days ,",Chae Song-hwa,945,0.0,1.0,0.0,0.0,0.21414009,0.6360381,0.14982185,Neutral,Neutral
+3164.995,3167.745,many people n't know names plants flowers .,Chae Song-hwa,946,0.0,1.0,0.0,0.0,0.33494246,0.610307,0.05475063,Neutral,Neutral
+3173.962,3175.632,fake flowers ?,Secondary,947,0.756,0.244,0.0,-0.4767,0.16555858,0.77664244,0.057798993,Neutral,Negative
+3183.638,3186.018,'s wrong .,Secondary,948,0.756,0.244,0.0,-0.4767,0.84781396,0.1354422,0.016743854,Negative,Negative
+3189.978,3193.148,'m realizing 's long time since saw real flowers .,Secondary,949,0.0,1.0,0.0,0.0,0.057379186,0.6059546,0.33666623,Neutral,Neutral
+3193.815,3196.355,"professor chae , going camping weekend ?",Chae Song-hwa,950,0.0,1.0,0.0,0.0,0.022118293,0.90902066,0.06886103,Neutral,Neutral
+3196.443,3197.493,"yes , ask ?",Secondary,951,0.0,0.27,0.73,0.4019,0.09886899,0.78073037,0.120400675,Neutral,Positive
+3197.569,3198.949,join ?,Secondary,952,0.0,0.0,1.0,0.296,0.17146415,0.707012,0.12152388,Neutral,Positive
+3199.07,3201.41,"come , right ? 're working weekend .",Secondary,953,0.0,1.0,0.0,0.0,0.04580375,0.8576737,0.09652247,Neutral,Neutral
+3202.073,3203.453,join ?,Secondary,954,0.0,0.0,1.0,0.296,0.17146415,0.707012,0.12152388,Neutral,Positive
+3203.533,3206.543,"yes , . guys really want come ?",Chae Song-hwa,955,0.0,0.411,0.589,0.5095,0.015142669,0.68658215,0.29827517,Neutral,Positive
+3206.62,3207.7,yes .,Secondary,956,0.0,0.0,1.0,0.4019,0.10013353,0.4596959,0.44017053,Neutral,Positive
+3207.954,3210.424,"keep us toes ,",Secondary,957,0.0,1.0,0.0,0.0,0.108825274,0.7126044,0.17857035,Neutral,Neutral
+3210.999,3212.419,n't make us uncomfortable .,Secondary,958,0.0,0.579,0.421,0.2924,0.43742692,0.5193689,0.04320418,Neutral,Neutral
+3212.667,3215.547,"gosh , seokmin . goodness .",Secondary,959,0.0,0.4,0.6,0.4588,0.05014474,0.35945868,0.5903965,Positive,Positive
+3216.338,3217.588,ca n't hate .,Secondary,960,0.0,0.4,0.6,0.4585,0.19990966,0.664416,0.13567437,Neutral,Positive
+3217.672,3219.092,"annoy ,",Chae Song-hwa,961,1.0,0.0,0.0,-0.4404,0.35689926,0.4950512,0.14804955,Neutral,Negative
+3219.174,3220.684,n't make uncomfortable .,Chae Song-hwa,962,0.0,0.478,0.522,0.2924,0.40189123,0.5326453,0.06546352,Neutral,Positive
+3222.385,3224.845,"okay , let 's . , see real roses",Chae Song-hwa,963,0.0,0.725,0.275,0.2263,0.010691684,0.4380867,0.55122167,Positive,Neutral
+3224.93,3226.56,well butterflies .,Chae Song-hwa,964,0.0,0.323,0.677,0.2732,0.051009662,0.78652805,0.16246223,Neutral,Positive
+3226.64,3227.47,'m .,Chae Song-hwa,965,0.0,1.0,0.0,0.0,0.19482468,0.6309843,0.17419098,Neutral,Neutral
+3234.064,3235.074,order ?,Lee Ik-joon,966,0.0,1.0,0.0,0.0,0.16931765,0.72896504,0.10171729,Neutral,Neutral
+3235.44,3236.78,coffee good .,Lee Ik-joon,967,0.0,0.256,0.744,0.4404,0.006139537,0.11511157,0.8787489,Positive,Positive
+3237.275,3238.275,want cake ?,Lee Ik-joon,968,0.0,0.435,0.565,0.0772,0.03176682,0.78424025,0.18399295,Neutral,Positive
+3239.486,3241.276,go somewhere quiet ?,Secondary,969,0.0,1.0,0.0,0.0,0.1267518,0.81189406,0.06135416,Neutral,Neutral
+3242.447,3244.987,? talk something .,Secondary,970,0.0,1.0,0.0,0.0,0.18695432,0.74620265,0.066842996,Neutral,Neutral
+3249.246,3251.406,yulje medical center,Secondary,971,0.0,1.0,0.0,0.0,0.11785365,0.8027189,0.0794275,Neutral,Neutral
+3255.46,3256.54,hojun .,Secondary,972,0.0,1.0,0.0,0.0,0.122283034,0.7379258,0.13979107,Neutral,Neutral
+3257.087,3258.877,go get changed .,Secondary,973,0.0,1.0,0.0,0.0,0.2334693,0.67054474,0.095985875,Neutral,Neutral
+3258.964,3261.884,brought tshirt pair pants .,Secondary,974,0.0,1.0,0.0,0.0,0.03727117,0.86394215,0.09878674,Neutral,Neutral
+3261.967,3263.587,visiting hours begin shortly .,Secondary,975,0.0,1.0,0.0,0.0,0.0269454,0.9071678,0.06588682,Neutral,Neutral
+3263.677,3265.347,'ll get changed see dad .,Secondary,976,0.0,1.0,0.0,0.0,0.1771474,0.7374536,0.08539901,Neutral,Neutral
+3265.428,3268.808,"gosh , still 20 30 minutes .",Secondary,977,0.0,1.0,0.0,0.0,0.48659208,0.43968478,0.07372316,Negative,Neutral
+3269.891,3272.731,"hey , see chairs . let 's go sit .",Secondary,978,0.0,1.0,0.0,0.0,0.05503605,0.795718,0.14924596,Neutral,Neutral
+3272.811,3274.021,okay .,Secondary,979,0.0,0.0,1.0,0.2263,0.11996016,0.5391302,0.34090966,Neutral,Positive
+3275.23,3276.65,must mind .,Secondary,980,0.0,1.0,0.0,0.0,0.19570383,0.65072167,0.15357448,Neutral,Neutral
+3278.483,3282.073,ca n't believe . cancel honeymoon ?,Secondary,981,0.0,0.697,0.303,0.1877,0.4747487,0.48878378,0.036467493,Neutral,Neutral
+3282.279,3284.359,eunbin ! 're .,Secondary,982,0.0,1.0,0.0,0.0,0.04483246,0.7870907,0.16807678,Neutral,Neutral
+3289.202,3290.752,"hey , n't like .",Secondary,983,0.513,0.487,0.0,-0.2755,0.70409983,0.27174538,0.024154784,Negative,Negative
+3290.954,3292.294,everything went well .,Secondary,984,0.0,0.488,0.512,0.2732,0.005099938,0.11424237,0.8806577,Positive,Positive
+3296.418,3298.208,jinhui good photographer .,Secondary,985,0.0,0.408,0.592,0.4404,0.011339566,0.27014747,0.71851295,Positive,Positive
+3298.295,3299.955,", 's camera .",Secondary,986,0.0,1.0,0.0,0.0,0.12768592,0.7672984,0.10501566,Neutral,Neutral
+3300.046,3302.166,"downloading photos would nuisance ,",Secondary,987,0.0,1.0,0.0,0.0,0.542323,0.43344852,0.024228448,Negative,Neutral
+3302.257,3304.047,told use phone take photos .,Secondary,988,0.0,1.0,0.0,0.0,0.08543508,0.8195383,0.09502661,Neutral,Neutral
+3304.676,3307.136,"oh , uncle .",Secondary,989,0.0,1.0,0.0,0.0,0.2117591,0.6693186,0.11892232,Neutral,Neutral
+3307.804,3310.354,said would n't able make .,Secondary,990,0.0,1.0,0.0,0.0,0.46718103,0.48642573,0.046393212,Neutral,Neutral
+3310.432,3312.892,"oh , 's ?",Secondary,991,0.0,1.0,0.0,0.0,0.17164843,0.73646474,0.09188683,Neutral,Neutral
+3314.019,3316.809,n't doctor performed dad 's surgery ?,Secondary,992,0.0,1.0,0.0,0.0,0.27205572,0.7079471,0.019997248,Neutral,Neutral
+3316.896,3318.766,"eunbin , dad 's doctor came wedding ?",Secondary,993,0.0,1.0,0.0,0.0,0.038272705,0.9033522,0.058375046,Neutral,Neutral
+3318.857,3319.977,yes .,Secondary,994,0.0,0.0,1.0,0.4019,0.10013353,0.4596959,0.44017053,Neutral,Positive
+3320.066,3320.896,?,Secondary,995,0.0,0.0,0.0,0.0,0.20457315,0.68945074,0.10597605,Neutral,Positive
+3321.651,3324.491,first one stop bride 's room .,Secondary,996,0.306,0.694,0.0,-0.296,0.21169175,0.7490254,0.039282855,Neutral,Neutral
+3324.571,3326.741,'s face though ?,Secondary,997,0.0,1.0,0.0,0.0,0.12246187,0.81656593,0.060972188,Neutral,Neutral
+3326.823,3329.453,n't even take picture . ate left .,Secondary,998,0.0,1.0,0.0,0.0,0.44309607,0.51168954,0.045214415,Neutral,Neutral
+3329.534,3330.874,come . grateful came .,Secondary,999,0.0,0.4,0.6,0.4588,0.020944498,0.3326246,0.64643085,Positive,Positive
+3330.952,3333.292,asked main course . told 's galbitang .,Secondary,1000,0.0,1.0,0.0,0.0,0.08958318,0.86178255,0.048634235,Neutral,Neutral
+3333.371,3336.331,got excited rushed diner .,Secondary,1001,0.0,0.556,0.444,0.34,0.0036794946,0.07436754,0.921953,Positive,Neutral
+3336.416,3338.336,obviously came wedding dinner .,Secondary,1002,0.0,1.0,0.0,0.0,0.071720995,0.8162403,0.11203869,Neutral,Neutral
+3338.418,3340.588,come . galbitang nothing .,Secondary,1003,0.0,1.0,0.0,0.0,0.286576,0.6407214,0.072702624,Neutral,Neutral
+3340.67,3343.72,'d love take steak dinner .,Secondary,1004,0.0,0.488,0.512,0.6369,0.0042928914,0.16008025,0.83562684,Positive,Positive
+3344.215,3346.335,'d say anyway .,Secondary,1005,0.0,1.0,0.0,0.0,0.1706598,0.66808194,0.16125825,Neutral,Neutral
+3346.426,3348.046,doctors ca n't say yes things like .,Secondary,1006,0.231,0.512,0.256,0.0624,0.36433783,0.6115687,0.024093477,Neutral,Neutral
+3348.136,3350.176,"n't think 'd like ,",Secondary,1007,0.413,0.587,0.0,-0.2755,0.4647315,0.4947574,0.04051108,Neutral,Neutral
+3350.347,3351.847,'s actually charming .,Secondary,1008,0.0,0.345,0.655,0.5859,0.0033446471,0.03650917,0.9601462,Positive,Positive
+3351.931,3354.731,icu open . come .,Secondary,1009,0.0,1.0,0.0,0.0,0.071469985,0.7553206,0.17320944,Neutral,Neutral
+3354.809,3356.849,"oh , okay . thank .",Secondary,1010,0.0,0.185,0.815,0.5267,0.012046883,0.30283135,0.6851217,Positive,Positive
+3356.936,3358.186,thank .,Secondary,1011,0.0,0.0,1.0,0.3612,0.04915872,0.6146238,0.3362175,Neutral,Positive
+3361.274,3363.194,"hey , n't cry .",Secondary,1012,0.0,0.439,0.561,0.3724,0.114118405,0.66855586,0.21732576,Neutral,Positive
+3363.777,3365.487,going cry front dad ?,Secondary,1013,0.508,0.492,0.0,-0.4767,0.38684484,0.5842016,0.02895359,Neutral,Negative
+3368.239,3369.659,"seriously , n't cry .",Secondary,1014,0.324,0.19,0.486,0.2153,0.29554248,0.60363764,0.10081991,Neutral,Positive
+3369.741,3371.911,crying ? surgery went well .,Secondary,1015,0.431,0.278,0.292,-0.25,0.019202568,0.27110848,0.70968896,Positive,Negative
+3372.494,3374.084,dad sad see cry .,Secondary,1016,0.756,0.244,0.0,-0.7351,0.5583717,0.38878688,0.052841347,Negative,Negative
+3376.748,3377.668,stop crying .,Secondary,1017,1.0,0.0,0.0,-0.6486,0.5711496,0.37024653,0.05860384,Negative,Negative
+3378.124,3380.544,"break dad 's heart . know , right ?",Secondary,1018,0.0,1.0,0.0,0.0,0.46713257,0.49825007,0.0346173,Neutral,Neutral
+3380.627,3381.837,right .,Secondary,1019,0.0,1.0,0.0,0.0,0.14577112,0.5682945,0.28593433,Neutral,Neutral
+3385.215,3386.045,smile .,Secondary,1020,0.0,0.0,1.0,0.3612,0.018328995,0.3739244,0.6077466,Positive,Positive
+3390.428,3391.508,give bigger smile .,Secondary,1021,0.0,0.444,0.556,0.3612,0.005777139,0.1306887,0.8635342,Positive,Positive
+3397.519,3398.519,n't leaving ?,Chae Song-hwa,1022,0.0,1.0,0.0,0.0,0.1389703,0.8059766,0.05505311,Neutral,Neutral
+3399.02,3401.86,"hey . surgery tomorrow well patient appointments ,",Kim Jun-wan,1023,0.0,0.704,0.296,0.2732,0.026658645,0.9022129,0.071128495,Neutral,Neutral
+3401.94,3404.07,lot . reschedule surgery .,Kim Jun-wan,1024,0.0,1.0,0.0,0.0,0.17853798,0.7886013,0.032860797,Neutral,Neutral
+3404.15,3406.03,ca n't .,Kim Jun-wan,1025,0.0,1.0,0.0,0.0,0.28255892,0.5856204,0.13182062,Neutral,Neutral
+3406.111,3407.571,many appointments ?,Chae Song-hwa,1026,0.0,1.0,0.0,0.0,0.122952774,0.83248854,0.04455876,Neutral,Neutral
+3407.654,3408.664,twenty .,Kim Jun-wan,1027,0.0,1.0,0.0,0.0,0.15657257,0.6576266,0.18580088,Neutral,Neutral
+3408.738,3410.278,go charts .,Kim Jun-wan,1028,0.0,1.0,0.0,0.0,0.09654152,0.77293324,0.13052523,Neutral,Neutral
+3410.949,3412.199,still ?,Kim Jun-wan,1029,0.0,1.0,0.0,0.0,0.19198221,0.7107032,0.097314596,Neutral,Neutral
+3412.492,3414.082,"everyone good job surgery ,",Chae Song-hwa,1030,0.0,0.508,0.492,0.4404,0.007512192,0.09718909,0.8952987,Positive,Neutral
+3414.16,3415.58,want stop office .,Chae Song-hwa,1031,0.489,0.222,0.289,-0.2263,0.56570244,0.4004826,0.033814937,Negative,Negative
+3415.662,3418.422,go check ikjun . ?,Kim Jun-wan,1032,0.0,1.0,0.0,0.0,0.11924289,0.8360991,0.044657994,Neutral,Neutral
+3418.498,3420.878,"think something 's , wo n't tell .",Kim Jun-wan,1033,0.0,1.0,0.0,0.0,0.17939837,0.7681561,0.052445605,Neutral,Neutral
+3420.959,3422.999,"really ? think 's family matter ,",Kim Jun-wan,1034,0.0,0.784,0.216,0.0258,0.22872423,0.7254219,0.045853823,Neutral,Neutral
+3423.086,3424.956,n't want pry .,Kim Jun-wan,1035,0.379,0.621,0.0,-0.0572,0.4136677,0.5244309,0.06190145,Neutral,Neutral
+3425.547,3427.417,n't sound like .,Chae Song-hwa,1036,0.513,0.487,0.0,-0.2755,0.5201823,0.44464043,0.0351772,Negative,Negative
+3427.507,3430.007,"well , 'm sure 'll sort .",Chae Song-hwa,1037,0.0,0.405,0.595,0.5267,0.03389414,0.65426844,0.3118374,Neutral,Positive
+3430.093,3431.013,bye .,Chae Song-hwa,1038,0.0,1.0,0.0,0.0,0.24811243,0.5609479,0.19093974,Neutral,Neutral
+3439.561,3441.231,say ?,Lee Ik-joon,1039,0.0,1.0,0.0,0.0,0.19347759,0.6876461,0.11887625,Neutral,Neutral
+3441.896,3443.566,said want divorce .,Secondary,1040,0.0,0.606,0.394,0.0772,0.4768533,0.48711497,0.036031723,Neutral,Neutral
+3445.4,3448.19,would n't call normal marriage .,Secondary,1041,0.0,1.0,0.0,0.0,0.32172936,0.63149065,0.04678,Neutral,Neutral
+3448.695,3450.355,let 's go back friends .,Secondary,1042,0.0,0.563,0.437,0.4767,0.011607959,0.5362243,0.45216772,Neutral,Neutral
+3452.699,3454.739,'re like wanted .,Lee Ik-joon,1043,0.0,0.444,0.556,0.3612,0.14657627,0.68539053,0.16803317,Neutral,Positive
+3456.161,3457.951,"got transferred ,",Lee Ik-joon,1044,0.0,1.0,0.0,0.0,0.23030514,0.6403857,0.12930915,Neutral,Neutral
+3458.538,3461.038,told 'd follow germany,Lee Ik-joon,1045,0.0,1.0,0.0,0.0,0.0745996,0.85495794,0.070442475,Neutral,Neutral
+3461.124,3461.964,refused .,Lee Ik-joon,1046,1.0,0.0,0.0,-0.296,0.31664726,0.60383254,0.07952018,Neutral,Negative
+3462.041,3463.541,wanted keep working .,Lee Ik-joon,1047,0.0,1.0,0.0,0.0,0.028546292,0.5252475,0.44620627,Neutral,Neutral
+3463.626,3465.746,"also , wanted raise uju korea .",Lee Ik-joon,1048,0.0,1.0,0.0,0.0,0.039446976,0.84825146,0.11230157,Neutral,Neutral
+3465.837,3468.337,'s 're living like . ...,Lee Ik-joon,1049,0.0,0.615,0.385,0.3612,0.173999,0.7647045,0.06129651,Neutral,Neutral
+3471.009,3472.389,separated ?,Lee Ik-joon,1050,0.0,1.0,0.0,0.0,0.1724147,0.77981913,0.047766123,Neutral,Neutral
+3472.469,3473.889,", n't .",Lee Ik-joon,1051,0.0,1.0,0.0,0.0,0.29986337,0.571734,0.12840264,Neutral,Neutral
+3475.138,3476.968,like career .,Lee Ik-joon,1052,0.0,0.286,0.714,0.3612,0.18503067,0.6696312,0.1453382,Neutral,Positive
+3478.349,3481.099,totally look uju .,Lee Ik-joon,1053,0.0,1.0,0.0,0.0,0.088911355,0.7216852,0.18940341,Neutral,Neutral
+3481.686,3485.566,"know 've living apart quite ,",Lee Ik-joon,1054,0.0,1.0,0.0,0.0,0.22609867,0.69330055,0.08060075,Neutral,Neutral
+3485.648,3487.648,made decision together .,Lee Ik-joon,1055,0.0,1.0,0.0,0.0,0.05393993,0.70042235,0.24563774,Neutral,Neutral
+3487.734,3488.944,saying ...,Lee Ik-joon,1056,0.0,1.0,0.0,0.0,0.13563466,0.77691674,0.087448575,Neutral,Neutral
+3490.361,3491.321,'s going ?,Lee Ik-joon,1057,0.0,1.0,0.0,0.0,0.12823956,0.74365425,0.1281062,Neutral,Neutral
+3493.239,3494.819,'s real reason ?,Lee Ik-joon,1058,0.0,1.0,0.0,0.0,0.16118221,0.7843639,0.054453928,Neutral,Neutral
+3494.908,3496.988,'s thing .,Secondary,1059,0.0,1.0,0.0,0.0,0.1499034,0.6697053,0.18039136,Neutral,Neutral
+3497.994,3502.174,felt meaningless,Secondary,1060,0.744,0.256,0.0,-0.4404,0.69938743,0.2731468,0.027465696,Negative,Negative
+3502.29,3504.38,maintain kind marriage .,Secondary,1061,0.0,0.37,0.63,0.5267,0.023557203,0.6172753,0.35916758,Neutral,Positive
+3507.712,3508.922,mistrust ?,Secondary,1062,0.0,1.0,0.0,0.0,0.37647054,0.58144945,0.042080104,Neutral,Neutral
+3509.547,3510.377,.,Lee Ik-joon,1063,0.0,0.0,0.0,0.0,0.24528693,0.51357335,0.24113972,Neutral,Positive
+3512.05,3514.18,"'m going lunch uju tomorrow ,",Secondary,1064,0.0,1.0,0.0,0.0,0.014344572,0.8730807,0.112574816,Neutral,Neutral
+3514.26,3515.64,two us .,Secondary,1065,0.0,1.0,0.0,0.0,0.15115498,0.659461,0.18938403,Neutral,Neutral
+3515.72,3517.18,"'s special day , know .",Secondary,1066,0.0,0.526,0.474,0.4019,0.0054305065,0.21320793,0.7813616,Positive,Neutral
+3518.014,3519.354,work .,Secondary,1067,0.0,1.0,0.0,0.0,0.17629063,0.63872015,0.18498921,Neutral,Neutral
+3519.432,3521.272,'ll stay tomorrow .,Secondary,1068,0.0,1.0,0.0,0.0,0.018817073,0.83396924,0.14721376,Neutral,Neutral
+3522.852,3526.022,said ...,Secondary,1069,0.0,1.0,0.0,0.0,0.1892672,0.69348603,0.11724676,Neutral,Neutral
+3527.273,3530.323,hope take seriously .,Secondary,1070,0.304,0.179,0.518,0.296,0.053844623,0.6074451,0.33871025,Neutral,Positive
+3553.716,3555.796,"dr. ahn , want go coffee ?",Chae Song-hwa,1071,0.0,0.755,0.245,0.0772,0.023445822,0.87564707,0.10090706,Neutral,Neutral
+3556.678,3557.678,sure .,Secondary,1072,0.0,0.0,1.0,0.3182,0.16858904,0.53195983,0.29945108,Neutral,Positive
+3560.139,3562.769,many questions ask today ?,Chae Song-hwa,1073,0.0,1.0,0.0,0.0,0.083258346,0.88139915,0.035342526,Neutral,Neutral
+3566.271,3567.311,'m sure .,Secondary,1074,0.0,0.303,0.697,0.3182,0.079183966,0.63241225,0.28840375,Neutral,Positive
+3568.106,3570.186,many . many .,Chae Song-hwa,1075,0.0,1.0,0.0,0.0,0.11852394,0.69722384,0.18425223,Neutral,Neutral
+3570.942,3571.782,'m sorry .,Chae Song-hwa,1076,0.565,0.435,0.0,-0.0772,0.5241156,0.4061268,0.06975763,Negative,Negative
+3571.859,3573.399,", 's okay .",Secondary,1077,0.0,0.345,0.655,0.2263,0.014978808,0.34048617,0.644535,Positive,Positive
+3573.486,3577.406,"chihong , know many operations perform weekly basis ?",Chae Song-hwa,1078,0.0,1.0,0.0,0.0,0.058518957,0.8983057,0.043175355,Neutral,Neutral
+3579.242,3580.792,"jeez , 'm asking question .",Chae Song-hwa,1079,0.0,1.0,0.0,0.0,0.22591813,0.7138818,0.0602001,Neutral,Neutral
+3581.494,3583.294,"problem , n't ?",Chae Song-hwa,1080,0.73,0.27,0.0,-0.4019,0.2360123,0.7098223,0.054165397,Neutral,Negative
+3583.496,3585.036,'m really sorry .,Chae Song-hwa,1081,0.443,0.557,0.0,-0.1513,0.6878069,0.2672215,0.04497162,Negative,Neutral
+3585.123,3587.673,"think five week , average .",Secondary,1082,0.0,1.0,0.0,0.0,0.07253866,0.79367167,0.1337896,Neutral,Neutral
+3588.251,3589.711,"means , year ...",Chae Song-hwa,1083,0.0,1.0,0.0,0.0,0.13894154,0.76803917,0.093019255,Neutral,Neutral
+3590.378,3593.378,"probably 250 , roughly speaking .",Chae Song-hwa,1084,0.0,1.0,0.0,0.0,0.034890257,0.88118434,0.083925374,Neutral,Neutral
+3593.715,3594.835,right .,Secondary,1085,0.0,1.0,0.0,0.0,0.14577112,0.5682945,0.28593433,Neutral,Neutral
+3595.55,3597.05,want toes .,Chae Song-hwa,1086,0.0,0.435,0.565,0.0772,0.1639413,0.6641624,0.17189635,Neutral,Positive
+3600.054,3602.274,'re performing surgery treating patients .,Chae Song-hwa,1087,0.0,1.0,0.0,0.0,0.084171206,0.8490982,0.06673051,Neutral,Neutral
+3602.849,3605.269,seokmin,Chae Song-hwa,1088,0.0,1.0,0.0,0.0,0.10076397,0.7101269,0.1891091,Neutral,Neutral
+3605.56,3608.19,stay alert focused times . 's .,Chae Song-hwa,1089,0.0,0.385,0.615,0.5859,0.031797666,0.70694077,0.2612616,Neutral,Positive
+3610.231,3611.271,yes .,Secondary,1090,0.0,0.0,1.0,0.4019,0.10013353,0.4596959,0.44017053,Neutral,Positive
+3612.483,3614.323,"see , job hard .",Chae Song-hwa,1091,0.412,0.588,0.0,-0.1027,0.49462637,0.44610018,0.05927345,Negative,Neutral
+3614.402,3615.652,get used quickly .,Chae Song-hwa,1092,0.0,1.0,0.0,0.0,0.10185888,0.68688005,0.2112611,Neutral,Neutral
+3616.738,3621.698,"thing though , never get comfortable .",Chae Song-hwa,1093,0.403,0.597,0.0,-0.4023,0.43969956,0.49893355,0.06136685,Neutral,Neutral
+3622.076,3623.156,'s .,Chae Song-hwa,1094,0.0,1.0,0.0,0.0,0.19482623,0.6189215,0.18625224,Neutral,Neutral
+3625.288,3626.118,right .,Secondary,1095,0.0,1.0,0.0,0.0,0.14577112,0.5682945,0.28593433,Neutral,Neutral
+3626.998,3629.878,"'s n't like , n't get wrong .",Chae Song-hwa,1096,0.244,0.462,0.295,0.1139,0.35047546,0.58672625,0.06279828,Neutral,Neutral
+3630.793,3632.753,'d better give halfway .,Chae Song-hwa,1097,0.0,0.508,0.492,0.4404,0.19190247,0.657576,0.1505215,Neutral,Neutral
+3633.338,3634.418,okay .,Secondary,1098,0.0,0.0,1.0,0.2263,0.11996016,0.5391302,0.34090966,Neutral,Positive
+3634.505,3636.545,trust follow lead .,Chae Song-hwa,1099,0.0,0.377,0.623,0.5106,0.024772663,0.55290157,0.4223258,Neutral,Positive
+3637.592,3640.682,"understand , captain ahn ? yes , ma'am .",Chae Song-hwa,1100,0.0,0.597,0.403,0.4019,0.016578943,0.68990594,0.2935151,Neutral,Neutral
+3652.44,3654.32,"hey . professor , chanhyeong great .",Secondary,1101,0.0,0.423,0.577,0.6249,0.0036896209,0.080526255,0.9157841,Positive,Positive
+3654.4,3655.9,checked everything .,Secondary,1102,0.0,1.0,0.0,0.0,0.2126435,0.6688466,0.11850987,Neutral,Neutral
+3655.985,3658.905,really ? 's need check ? abga pao2 results look good ?,Kim Jun-wan,1103,0.0,0.699,0.301,0.533,0.13082114,0.711464,0.15771483,Neutral,Neutral
+3658.988,3661.028,"yes . everything looks good ,",Secondary,1104,0.0,0.263,0.737,0.6808,0.002374162,0.036270767,0.96135503,Positive,Positive
+3661.115,3663.575,go home already .,Secondary,1105,0.0,1.0,0.0,0.0,0.42335248,0.48385665,0.09279085,Neutral,Neutral
+3663.66,3664.58,right .,Secondary,1106,0.0,1.0,0.0,0.0,0.14577112,0.5682945,0.28593433,Neutral,Neutral
+3673.044,3675.764,"dr. walked surgery procedure , right ?",Kim Jun-wan,1107,0.0,1.0,0.0,0.0,0.08289783,0.87547785,0.041624334,Neutral,Neutral
+3675.838,3678.378,"chanhyeong 's condition improved , 'll perform surgery ...",Kim Jun-wan,1108,0.0,0.693,0.307,0.4767,0.0118019665,0.54726166,0.4409364,Neutral,Neutral
+3680.343,3681.223,"oh , .",Secondary,1109,0.0,1.0,0.0,0.0,0.29706195,0.561192,0.14174606,Neutral,Neutral
+3682.261,3686.221,"doctor , please take good care chanhyeong .",Secondary,1110,0.0,0.263,0.737,0.8126,0.007034955,0.20930704,0.78365797,Positive,Positive
+3687.35,3690.44,"gosh , 've staying strong .",Secondary,1111,0.0,0.476,0.524,0.5106,0.0102659585,0.31573072,0.6740033,Positive,Positive
+3690.52,3693.27,please save chanhyeong .,Secondary,1112,0.0,0.154,0.846,0.6705,0.06357,0.6410577,0.29537222,Neutral,Positive
+3694.44,3698.32,wish instead .,Secondary,1113,0.0,0.27,0.73,0.4019,0.19069654,0.7199989,0.089304596,Neutral,Positive
+3703.991,3705.741,n't cry .,Kim Jun-wan,1114,0.0,0.281,0.719,0.3724,0.12971632,0.6534753,0.21680835,Neutral,Positive
+3706.703,3708.963,'ve holding well .,Kim Jun-wan,1115,0.0,0.488,0.512,0.2732,0.02627368,0.40713164,0.5665946,Positive,Positive
+3710.373,3712.543,'ve barely keeping together .,Secondary,1116,0.0,1.0,0.0,0.0,0.42158285,0.51940507,0.059012078,Neutral,Neutral
+3715.837,3720.757,mom motherinlaw think 're still kids .,Secondary,1117,0.0,1.0,0.0,0.0,0.20591961,0.7470384,0.04704205,Neutral,Neutral
+3722.009,3724.679,everyone says 're immature .,Secondary,1118,0.0,1.0,0.0,0.0,0.631502,0.33590102,0.032597005,Negative,Neutral
+3725.263,3728.433,'ve acting tough purpose .,Secondary,1119,0.333,0.667,0.0,-0.128,0.10432134,0.7446393,0.15103942,Neutral,Neutral
+3729.016,3731.186,"wanted cry , afraid",Secondary,1120,0.608,0.392,0.0,-0.4767,0.6546018,0.31760034,0.027797872,Negative,Negative
+3731.644,3734.694,'d say 're young deal .,Secondary,1121,0.0,1.0,0.0,0.0,0.07874713,0.8446872,0.076565646,Neutral,Neutral
+3734.856,3736.976,would tell go home burst tears .,Secondary,1122,0.275,0.725,0.0,-0.2263,0.37292048,0.56339246,0.063687034,Neutral,Neutral
+3737.066,3739.816,would n't even let see chanhyeong ?,Secondary,1123,0.0,1.0,0.0,0.0,0.45097962,0.52440107,0.024619289,Neutral,Neutral
+3739.902,3743.162,'s 've forcing act tough .,Secondary,1124,0.273,0.727,0.0,-0.128,0.20966098,0.7166267,0.07371233,Neutral,Neutral
+3744.073,3747.833,ca n't anymore .,Secondary,1125,0.0,1.0,0.0,0.0,0.44661838,0.49772575,0.055655893,Neutral,Neutral
+3749.036,3753.456,"doctor , chanhyeong okay , right ?",Secondary,1126,0.0,0.612,0.388,0.2263,0.014494829,0.73217255,0.25333264,Neutral,Neutral
+3754.208,3755.838,'ve performed surgery many times .,Kim Jun-wan,1127,0.0,1.0,0.0,0.0,0.15426312,0.7909371,0.054799728,Neutral,Neutral
+3755.918,3757.588,'ll make sure 'll okay .,Kim Jun-wan,1128,0.0,0.417,0.583,0.4939,0.014270717,0.41203085,0.5736984,Positive,Positive
+3758.212,3761.222,", go well , right ?",Secondary,1129,0.0,0.488,0.512,0.2732,0.013811457,0.41596663,0.57022196,Positive,Positive
+3765.553,3768.223,"yes , 'll best .",Kim Jun-wan,1130,0.0,0.127,0.873,0.7845,0.017903296,0.3064878,0.67560893,Positive,Positive
+3769.223,3770.933,thank .,Secondary,1131,0.0,0.0,1.0,0.3612,0.04915872,0.6146238,0.3362175,Neutral,Positive
+3774.854,3778.274,"way , go home morning ?",Kim Jun-wan,1132,0.0,1.0,0.0,0.0,0.05616824,0.85838825,0.0854434,Neutral,Neutral
+3779.901,3783.151,"oh , huidong 's mom ...",Secondary,1133,0.0,1.0,0.0,0.0,0.1536569,0.78723663,0.059106413,Neutral,Neutral
+3784.197,3786.737,"shaman . oh , see .",Secondary,1134,0.0,1.0,0.0,0.0,0.106307454,0.80873364,0.08495897,Neutral,Neutral
+3787.2,3791.12,said putting crock lid upside filling water,Secondary,1135,0.0,1.0,0.0,0.0,0.17109461,0.7840082,0.044897165,Neutral,Neutral
+3791.204,3793.664,could help chanhyeong recover soon .,Secondary,1136,0.0,0.597,0.403,0.4019,0.004452369,0.23871629,0.75683135,Positive,Neutral
+3795.541,3799.131,'m sorry . heard doctors n't like superstitions .,Secondary,1137,0.405,0.595,0.0,-0.3421,0.6387173,0.33890584,0.022376878,Negative,Neutral
+3799.212,3800.882,"gosh , n't sorry . 's okay .",Kim Jun-wan,1138,0.283,0.51,0.208,-0.1139,0.018499725,0.28050745,0.7009928,Positive,Neutral
+3800.963,3805.263,"helps worry less , . means .",Kim Jun-wan,1139,0.387,0.267,0.347,-0.0772,0.067625076,0.45924553,0.4731294,Positive,Negative
+3807.178,3808.098,...,Secondary,1140,0.0,1.0,0.0,0.0,0.23258078,0.620445,0.14697418,Neutral,Neutral
+3814.31,3815.27,.,Secondary,1141,0.0,0.0,0.0,0.0,0.24528693,0.51357335,0.24113972,Neutral,Positive
+3819.941,3821.361,'m sorry .,Secondary,1142,0.565,0.435,0.0,-0.0772,0.5241156,0.4061268,0.06975763,Negative,Negative
+3823.986,3824.986,n't .,Kim Jun-wan,1143,0.0,1.0,0.0,0.0,0.28932807,0.5773061,0.13336588,Neutral,Neutral
+3833.913,3835.833,uncles aunts .,Lee Ik-joon,1144,0.0,1.0,0.0,0.0,0.35215023,0.5925933,0.05525644,Neutral,Neutral
+3836.332,3838.422,chanhyeong .,Lee Ik-joon,1145,0.0,1.0,0.0,0.0,0.087370016,0.7317803,0.18084966,Neutral,Neutral
+3853.683,3855.313,crp levels gone little .,Kim Jun-wan,1146,0.0,1.0,0.0,0.0,0.28893915,0.6512633,0.059797555,Neutral,Neutral
+3855.476,3857.186,"yes , cbc level",Secondary,1147,0.0,0.426,0.574,0.4019,0.07339449,0.6539734,0.27263212,Neutral,Positive
+3857.27,3859.11,chest xray morning look good .,Secondary,1148,0.0,0.58,0.42,0.4404,0.0023602056,0.06351822,0.9341216,Positive,Neutral
+3859.188,3860.398,right .,Kim Jun-wan,1149,0.0,1.0,0.0,0.0,0.14577112,0.5682945,0.28593433,Neutral,Neutral
+3863.442,3864.692,wakanda .,Kim Jun-wan,1150,0.0,1.0,0.0,0.0,0.18161677,0.65947455,0.15890875,Neutral,Neutral
+3866.612,3868.242,n't know ? black panther .,Kim Jun-wan,1151,0.0,1.0,0.0,0.0,0.14935811,0.79751736,0.053124484,Neutral,Neutral
+3872.41,3874.62,n't say `` forever . '' stay still like .,Kim Jun-wan,1152,0.0,0.737,0.263,0.3612,0.11582374,0.764185,0.11999125,Neutral,Neutral
+3877.29,3878.54,lee chanhyeong,Secondary,1153,0.0,1.0,0.0,0.0,0.05185917,0.8201675,0.12797332,Neutral,Neutral
+3880.293,3881.543,"pump , please .",Kim Jun-wan,1154,0.0,0.303,0.697,0.3182,0.08989083,0.6622543,0.24785489,Neutral,Positive
+3881.752,3884.012,turning pump .,Secondary,1155,0.0,1.0,0.0,0.0,0.119385466,0.74815357,0.13246106,Neutral,Neutral
+3889.927,3892.927,"anesthesia duration , current time , surgery duration",Secondary,1156,0.0,1.0,0.0,0.0,0.14853007,0.8200948,0.031375162,Neutral,Neutral
+3921.834,3923.254,color drainage okay ?,Lee Ik-joon,1157,0.0,0.513,0.487,0.2263,0.104014,0.7117186,0.18426736,Neutral,Neutral
+3923.878,3924.918,ac ?,Lee Ik-joon,1158,0.0,1.0,0.0,0.0,0.19843487,0.64775133,0.15381375,Neutral,Neutral
+3926.422,3929.972,okay . call perhour urine output .,Lee Ik-joon,1159,0.0,0.678,0.322,0.2263,0.07855074,0.84878665,0.07266253,Neutral,Neutral
+3930.051,3930.971,right .,Secondary,1160,0.0,1.0,0.0,0.0,0.14577112,0.5682945,0.28593433,Neutral,Neutral
+3931.427,3934.427,"professor , n't answer phone ?",Secondary,1161,0.0,1.0,0.0,0.0,0.48708263,0.4858815,0.02703583,Negative,Neutral
+3935.014,3937.314,phone . gosh .,Secondary,1162,0.0,1.0,0.0,0.0,0.42810223,0.47532317,0.09657457,Neutral,Neutral
+3937.767,3941.897,said could n't get hold . 's 'm . thing ...,Secondary,1163,0.0,1.0,0.0,0.0,0.5043521,0.46337497,0.032273017,Negative,Neutral
+3942.688,3944.068,'s mr. yuk huigwan .,Secondary,1164,0.0,1.0,0.0,0.0,0.053258102,0.868493,0.078248866,Neutral,Neutral
+3944.148,3945.608,?,Secondary,1165,0.0,0.0,0.0,0.0,0.20457315,0.68945074,0.10597605,Neutral,Positive
+3945.691,3947.191,discharged yesterday .,Secondary,1166,0.0,1.0,0.0,0.0,0.100082226,0.7989483,0.10096942,Neutral,Neutral
+3947.276,3949.696,going records,Secondary,1167,0.0,1.0,0.0,0.0,0.16639093,0.6576917,0.17591731,Neutral,Neutral
+3949.779,3953.739,found braindead organ donor .,Secondary,1168,0.0,1.0,0.0,0.0,0.53899175,0.43894577,0.022062462,Negative,Neutral
+3954.45,3955.87,came ta victim .,Secondary,1169,0.512,0.488,0.0,-0.2732,0.27549353,0.6617662,0.06274035,Neutral,Negative
+3955.952,3958.752,"gcs score five , indicated high probability brain death .",Secondary,1170,0.358,0.642,0.0,-0.5994,0.83318764,0.15980038,0.0070119686,Negative,Neutral
+3959.33,3960.96,"family consented organ donation ,",Secondary,1171,0.0,1.0,0.0,0.0,0.042824563,0.7680226,0.18915282,Neutral,Neutral
+3961.04,3963.08,'ve already done eeg .,Secondary,1172,0.0,1.0,0.0,0.0,0.098589845,0.73724383,0.16416636,Neutral,Neutral
+3963.167,3965.537,committee meet soon confirm diagnosis .,Secondary,1173,0.0,1.0,0.0,0.0,0.027148552,0.90874237,0.064109124,Neutral,Neutral
+3965.628,3969.008,"initially , notified traffic accident victim .",Secondary,1174,0.634,0.366,0.0,-0.6369,0.30756277,0.66792005,0.024517216,Neutral,Negative
+3970.508,3972.718,wanted us let know soon possible,Secondary,1175,0.0,1.0,0.0,0.0,0.019335037,0.7775098,0.20315516,Neutral,Neutral
+3972.802,3974.762,'s patient .,Secondary,1176,0.0,1.0,0.0,0.0,0.10772994,0.66360384,0.22866626,Neutral,Neutral
+3975.888,3978.018,"organ going another patient hospital ,",Secondary,1177,0.0,1.0,0.0,0.0,0.20183995,0.70944375,0.08871632,Neutral,Neutral
+3978.099,3980.269,'ll take care procurement well .,Secondary,1178,0.0,0.361,0.639,0.6486,0.019753685,0.42516217,0.5550841,Positive,Positive
+3982.019,3985.269,"gosh , feel bad .",Secondary,1179,0.636,0.364,0.0,-0.5423,0.85572773,0.12729265,0.016979631,Negative,Negative
+3989.944,3992.364,"tricuspid valve small , 's hard see .",Kim Jun-wan,1180,0.219,0.781,0.0,-0.1027,0.33585435,0.6132705,0.050875198,Neutral,Neutral
+3993.114,3995.664,", way . pull toward patient 's head .",Kim Jun-wan,1181,0.0,1.0,0.0,0.0,0.055217385,0.89345837,0.05132424,Neutral,Neutral
+3996.158,3997.448,yes .,Secondary,1182,0.0,0.0,1.0,0.4019,0.10013353,0.4596959,0.44017053,Neutral,Positive
+3998.911,4001.541,"pull harder , 'll make bigger incision .",Kim Jun-wan,1183,0.0,1.0,0.0,0.0,0.10505516,0.7537786,0.14116628,Neutral,Neutral
+4001.622,4003.122,"okay , 'm sorry .",Secondary,1184,0.31,0.238,0.452,0.1531,0.46241164,0.47699898,0.06058939,Neutral,Positive
+4005.793,4007.593,"see monitor , right ?",Secondary,1185,0.0,1.0,0.0,0.0,0.12338294,0.7883696,0.08824745,Neutral,Neutral
+4007.67,4010.59,"line flat , means heart rate zero .",Secondary,1186,0.0,1.0,0.0,0.0,0.25302857,0.68448615,0.06248525,Neutral,Neutral
+4010.673,4011.593,means 's dead .,Secondary,1187,0.683,0.317,0.0,-0.6486,0.57245314,0.38887304,0.03867382,Negative,Negative
+4012.258,4013.338,.,Secondary,1188,0.0,0.0,0.0,0.0,0.24528693,0.51357335,0.24113972,Neutral,Positive
+4013.426,4016.596,means chanhyeong 's current heart rate zero .,Secondary,1189,0.0,1.0,0.0,0.0,0.1339455,0.80493456,0.061119966,Neutral,Neutral
+4016.679,4019.639,heart n't beating moment .,Secondary,1190,0.0,0.547,0.453,0.357,0.40666282,0.5167241,0.07661302,Neutral,Neutral
+4019.724,4022.104,ca n't operate heart beating .,Secondary,1191,0.0,0.617,0.383,0.357,0.3906778,0.5495331,0.059789114,Neutral,Neutral
+4022.184,4024.524,'s cardioplegia solution administered,Secondary,1192,0.0,0.566,0.434,0.3182,0.1386497,0.80879885,0.05255148,Neutral,Neutral
+4024.603,4026.813,every 30 minutes induce cardiac stasis performing,Secondary,1193,0.0,1.0,0.0,0.0,0.19692406,0.7736089,0.029466998,Neutral,Neutral
+4026.897,4028.147,cardiac surgery procedures .,Secondary,1194,0.0,1.0,0.0,0.0,0.2912591,0.6737017,0.03503919,Neutral,Neutral
+4028.232,4030.572,"cardiac stasis , machine",Secondary,1195,0.0,1.0,0.0,0.0,0.2999728,0.6527988,0.04722844,Neutral,Neutral
+4030.651,4033.111,acts patient 's heart lungs .,Secondary,1196,0.0,1.0,0.0,0.0,0.20625141,0.74931407,0.0444345,Neutral,Neutral
+4033.195,4035.235,supplies blood throughout body,Secondary,1197,0.0,1.0,0.0,0.0,0.10361773,0.83640593,0.059976406,Neutral,Neutral
+4035.322,4037.742,doctors operating heart .,Secondary,1198,0.0,1.0,0.0,0.0,0.18699986,0.74024814,0.07275196,Neutral,Neutral
+4037.825,4039.405,right . let 's go .,Secondary,1199,0.0,1.0,0.0,0.0,0.034330215,0.49172953,0.47394022,Neutral,Neutral
+4039.994,4043.294,"stop chanhyeong 's heart , replaced machine .",Secondary,1200,0.306,0.694,0.0,-0.296,0.55050135,0.41472447,0.03477413,Negative,Neutral
+4043.372,4046.172,"machine 's working , doctors quickly fix heart .",Secondary,1201,0.0,1.0,0.0,0.0,0.009047453,0.24746703,0.7434855,Positive,Neutral
+4046.25,4047.29,"everything 's fixed ,",Secondary,1202,0.0,1.0,0.0,0.0,0.026691275,0.34842834,0.6248804,Positive,Neutral
+4047.376,4050.206,get rid tubes hook machine .,Secondary,1203,0.0,1.0,0.0,0.0,0.36561,0.5884777,0.045912318,Neutral,Neutral
+4050.296,4052.796,'re telling remember steps .,Secondary,1204,0.0,1.0,0.0,0.0,0.07881142,0.8037816,0.117406934,Neutral,Neutral
+4052.882,4054.632,'re memorize steps .,Secondary,1205,0.0,1.0,0.0,0.0,0.09292502,0.76305354,0.14402138,Neutral,Neutral
+4054.717,4055.677,'s right .,Secondary,1206,0.0,1.0,0.0,0.0,0.108351,0.5277378,0.36391118,Neutral,Neutral
+4056.177,4058.427,"understand procedure , right ? yes , totally .",Secondary,1207,0.0,0.597,0.403,0.4019,0.033201262,0.5262082,0.44059047,Neutral,Neutral
+4069.857,4070.857,gwanghyeon .,Lee Ik-joon,1208,0.0,1.0,0.0,0.0,0.06569509,0.81882256,0.115482315,Neutral,Neutral
+4071.275,4073.525,"braindead ta patient , yuk huigwan . ?",Lee Ik-joon,1209,0.0,1.0,0.0,0.0,0.51716477,0.46689907,0.015936118,Negative,Neutral
+4073.611,4076.201,"oh , 've finished tests icu .",Secondary,1210,0.0,1.0,0.0,0.0,0.13419716,0.7978457,0.06795712,Neutral,Neutral
+4076.28,4078.45,committee meet soon finalize diagnosis .,Secondary,1211,0.0,1.0,0.0,0.0,0.041730102,0.91351825,0.044751618,Neutral,Neutral
+4078.532,4081.122,"'s ta victim , heard organs good condition .",Secondary,1212,0.21,0.5,0.29,0.2023,0.059593383,0.618698,0.3217086,Neutral,Neutral
+4081.202,4084.792,'re probably negotiating time frame hospital .,Secondary,1213,0.0,1.0,0.0,0.0,0.097637355,0.8574728,0.044889905,Neutral,Neutral
+4086.373,4087.543,? know patient ?,Secondary,1214,0.0,1.0,0.0,0.0,0.16467522,0.78673846,0.048586335,Neutral,Neutral
+4087.625,4088.995,patient .,Lee Ik-joon,1215,0.0,1.0,0.0,0.0,0.13096121,0.6733802,0.19565864,Neutral,Neutral
+4089.835,4092.125,totally fine discharged yesterday .,Lee Ik-joon,1216,0.0,0.589,0.411,0.2716,0.0058440254,0.1580389,0.8361171,Positive,Neutral
+4092.213,4094.133,really ? goodness .,Secondary,1217,0.0,0.233,0.767,0.5095,0.48942748,0.43639064,0.074181825,Negative,Positive
+4094.632,4097.092,must 've difficult decision .,Secondary,1218,0.455,0.545,0.0,-0.3612,0.2561598,0.6889528,0.05488738,Neutral,Neutral
+4098.177,4100.097,say proper goodbye .,Secondary,1219,0.0,1.0,0.0,0.0,0.32363427,0.60098517,0.07538057,Neutral,Neutral
+4100.763,4101.813,right .,Lee Ik-joon,1220,0.0,1.0,0.0,0.0,0.14577112,0.5682945,0.28593433,Neutral,Neutral
+4102.389,4103.769,seen family ?,Lee Ik-joon,1221,0.0,1.0,0.0,0.0,0.20074314,0.7388722,0.060384694,Neutral,Neutral
+4103.849,4105.679,", n't know much .",Secondary,1222,0.0,1.0,0.0,0.0,0.2725685,0.6705186,0.0569129,Neutral,Neutral
+4105.768,4106.978,okay .,Secondary,1223,0.0,0.0,1.0,0.2263,0.11996016,0.5391302,0.34090966,Neutral,Positive
+4107.77,4108.9,hello .,Lee Ik-joon,1224,0.0,1.0,0.0,0.0,0.09716277,0.6296369,0.27320033,Neutral,Neutral
+4109.396,4110.556,head home ?,Lee Ik-joon,1225,0.0,1.0,0.0,0.0,0.11008632,0.7762992,0.1136146,Neutral,Neutral
+4110.648,4112.018,", 's need .",Secondary,1226,0.0,1.0,0.0,0.0,0.16974068,0.7130299,0.11722945,Neutral,Neutral
+4112.108,4114.488,emergency medicine worked like magic .,Secondary,1227,0.321,0.37,0.309,-0.0258,0.020207088,0.37032807,0.6094648,Positive,Neutral
+4114.568,4116.488,'s already looking much better .,Secondary,1228,0.0,0.58,0.42,0.4404,0.003341861,0.053759176,0.9428989,Positive,Neutral
+4116.57,4118.16,'s asleep . goodness .,Secondary,1229,0.0,0.4,0.6,0.4588,0.124153845,0.601334,0.27451214,Neutral,Positive
+4118.239,4120.529,"come home , 'll wake .",Secondary,1230,0.0,1.0,0.0,0.0,0.06373952,0.7335755,0.20268501,Neutral,Neutral
+4120.616,4122.156,wo n't good .,Secondary,1231,0.546,0.454,0.0,-0.3412,0.84419477,0.14037265,0.0154326,Negative,Negative
+4122.326,4126.706,"called let know 's okay , n't worry .",Secondary,1232,0.0,0.537,0.463,0.5116,0.011889388,0.3644749,0.6236357,Positive,Neutral
+4126.914,4129.584,"say , could uju 's mom",Secondary,1233,0.0,1.0,0.0,0.0,0.0883108,0.85842234,0.05326681,Neutral,Neutral
+4129.667,4132.457,even know son 's peanut allergy ?,Secondary,1234,0.0,1.0,0.0,0.0,0.31728312,0.6654263,0.01729052,Neutral,Neutral
+4132.545,4133.495,goodness .,Secondary,1235,0.0,0.0,1.0,0.4588,0.024299005,0.32578576,0.6499152,Positive,Positive
+4133.587,4135.127,know restaurant ?,Lee Ik-joon,1236,0.0,1.0,0.0,0.0,0.115626566,0.777365,0.10700838,Neutral,Neutral
+4135.214,4136.674,'ll call .,Lee Ik-joon,1237,0.0,1.0,0.0,0.0,0.10582154,0.6831232,0.21105531,Neutral,Neutral
+4136.757,4139.547,find exactly ate .,Lee Ik-joon,1238,0.0,1.0,0.0,0.0,0.14532423,0.75147384,0.10320196,Neutral,Neutral
+4139.802,4141.052,"okay , hold .",Lee Ik-joon,1239,0.0,0.345,0.655,0.2263,0.13427687,0.6623642,0.2033589,Neutral,Positive
+4146.35,4147.35,yes .,Lee Ik-joon,1240,0.0,0.0,1.0,0.4019,0.10013353,0.4596959,0.44017053,Neutral,Positive
+4151.438,4154.228,"okay , thank . mom .",Lee Ik-joon,1241,0.0,0.185,0.815,0.5267,0.0047860974,0.13859251,0.8566214,Positive,Positive
+4154.65,4157.4,come daddy n't yet ?,Secondary,1242,0.0,1.0,0.0,0.0,0.1780801,0.7717281,0.05019181,Neutral,Neutral
+4159.613,4163.333,'s daddy ? go ?,Secondary,1243,0.0,1.0,0.0,0.0,0.12639248,0.8251359,0.04847165,Neutral,Neutral
+4164.869,4166.909,mom !,Secondary,1244,0.0,1.0,0.0,0.0,0.07754641,0.48601723,0.43643633,Neutral,Neutral
+4169.415,4171.035,mister !,Secondary,1245,0.0,1.0,0.0,0.0,0.114790894,0.6122968,0.27291223,Neutral,Neutral
+4171.584,4174.134,buy jajangmyeon ?,Secondary,1246,0.0,1.0,0.0,0.0,0.06663077,0.8912517,0.042117536,Neutral,Neutral
+4174.211,4176.671,"sure , 'll buy jajangmyeon .",Secondary,1247,0.0,0.566,0.434,0.3182,0.008853286,0.46407712,0.5270696,Positive,Neutral
+4201.488,4203.318,anesthesia duration,Secondary,1248,0.0,1.0,0.0,0.0,0.20840621,0.74842566,0.043168146,Neutral,Neutral
+4205.117,4206.787,'ll stop ventilation .,Kim Jun-wan,1249,0.524,0.476,0.0,-0.296,0.22358254,0.70318145,0.073235944,Neutral,Negative
+4206.869,4208.159,stop ventilation .,Secondary,1250,0.688,0.312,0.0,-0.296,0.45215982,0.501016,0.046824146,Neutral,Negative
+4209.747,4211.077,anesthesiologist .,Kim Jun-wan,1251,0.0,1.0,0.0,0.0,0.20578417,0.7213171,0.07289864,Neutral,Neutral
+4211.165,4213.455,position patient 's head hook ambu bag .,Kim Jun-wan,1252,0.0,1.0,0.0,0.0,0.18543151,0.7673948,0.047173746,Neutral,Neutral
+4214.126,4215.166,?,Secondary,1253,0.0,0.0,0.0,0.0,0.20457315,0.68945074,0.10597605,Neutral,Positive
+4215.336,4217.586,everything could surgery .,Secondary,1254,0.0,1.0,0.0,0.0,0.18791947,0.66047704,0.15160343,Neutral,Neutral
+4217.671,4219.801,", question whether heart beat",Secondary,1255,0.0,1.0,0.0,0.0,0.1764824,0.7828792,0.040638402,Neutral,Neutral
+4219.882,4222.262,without machine .,Secondary,1256,0.0,1.0,0.0,0.0,0.27602547,0.629546,0.09442856,Neutral,Neutral
+4222.343,4223.593,", 's success .",Secondary,1257,0.0,0.213,0.787,0.5719,0.025010314,0.6180922,0.35689753,Neutral,Positive
+4223.677,4225.507,heart n't beating though .,Secondary,1258,0.0,0.547,0.453,0.357,0.35469386,0.5831726,0.062133543,Neutral,Neutral
+4225.596,4226.806,wait .,Secondary,1259,0.0,1.0,0.0,0.0,0.28437892,0.5920371,0.123584,Neutral,Neutral
+4227.806,4229.726,", aorta .",Kim Jun-wan,1260,0.0,1.0,0.0,0.0,0.16036749,0.67318034,0.16645214,Neutral,Neutral
+4236.19,4238.48,"hey , n't look .",Secondary,1261,0.0,1.0,0.0,0.0,0.29215997,0.5969315,0.11090852,Neutral,Neutral
+4238.567,4241.197,looking number top green .,Secondary,1262,0.0,0.392,0.608,0.2732,0.03936223,0.7573186,0.2033192,Neutral,Positive
+4241.654,4245.204,heart rate zero moment . number needs go .,Secondary,1263,0.0,0.822,0.178,0.0772,0.50313205,0.45117402,0.04569397,Negative,Neutral
+4249.703,4250.873,'s going .,Secondary,1264,0.0,1.0,0.0,0.0,0.10955561,0.7266508,0.16379361,Neutral,Neutral
+4280.484,4282.364,"good job , guys . thank .",Kim Jun-wan,1265,0.0,0.27,0.73,0.6597,0.0041521695,0.034022473,0.9618254,Positive,Positive
+4282.444,4283.704,'ll finish .,Secondary,1266,0.0,1.0,0.0,0.0,0.0805359,0.6686181,0.25084597,Neutral,Neutral
+4283.779,4284.949,"course , .",Kim Jun-wan,1267,0.0,1.0,0.0,0.0,0.15544254,0.6534566,0.19110082,Neutral,Neutral
+4290.035,4291.695,guys get surgical gowns ?,Kim Jun-wan,1268,0.0,1.0,0.0,0.0,0.11041901,0.85186267,0.037718263,Neutral,Neutral
+4300.129,4301.509,"hear heartbeat , right ?",Kim Jun-wan,1269,0.0,1.0,0.0,0.0,0.07647314,0.83707774,0.08644912,Neutral,Neutral
+4302.256,4303.086,yes . yes .,Secondary,1270,0.0,0.0,1.0,0.6597,0.020566873,0.22639848,0.75303465,Positive,Positive
+4303.173,4305.093,know better med school students .,Kim Jun-wan,1271,0.0,0.58,0.42,0.4404,0.11409858,0.7008369,0.18506454,Neutral,Neutral
+4305.175,4307.215,'re probably hearing heartbeat .,Kim Jun-wan,1272,0.0,1.0,0.0,0.0,0.08608779,0.81712294,0.09678921,Neutral,Neutral
+4309.096,4310.846,see .,Secondary,1273,0.0,1.0,0.0,0.0,0.20908241,0.6057027,0.18521489,Neutral,Neutral
+4310.931,4313.851,'ll let touch . careful though .,Kim Jun-wan,1274,0.0,0.714,0.286,0.1531,0.05678039,0.82593906,0.117280595,Neutral,Neutral
+4314.685,4317.475,"touching , thank chanhyeong staying alive .",Kim Jun-wan,1275,0.0,0.37,0.63,0.6249,0.002715423,0.092513315,0.9047713,Positive,Positive
+4319.064,4320.074,okay .,Secondary,1276,0.0,0.0,1.0,0.2263,0.11996016,0.5391302,0.34090966,Neutral,Positive
+4329.45,4330.7,'s wrong ?,Secondary,1277,0.756,0.244,0.0,-0.4767,0.4295029,0.52661455,0.043882545,Neutral,Negative
+4333.62,4334.79,'s strong .,Secondary,1278,0.0,0.233,0.767,0.5106,0.018311895,0.35718524,0.6245029,Positive,Positive
+4336.915,4339.125,"heartbeat feels strong , professor .",Secondary,1279,0.0,0.476,0.524,0.5106,0.0027890888,0.12899336,0.8682176,Positive,Positive
+4351.972,4354.272,year 2003,Secondary,1280,0.0,1.0,0.0,0.0,0.19533637,0.6386101,0.16605346,Neutral,Neutral
+4367.112,4368.612,n't heartbeat feel strong ?,Secondary,1281,0.474,0.526,0.0,-0.4023,0.10940507,0.76632226,0.1242727,Neutral,Neutral
+4370.741,4372.081,"'s quite amazing , n't ?",Kim Jun-wan,1282,0.0,0.423,0.577,0.624,0.0109788,0.096670635,0.8923506,Positive,Positive
+4374.87,4376.79,'s size plum .,Kim Jun-wan,1283,0.0,1.0,0.0,0.0,0.05696892,0.7554343,0.18759678,Neutral,Neutral
+4378.582,4381.462,n't know 'd feel strong .,Kim Jun-wan,1284,0.0,0.548,0.452,0.5106,0.29816958,0.6248805,0.076949894,Neutral,Neutral
+4382.002,4384.092,kid 's heart stopped beating .,Secondary,1285,0.62,0.38,0.0,-0.5994,0.45096293,0.47974488,0.06929213,Neutral,Negative
+4384.588,4387.418,"made beat , professor .",Kim Jun-wan,1286,0.0,1.0,0.0,0.0,0.111508586,0.7586296,0.12986177,Neutral,Neutral
+4391.303,4392.353,professor .,Secondary,1287,0.0,1.0,0.0,0.0,0.18769167,0.65964085,0.15266748,Neutral,Neutral
+4396.475,4398.345,'ll choose cardiothoracic surgery .,Kim Jun-wan,1288,0.0,1.0,0.0,0.0,0.1366221,0.80966085,0.05371707,Neutral,Neutral
+4401.021,4404.731,"professor , 'll choose cardiothoracic surgery .",Secondary,1289,0.0,1.0,0.0,0.0,0.07267597,0.8754247,0.051899433,Neutral,Neutral
+4404.817,4406.027,", .",Secondary,1290,0.0,0.0,0.0,0.0,0.23276104,0.57723576,0.19000316,Neutral,Positive
+4407.111,4409.451,'ll apply cardiothoracic surgery well .,Secondary,1291,0.0,0.656,0.344,0.2732,0.028017757,0.81622374,0.15575853,Neutral,Neutral
+4412.074,4414.544,"sure , good choice .",Kim Jun-wan,1292,0.0,0.161,0.839,0.6369,0.012359325,0.18905593,0.79858476,Positive,Positive
+4414.66,4415.7,"good work , guys .",Kim Jun-wan,1293,0.0,0.408,0.592,0.4404,0.0045178425,0.067228794,0.92825335,Positive,Positive
+4415.786,4417.366,"well done , everyone .",Kim Jun-wan,1294,0.0,0.488,0.512,0.2732,0.005387085,0.10647333,0.8881396,Positive,Positive
+4425.254,4427.634,make sign pledge change mind .,Kim Jun-wan,1295,0.0,1.0,0.0,0.0,0.11392233,0.80680287,0.079274714,Neutral,Neutral
+4431.51,4433.97,kim chanhyeong 's guardian .,Secondary,1296,0.0,1.0,0.0,0.0,0.041703068,0.8911893,0.067107625,Neutral,Neutral
+4434.054,4436.354,please come operating unit .,Secondary,1297,0.0,0.566,0.434,0.3182,0.053061184,0.75267535,0.19426344,Neutral,Neutral
+4442.146,4443.976,kim chanhyeong 's guardians ? yes .,Secondary,1298,0.0,0.597,0.403,0.4019,0.007032473,0.5472604,0.44570717,Neutral,Neutral
+4444.064,4445.484,come . thank .,Secondary,1299,0.0,0.286,0.714,0.3612,0.028415214,0.4764651,0.49511963,Positive,Positive
+4456.034,4459.464,"doctor , chanhyeong 's surgery go well ?",Secondary,1300,0.0,0.704,0.296,0.2732,0.006143636,0.58175683,0.41209954,Neutral,Neutral
+4467.087,4470.337,chanhyeong 's surgery went well .,Kim Jun-wan,1301,0.0,0.656,0.344,0.2732,0.0025542597,0.113456346,0.88398933,Positive,Neutral
+4471.049,4473.389,patched ventricular hole .,Kim Jun-wan,1302,0.0,1.0,0.0,0.0,0.19004686,0.7522206,0.05773256,Neutral,Neutral
+4473.469,4475.599,"pulmonary trunk , took longer expected",Kim Jun-wan,1303,0.0,1.0,0.0,0.0,0.32372215,0.61086756,0.065410316,Neutral,Neutral
+4475.679,4477.099,wanted save valve .,Kim Jun-wan,1304,0.0,0.385,0.615,0.4939,0.115,0.7890204,0.09597964,Neutral,Positive
+4477.181,4481.061,"went well , 's closed nicely .",Kim Jun-wan,1305,0.0,0.375,0.625,0.6124,0.003241575,0.07754484,0.9192136,Positive,Positive
+4481.935,4484.855,"surgery went well , please n't worry .",Kim Jun-wan,1306,0.0,0.306,0.694,0.7009,0.0034928652,0.08617595,0.9103312,Positive,Positive
+4484.938,4487.518,'ll move icu half hour .,Kim Jun-wan,1307,0.0,1.0,0.0,0.0,0.042320263,0.86629665,0.091383055,Neutral,Neutral
+4487.608,4488.568,'ll see .,Kim Jun-wan,1308,0.0,1.0,0.0,0.0,0.1368947,0.62486434,0.23824094,Neutral,Neutral
+4491.57,4493.91,"surgery went well , please n't worry .",Kim Jun-wan,1309,0.0,0.306,0.694,0.7009,0.0034928652,0.08617595,0.9103312,Positive,Positive
+4494.656,4497.196,"gosh . thank , doctor !",Secondary,1310,0.0,0.417,0.583,0.4199,0.012691551,0.19819409,0.7891144,Positive,Positive
+4510.38,4511.26,hello ?,Secondary,1311,0.0,1.0,0.0,0.0,0.19381635,0.6660204,0.14016335,Neutral,Neutral
+4511.507,4512.547,"yes , hello .",Lee Ik-joon,1312,0.0,0.27,0.73,0.4019,0.01774741,0.39011362,0.592139,Positive,Positive
+4512.633,4515.513,"well , son lunch restaurant earlier today",Lee Ik-joon,1313,0.0,0.704,0.296,0.2732,0.023856668,0.88536644,0.09077689,Neutral,Neutral
+4515.594,4517.604,allergic reaction .,Lee Ik-joon,1314,0.688,0.312,0.0,-0.296,0.31022197,0.6456335,0.044144507,Neutral,Negative
+4517.679,4519.519,'s allergic peanuts . probably ate .,Lee Ik-joon,1315,0.355,0.645,0.0,-0.296,0.5882015,0.38678566,0.025012834,Negative,Neutral
+4519.598,4521.728,"gosh , 'm sorry . okay ?",Secondary,1316,0.25,0.385,0.365,0.1531,0.41831887,0.51928884,0.062392265,Neutral,Neutral
+4521.808,4523.138,"yes , 's okay .",Lee Ik-joon,1317,0.0,0.179,0.821,0.5574,0.009367918,0.19646764,0.7941644,Positive,Positive
+4523.227,4525.187,'d like find exactly ate .,Lee Ik-joon,1318,0.0,0.615,0.385,0.3612,0.059067417,0.8544215,0.086511,Neutral,Neutral
+4525.27,4526.15,'s five years old .,Lee Ik-joon,1319,0.0,1.0,0.0,0.0,0.10801199,0.81536525,0.07662277,Neutral,Neutral
+4526.23,4527.94,think ate mom .,Lee Ik-joon,1320,0.0,1.0,0.0,0.0,0.17999989,0.7405571,0.07944299,Neutral,Neutral
+4528.023,4529.073,remember .,Secondary,1321,0.0,1.0,0.0,0.0,0.18649702,0.6656985,0.14780453,Neutral,Neutral
+4529.149,4531.149,took order .,Secondary,1322,0.0,1.0,0.0,0.0,0.13019875,0.78897506,0.08082618,Neutral,Neutral
+4531.485,4532.565,"moment , please .",Secondary,1323,0.0,0.303,0.697,0.3182,0.055641834,0.6760142,0.26834399,Neutral,Positive
+4532.903,4537.993,"oh , right . sir , salad took go dinner .",Lee Ik-joon,1324,0.0,1.0,0.0,0.0,0.06072543,0.8249884,0.11428619,Neutral,Neutral
+4538.075,4540.825,probably peanut dressing .,Lee Ik-joon,1325,0.0,1.0,0.0,0.0,0.10649922,0.8215653,0.07193549,Neutral,Neutral
+4541.245,4542.615,get ...,Secondary,1326,0.0,1.0,0.0,0.0,0.15246673,0.7113363,0.13619699,Neutral,Neutral
+4544.998,4546.328,"right , .",Lee Ik-joon,1327,0.0,1.0,0.0,0.0,0.15245236,0.61800784,0.22953975,Neutral,Neutral
+4546.416,4548.996,"yes , , sir .",Secondary,1328,0.0,0.27,0.73,0.4019,0.059312634,0.5684955,0.37219188,Neutral,Positive
+4549.503,4553.423,remember wife looked lovely together .,Secondary,1329,0.0,0.513,0.487,0.5859,0.0034721494,0.0419038,0.95462406,Positive,Neutral
+4553.507,4555.217,kid cute .,Secondary,1330,0.0,0.25,0.75,0.4588,0.009726536,0.13150167,0.85877174,Positive,Positive
+4556.593,4561.313,'m pretty sure asked let know food allergies .,Secondary,1331,0.0,0.522,0.478,0.6705,0.22848855,0.7091533,0.062358078,Neutral,Neutral
+4561.932,4564.522,apologize . guess n't communicate properly .,Secondary,1332,0.0,0.741,0.259,0.1027,0.6593774,0.3161157,0.024506904,Negative,Neutral
+4577.99,4579.58,hello ? professor .,Lee Ik-joon,1333,0.0,1.0,0.0,0.0,0.19215132,0.7345379,0.073310815,Neutral,Neutral
+4579.658,4581.658,"ham deokju , transplant coordinator .",Secondary,1334,0.0,1.0,0.0,0.0,0.051734563,0.883424,0.06484147,Neutral,Neutral
+4581.743,4584.293,"chairman coming airport due conference ,",Secondary,1335,0.0,1.0,0.0,0.0,0.04076459,0.8829201,0.076315254,Neutral,Neutral
+4584.371,4587.291,committee meeting held 10 p.m .,Secondary,1336,0.0,1.0,0.0,0.0,0.030315503,0.9041302,0.065554276,Neutral,Neutral
+4587.374,4588.214,okay .,Lee Ik-joon,1337,0.0,0.0,1.0,0.2263,0.11996016,0.5391302,0.34090966,Neutral,Positive
+4588.292,4591.592,want arrange time see soon meeting .,Secondary,1338,0.0,0.794,0.206,0.0772,0.014850011,0.75086707,0.23428291,Neutral,Neutral
+4591.67,4594.34,'ve already let hospital know .,Secondary,1339,0.0,1.0,0.0,0.0,0.13195069,0.7454094,0.12263989,Neutral,Neutral
+4594.423,4596.473,'ll call 're ready .,Secondary,1340,0.0,0.545,0.455,0.3612,0.065610655,0.71671534,0.21767397,Neutral,Neutral
+4596.55,4597.55,okay .,Lee Ik-joon,1341,0.0,0.0,1.0,0.2263,0.11996016,0.5391302,0.34090966,Neutral,Positive
+4602.264,4603.274,'s ?,Secondary,1342,0.0,1.0,0.0,0.0,0.19506396,0.6537234,0.15121262,Neutral,Neutral
+4605.851,4608.101,"'s taking longer expected ,",Secondary,1343,0.0,1.0,0.0,0.0,0.38852662,0.54930973,0.062163603,Neutral,Neutral
+4608.478,4610.018,'ll soon .,Secondary,1344,0.0,1.0,0.0,0.0,0.05211037,0.7379071,0.20998254,Neutral,Neutral
+4611.273,4613.573,wait waiting area .,Secondary,1345,0.0,1.0,0.0,0.0,0.27657863,0.66411805,0.059303306,Neutral,Neutral
+4614.318,4615.278,let 's go .,Secondary,1346,0.0,1.0,0.0,0.0,0.056183133,0.57540137,0.36841553,Neutral,Neutral
+4616.111,4620.411,family waiting room,Secondary,1347,0.0,1.0,0.0,0.0,0.19709326,0.75869375,0.04421302,Neutral,Neutral
+4620.741,4622.161,thank .,Secondary,1348,0.0,0.0,1.0,0.3612,0.04915872,0.6146238,0.3362175,Neutral,Positive
+4625.203,4627.663,'s happening next ?,Secondary,1349,0.0,1.0,0.0,0.0,0.08286106,0.85138685,0.06575207,Neutral,Neutral
+4627.748,4629.168,"'d like ,",Secondary,1350,0.0,0.286,0.714,0.3612,0.05466254,0.7244425,0.22089495,Neutral,Positive
+4629.499,4632.839,'ll arrange time see surgery begins .,Secondary,1351,0.0,1.0,0.0,0.0,0.081248455,0.8699037,0.048847824,Neutral,Neutral
+4633.503,4635.423,"'s ,",Secondary,1352,0.0,1.0,0.0,0.0,0.20297287,0.58032227,0.21670489,Neutral,Neutral
+4635.505,4638.425,doctors check condition organs,Secondary,1353,0.0,1.0,0.0,0.0,0.16497652,0.79402095,0.041002467,Neutral,Neutral
+4638.508,4640.468,conduct biopsies .,Secondary,1354,0.0,1.0,0.0,0.0,0.31657463,0.61462605,0.068799265,Neutral,Neutral
+4640.552,4642.602,"everything looks good ,",Secondary,1355,0.0,0.408,0.592,0.4404,0.0027985964,0.03551532,0.9616861,Positive,Positive
+4642.679,4645.679,'ll start preparing right away organ donation .,Secondary,1356,0.0,1.0,0.0,0.0,0.09395991,0.8066054,0.09943469,Neutral,Neutral
+4646.808,4649.438,"process usually carried fellows ,",Secondary,1357,0.0,1.0,0.0,0.0,0.12068936,0.78142947,0.09788123,Neutral,Neutral
+4649.519,4653.519,professor lee ikjun oversee entire process .,Secondary,1358,0.0,1.0,0.0,0.0,0.06565137,0.8851884,0.04916025,Neutral,Neutral
+4654.191,4657.611,'s even concerned surgical wound .,Secondary,1359,0.0,1.0,0.0,0.0,0.27545616,0.6889164,0.035627495,Neutral,Neutral
+4660.405,4661.315,hello ?,Secondary,1360,0.0,1.0,0.0,0.0,0.19381635,0.6660204,0.14016335,Neutral,Neutral
+4661.823,4663.453,okay .,Secondary,1361,0.0,0.0,1.0,0.2263,0.11996016,0.5391302,0.34090966,Neutral,Positive
+4665.452,4667.952,committee meeting ended .,Secondary,1362,0.0,1.0,0.0,0.0,0.23186728,0.7017652,0.06636753,Neutral,Neutral
+4668.997,4671.247,"'ll get ready , .",Secondary,1363,0.0,0.444,0.556,0.3612,0.063273944,0.6844407,0.2522854,Neutral,Positive
+4681.385,4683.385,? said 'd right away .,Secondary,1364,0.0,1.0,0.0,0.0,0.09973057,0.78497344,0.11529598,Neutral,Neutral
+4683.47,4684.47,'m almost .,Secondary,1365,0.0,1.0,0.0,0.0,0.11769551,0.68399626,0.19830829,Neutral,Neutral
+4684.554,4685.764,okay .,Secondary,1366,0.0,0.0,1.0,0.2263,0.11996016,0.5391302,0.34090966,Neutral,Positive
+4686.515,4688.135,bad day something ?,Secondary,1367,0.636,0.364,0.0,-0.5423,0.68343514,0.30231375,0.014251117,Negative,Negative
+4689.518,4691.348,kangwoon university medical center ?,Secondary,1368,0.0,1.0,0.0,0.0,0.07491389,0.8944202,0.030665854,Neutral,Neutral
+4691.436,4692.396,yes .,Secondary,1369,0.0,0.0,1.0,0.4019,0.10013353,0.4596959,0.44017053,Neutral,Positive
+4692.479,4694.609,"speak family , 're running behind .",Secondary,1370,0.0,1.0,0.0,0.0,0.4601475,0.4997455,0.04010694,Neutral,Neutral
+4694.69,4696.15,'m sorry . enough time ?,Secondary,1371,0.302,0.698,0.0,-0.0772,0.63720703,0.32785457,0.03493843,Negative,Neutral
+4696.233,4698.493,donor 's vitals good .,Secondary,1372,0.0,0.286,0.714,0.6124,0.005870695,0.1683985,0.82573086,Positive,Positive
+4699.111,4700.571,"yes , 're early .",Secondary,1373,0.0,0.426,0.574,0.4019,0.036309026,0.53621435,0.42747664,Neutral,Positive
+4701.154,4702.534,"'s urgent , 's fine .",Secondary,1374,0.0,0.357,0.643,0.3818,0.021354292,0.37153172,0.60711396,Positive,Positive
+4709.913,4711.043,'ll get started .,Lee Ik-joon,1375,0.0,1.0,0.0,0.0,0.045807242,0.69280124,0.26139155,Neutral,Neutral
+4711.123,4712.173,okay . right .,Secondary,1376,0.0,0.345,0.655,0.2263,0.062606335,0.5382552,0.39913845,Neutral,Positive
+4724.678,4726.178,patient stable ?,Secondary,1377,0.0,0.312,0.688,0.296,0.06609101,0.8177379,0.11617111,Neutral,Positive
+4726.471,4727.851,"yes , everything looks good .",Lee Ik-joon,1378,0.0,0.263,0.737,0.6808,0.0024095017,0.034653384,0.96293706,Positive,Positive
+4740.485,4743.695,"professor lee , everything 's ready .",Secondary,1379,0.0,0.615,0.385,0.3612,0.010026721,0.5408563,0.449117,Neutral,Neutral
+4748.785,4751.705,"kangwoon university medical center ? yes , professor .",Lee Ik-joon,1380,0.0,0.649,0.351,0.4019,0.008845366,0.6424913,0.34866336,Neutral,Neutral
+4754.082,4756.962,"well , ask favor ?",Lee Ik-joon,1381,0.0,0.172,0.828,0.5859,0.124223016,0.8131998,0.06257712,Neutral,Positive
+4757.878,4758.708,sure .,Secondary,1382,0.0,0.0,1.0,0.3182,0.16858904,0.53195983,0.29945108,Neutral,Positive
+4758.795,4762.045,could postpone heart removal ten minutes ?,Lee Ik-joon,1383,0.275,0.725,0.0,-0.2263,0.21130149,0.7538026,0.034895852,Neutral,Neutral
+4764.801,4767.851,call hospital find 's okay .,Lee Ik-joon,1384,0.0,0.678,0.322,0.2263,0.019552525,0.4714744,0.50897306,Positive,Neutral
+4767.929,4770.219,"'s urgent , get started right away .",Lee Ik-joon,1385,0.0,0.735,0.265,0.2023,0.05286738,0.57558227,0.37155032,Neutral,Neutral
+4771.85,4774.81,ten minutes okay . got early .,Secondary,1386,0.0,0.678,0.322,0.2263,0.007599306,0.27226967,0.72013104,Positive,Neutral
+4774.895,4778.315,"okay . 's 11:50 p.m. ,",Lee Ik-joon,1387,0.0,0.612,0.388,0.2263,0.019603398,0.8447852,0.13561144,Neutral,Neutral
+4778.398,4781.108,'ll start ten minutes . okay .,Lee Ik-joon,1388,0.0,0.678,0.322,0.2263,0.013204765,0.72021353,0.2665817,Neutral,Neutral
+4781.193,4783.403,'ll begin midnight silent prayer .,Lee Ik-joon,1389,0.0,1.0,0.0,0.0,0.020720834,0.90622824,0.073050916,Neutral,Neutral
+4783.487,4785.157,got . wait .,Secondary,1390,0.0,1.0,0.0,0.0,0.2980066,0.6176829,0.08431053,Neutral,Neutral
+4785.238,4788.408,ca n't ?,Secondary,1391,0.0,1.0,0.0,0.0,0.19324702,0.6983711,0.10838186,Neutral,Neutral
+4788.492,4790.952,'ve pulled two allnighters row .,Secondary,1392,0.0,1.0,0.0,0.0,0.2602344,0.67884374,0.06092188,Neutral,Neutral
+4791.036,4793.996,"today children 's day , know .",Secondary,1393,0.0,1.0,0.0,0.0,0.13622694,0.75512576,0.10864732,Neutral,Neutral
+4794.623,4795.463,pardon ?,Secondary,1394,0.0,0.0,1.0,0.3182,0.17560384,0.719121,0.10527518,Neutral,Positive
+4798.668,4800.548,'s today children 's day .,Secondary,1395,0.0,1.0,0.0,0.0,0.10763407,0.69096786,0.2013981,Neutral,Neutral
+4806.384,4809.934,fiveyearold son named wonjun .,Secondary,1396,0.0,1.0,0.0,0.0,0.027829798,0.8723639,0.09980625,Neutral,Neutral
+4810.722,4813.312,"today 's children 's day , supposed ...",Secondary,1397,0.0,1.0,0.0,0.0,0.10001288,0.79685384,0.10313318,Neutral,Neutral
+4816.77,4818.48,jajangmyeon dad .,Secondary,1398,0.0,1.0,0.0,0.0,0.058766805,0.8273794,0.113853775,Neutral,Neutral
+4819.564,4822.614,wonjun ...,Secondary,1399,0.0,1.0,0.0,0.0,0.097612776,0.8173256,0.08506165,Neutral,Neutral
+4823.777,4825.897,"'ll never get , rest life .",Secondary,1400,0.0,1.0,0.0,0.0,0.3593139,0.5091045,0.13158156,Neutral,Neutral
+4852.764,4853.814,let 's wait .,Lee Ik-joon,1401,0.0,1.0,0.0,0.0,0.15513757,0.71382916,0.13103333,Neutral,Neutral
+4854.933,4856.103,ten minutes .,Lee Ik-joon,1402,0.0,1.0,0.0,0.0,0.18076062,0.64818525,0.17105408,Neutral,Neutral
+4856.601,4858.811,"'ll begin ten minutes , okay ?",Lee Ik-joon,1403,0.0,0.678,0.322,0.2263,0.018236946,0.83873105,0.14303197,Neutral,Neutral
+4859.521,4861.231,ca n't son cry,Lee Ik-joon,1404,0.0,0.54,0.46,0.3724,0.25660434,0.6667032,0.0766924,Neutral,Neutral
+4861.314,4864.734,every children 's day thinking late father .,Lee Ik-joon,1405,0.0,1.0,0.0,0.0,0.3132012,0.6289706,0.05782818,Neutral,Neutral
+4865.318,4867.448,"okay , problem .",Secondary,1406,0.587,0.0,0.413,-0.2023,0.3651094,0.5528472,0.08204334,Neutral,Negative
+4867.737,4868.857,"sure , professor .",Secondary,1407,0.0,0.303,0.697,0.3182,0.0977087,0.69773144,0.20455989,Neutral,Positive
+4868.947,4870.817,thank . problem .,Secondary,1408,0.519,0.0,0.481,-0.0516,0.49382713,0.44670114,0.05947176,Negative,Negative
+4893.889,4898.889,late husband decided donate organs help others .,Secondary,1409,0.0,0.69,0.31,0.4019,0.029959043,0.60941494,0.360626,Neutral,Neutral
+4898.977,4900.727,"thankfully , organs good condition ,",Secondary,1410,0.0,0.26,0.74,0.6908,0.0046192263,0.0872918,0.908089,Positive,Positive
+4900.812,4904.982,"'ll donating heart , lungs , kidneys , liver .",Secondary,1411,0.0,1.0,0.0,0.0,0.15395974,0.7671659,0.07887435,Neutral,Neutral
+4906.61,4910.78,"surgery began , 12:05 a.m. may 6 ,",Secondary,1412,0.0,1.0,0.0,0.0,0.032912765,0.916449,0.050638217,Neutral,Neutral
+4912.532,4916.162,means expired .,Secondary,1413,0.0,1.0,0.0,0.0,0.37190825,0.5735604,0.05453133,Neutral,Neutral
+4917.787,4918.957,thank .,Secondary,1414,0.0,0.0,1.0,0.3612,0.04915872,0.6146238,0.3362175,Neutral,Positive
+4951.112,4953.412,"work night shift anyway , came work .",Lee Ik-joon,1415,0.0,1.0,0.0,0.0,0.15560886,0.75182164,0.09256953,Neutral,Neutral
+4954.199,4955.369,"yes , mom .",Lee Ik-joon,1416,0.0,0.27,0.73,0.4019,0.060587052,0.5398299,0.399583,Neutral,Positive
+4955.951,4957.541,'re feeling okay ? health issues ?,Lee Ik-joon,1417,0.0,0.444,0.556,0.4137,0.040637694,0.71381557,0.24554676,Neutral,Positive
+4958.328,4959.448,dad ?,Lee Ik-joon,1418,0.0,1.0,0.0,0.0,0.1983663,0.67876154,0.12287217,Neutral,Neutral
+4961.665,4963.115,right .,Lee Ik-joon,1419,0.0,1.0,0.0,0.0,0.14577112,0.5682945,0.28593433,Neutral,Neutral
+4963.5,4965.79,"'ll buy food , coffee , everything . n't worry .",Lee Ik-joon,1420,0.0,0.714,0.286,0.3412,0.011530229,0.31738335,0.6710864,Positive,Neutral
+4966.044,4969.464,'s like 's see . girl ...,Lee Ik-joon,1421,0.0,0.667,0.333,0.3612,0.08484968,0.81635994,0.098790385,Neutral,Neutral
+4971.132,4973.052,"okay , bye .",Lee Ik-joon,1422,0.0,0.345,0.655,0.2263,0.20532495,0.5803737,0.21430136,Neutral,Positive
+4978.848,4980.098,'s raining lot .,Chae Song-hwa,1423,0.0,1.0,0.0,0.0,0.19280493,0.670658,0.1365371,Neutral,Neutral
+4981.935,4983.645,ca n't go camping weather .,Secondary,1424,0.0,1.0,0.0,0.0,0.36420155,0.570869,0.064929456,Neutral,Neutral
+4985.146,4986.146,wo n't force guys .,Chae Song-hwa,1425,0.0,1.0,0.0,0.0,0.22224985,0.71789145,0.059858702,Neutral,Neutral
+4986.231,4988.731,n't come . whatever want .,Chae Song-hwa,1426,0.289,0.711,0.0,-0.0572,0.2275751,0.6869002,0.08552468,Neutral,Neutral
+4992.737,4994.197,'ll go camping weather ?,Chae Song-hwa,1427,0.0,1.0,0.0,0.0,0.026701214,0.88755566,0.08574311,Neutral,Neutral
+4997.033,4998.873,love going camping rainy day .,Chae Song-hwa,1428,0.153,0.353,0.494,0.5994,0.0045628767,0.038444623,0.9569925,Positive,Positive
+4998.952,5000.662,"anyway , 'm totally fine going alone ,",Chae Song-hwa,1429,0.271,0.479,0.25,-0.044,0.0119353775,0.20670089,0.7813638,Positive,Neutral
+5000.745,5001.825,whatever want .,Chae Song-hwa,1430,0.0,0.435,0.565,0.0772,0.16226323,0.58856314,0.24917363,Neutral,Positive
+5003.79,5006.42,neurosurgery team chat room,Secondary,1431,0.0,1.0,0.0,0.0,0.11502462,0.82784665,0.057128686,Neutral,Neutral
+5006.501,5008.711,'ll bored go alone .,Secondary,1432,0.672,0.328,0.0,-0.4767,0.51164967,0.43566844,0.05268189,Negative,Negative
+5012.048,5016.548,'ll go somewhere really far,Secondary,1433,0.0,1.0,0.0,0.0,0.094727956,0.63065356,0.27461848,Neutral,Neutral
+5016.636,5020.886,'ll travel sun goes,Secondary,1434,0.0,1.0,0.0,0.0,0.01593888,0.8176859,0.16637525,Neutral,Neutral
+5021.933,5024.733,'ll start afresh,Secondary,1435,0.0,1.0,0.0,0.0,0.05642994,0.7304475,0.21312252,Neutral,Neutral
+5025.311,5028.361,,Secondary,1436,0.0,0.0,0.0,0.0,0.25829428,0.45127246,0.2904333,Neutral,Positive
+5045.79,5047.08,"professor , beat .",Secondary,1437,0.0,1.0,0.0,0.0,0.16091664,0.7486894,0.0903939,Neutral,Neutral
+5047.167,5049.127,dr. emergency surgery ?,Kim Jun-wan,1438,0.565,0.435,0.0,-0.3818,0.11792457,0.8535283,0.028547073,Neutral,Negative
+5049.21,5051.13,"yes . looked like tension pneumothorax ,",Secondary,1439,0.242,0.211,0.547,0.4404,0.14205763,0.73710227,0.120840065,Neutral,Positive
+5051.212,5052.462,called right away .,Secondary,1440,0.0,1.0,0.0,0.0,0.12107415,0.6580831,0.22084281,Neutral,Neutral
+5052.547,5053.667,good . area .,Kim Jun-wan,1441,0.0,0.256,0.744,0.4404,0.024299541,0.24542381,0.7302767,Positive,Positive
+5053.757,5055.877,soldier transferred regular hospital ?,Kim Jun-wan,1442,0.0,1.0,0.0,0.0,0.25130734,0.7271236,0.021568978,Neutral,Neutral
+5055.967,5058.427,accident across street broken rib .,Secondary,1443,0.674,0.326,0.0,-0.7351,0.64131474,0.33211526,0.026569983,Negative,Negative
+5058.511,5059.761,external injuries .,Secondary,1444,0.0,1.0,0.0,0.0,0.4375196,0.5235252,0.038955234,Neutral,Neutral
+5059.846,5061.846,'s patient ? .,Kim Jun-wan,1445,0.0,1.0,0.0,0.0,0.1658629,0.7791289,0.055008207,Neutral,Neutral
+5097.675,5099.425,lee iksun,Secondary,1446,0.0,1.0,0.0,0.0,0.15644655,0.70171404,0.14183943,Neutral,Neutral
+5107.811,5108.691,yeoninsan campground,Secondary,1447,0.0,1.0,0.0,0.0,0.06702187,0.8303092,0.10266886,Neutral,Neutral
+5117.695,5120.405,said 's fine . n't come .,Chae Song-hwa,1448,0.0,0.69,0.31,0.2023,0.20256293,0.68920803,0.108229026,Neutral,Neutral
+5122.826,5123.826,?,Chae Song-hwa,1449,0.0,0.0,0.0,0.0,0.20457315,0.68945074,0.10597605,Neutral,Positive
+5124.661,5127.581,? b104 .,Chae Song-hwa,1450,0.0,1.0,0.0,0.0,0.118276395,0.79442924,0.08729433,Neutral,Neutral
+5128.289,5130.289,'s 104 ?,Secondary,1451,0.0,1.0,0.0,0.0,0.13870831,0.7621292,0.09916249,Neutral,Neutral
+5130.375,5131.415,'m !,Chae Song-hwa,1452,0.0,1.0,0.0,0.0,0.0732744,0.4725151,0.45421043,Neutral,Neutral
+5131.751,5133.041,.,Chae Song-hwa,1453,0.0,0.0,0.0,0.0,0.24528693,0.51357335,0.24113972,Neutral,Positive
+5142.345,5144.715,'s ? ?,Chae Song-hwa,1454,0.0,1.0,0.0,0.0,0.20945606,0.67890185,0.11164205,Neutral,Neutral
+5146.141,5148.231,mean ? promised join .,Secondary,1455,0.0,0.175,0.825,0.5719,0.04668103,0.73552346,0.21779549,Neutral,Positive
+5148.309,5149.809,never said could n't come .,Secondary,1456,0.0,1.0,0.0,0.0,0.2249447,0.69593394,0.07912138,Neutral,Neutral
+5150.603,5151.943,"anyway , sit .",Chae Song-hwa,1457,0.0,1.0,0.0,0.0,0.18642582,0.7158722,0.09770201,Neutral,Neutral
+5152.313,5153.903,coffee . okay .,Chae Song-hwa,1458,0.0,0.345,0.655,0.2263,0.019493826,0.5538166,0.42668962,Neutral,Positive
+5163.199,5164.579,'re wearing .,Secondary,1459,0.0,1.0,0.0,0.0,0.082851864,0.81513363,0.102014504,Neutral,Neutral
+5164.659,5165.659,?,Chae Song-hwa,1460,0.0,0.0,0.0,0.0,0.20457315,0.68945074,0.10597605,Neutral,Positive
+5167.12,5168.66,shoes gave .,Secondary,1461,0.0,1.0,0.0,0.0,0.3830589,0.5550182,0.06192292,Neutral,Neutral
+5170.206,5171.206,?,Secondary,1462,0.0,0.0,0.0,0.0,0.20457315,0.68945074,0.10597605,Neutral,Positive
+5174.169,5177.459,"got shoes , professor .",Secondary,1463,0.0,1.0,0.0,0.0,0.19325252,0.71248156,0.09426603,Neutral,Neutral
